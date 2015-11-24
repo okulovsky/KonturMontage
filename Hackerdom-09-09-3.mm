@@ -818,18 +818,16 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": null,
+    "DisplayedRawLocation": "Hackerdom\\09\\09-3",
     "Information": {
       "Episodes": [
         {
           "Dirty": false,
           "Duration": "PT6M43.837S",
           "Guid": "da17f8a5-e4bb-42bd-a601-478d62bb4a5d",
-          "ItemPlaylistId": null,
           "Name": "Стандарт POSIX, Minix",
           "OutputType": 0,
           "PatchModel": null,
-          "PlaylistId": null,
           "YoutubeId": null
         }
       ]
@@ -2637,11 +2635,11 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 469682,
+    "currentPosition": 90313,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": false,
-    "faceVideoIsVisible": true,
+    "desktopVideoIsVisible": true,
+    "faceVideoIsVisible": false,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2
   }
 }
