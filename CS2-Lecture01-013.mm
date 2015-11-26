@@ -1611,7 +1611,7 @@ FileContainer Tuto file Version 1
           "Name": "Дополнительные сведения об инкапсуляции",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "kE5wKgtsnxk"
         }
       ]
     },

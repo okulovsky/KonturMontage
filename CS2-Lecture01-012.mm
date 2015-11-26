@@ -1872,7 +1872,7 @@ FileContainer Tuto file Version 1
           "Name": "Конструкторы",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "ptBO255MX9E"
         },
         {
           "Dirty": false,
@@ -1881,7 +1881,7 @@ FileContainer Tuto file Version 1
           "Name": "Индексаторы",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "CvNAoRY38VM"
         },
         {
           "Dirty": false,
@@ -1890,7 +1890,7 @@ FileContainer Tuto file Version 1
           "Name": "Структуры",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "EaW7w213STw"
         },
         {
           "Dirty": false,
@@ -1899,7 +1899,7 @@ FileContainer Tuto file Version 1
           "Name": "Перегрузка операторов",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "x7j9cSUwtfA"
         }
       ]
     },

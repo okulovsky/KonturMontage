@@ -4464,7 +4464,7 @@ FileContainer Tuto file Version 1
           "Name": "Вводные сведения",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "4yhaQSJqjt4"
         },
         {
           "Dirty": false,
@@ -4473,7 +4473,7 @@ FileContainer Tuto file Version 1
           "Name": "Обзор упражнений",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "xrFHhFWQ3r8"
         },
         {
           "Dirty": false,
@@ -4482,7 +4482,7 @@ FileContainer Tuto file Version 1
           "Name": "Создание класса",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "cCWOc_CtCFA"
         }
       ]
     },
