@@ -1672,7 +1672,7 @@ PublishingModel Tuto file Version 1
       {
         "Data": {
           "Description": "Лекция 9. Linux\r\n\n\n[GUID: ed14c5f4-1061-4c62-9497-67a8ddcb4a9d]",
-          "Id": "TEN070XgoPA",
+          "Id": "GYYqIdgHD6c",
           "Name": "Hackerdom-09-1 Операционные системы"
         },
         "Guid": "ed14c5f4-1061-4c62-9497-67a8ddcb4a9d"

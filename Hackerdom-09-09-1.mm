@@ -1953,7 +1953,7 @@ FileContainer Tuto file Version 1
           "Name": "Операционные системы",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": "TEN070XgoPA"
+          "YoutubeId": "GYYqIdgHD6c"
         }
       ]
     },
