@@ -566,19 +566,17 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": null,
+    "DisplayedRawLocation": "Hackerdom-09-09-9.mm",
     "Information": {
       "Episodes": [
         {
           "Dirty": false,
           "Duration": "PT5M16.596S",
           "Guid": "fbd2a4df-0e0a-4961-ba81-852fb97b4be5",
-          "ItemPlaylistId": null,
           "Name": "Виртуальные машины",
           "OutputType": 0,
           "PatchModel": null,
-          "PlaylistId": null,
-          "YoutubeId": null
+          "YoutubeId": "6_4y__6aOtQ"
         }
       ]
     },

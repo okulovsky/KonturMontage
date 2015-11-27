@@ -881,19 +881,17 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": null,
+    "DisplayedRawLocation": "Hackerdom-09-09-5.mm",
     "Information": {
       "Episodes": [
         {
           "Dirty": false,
           "Duration": "PT9M51.766S",
           "Guid": "dd4267c3-d178-4644-a07d-c30bed4b2d21",
-          "ItemPlaylistId": null,
           "Name": "Unix Way",
           "OutputType": 0,
           "PatchModel": null,
-          "PlaylistId": null,
-          "YoutubeId": null
+          "YoutubeId": "NsBo7NyKhpU"
         }
       ]
     },

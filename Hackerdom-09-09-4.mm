@@ -1907,19 +1907,17 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": null,
+    "DisplayedRawLocation": "Hackerdom-09-09-4.mm",
     "Information": {
       "Episodes": [
         {
           "Dirty": false,
           "Duration": "PT17M47.041S",
           "Guid": "745cd0a2-dee1-4596-ba6e-345edf3dda39",
-          "ItemPlaylistId": null,
           "Name": "История Linux, дистрибутивы",
           "OutputType": 0,
           "PatchModel": null,
-          "PlaylistId": null,
-          "YoutubeId": null
+          "YoutubeId": "6-miVE9hyQk"
         }
       ]
     },

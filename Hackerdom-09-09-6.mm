@@ -1727,19 +1727,17 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": null,
+    "DisplayedRawLocation": "Hackerdom-09-09-6.mm",
     "Information": {
       "Episodes": [
         {
           "Dirty": false,
           "Duration": "PT16M20.057S",
           "Guid": "a0357ffa-f00f-4030-be9c-159633c3568a",
-          "ItemPlaylistId": null,
           "Name": "Загрузка системы",
           "OutputType": 0,
           "PatchModel": null,
-          "PlaylistId": null,
-          "YoutubeId": null
+          "YoutubeId": "NSGfYNl1GYQ"
         }
       ]
     },
