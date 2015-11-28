@@ -1907,7 +1907,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-09-09-4.mm",
+    "DisplayedRawLocation": "Hackerdom\\09\\09-4",
     "Information": {
       "Episodes": [
         {
@@ -1917,7 +1917,7 @@ FileContainer Tuto file Version 1
           "Name": "История Linux, дистрибутивы",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": "6-miVE9hyQk"
+          "YoutubeId": "6Yez_CHvN3w"
         }
       ]
     },

@@ -1727,7 +1727,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-09-09-6.mm",
+    "DisplayedRawLocation": "Hackerdom\\09\\09-6",
     "Information": {
       "Episodes": [
         {
@@ -1737,7 +1737,7 @@ FileContainer Tuto file Version 1
           "Name": "Загрузка системы",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": "NSGfYNl1GYQ"
+          "YoutubeId": "jCOHJfgHMx4"
         }
       ]
     },

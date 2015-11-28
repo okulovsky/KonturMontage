@@ -881,7 +881,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-09-09-5.mm",
+    "DisplayedRawLocation": "Hackerdom\\09\\09-5",
     "Information": {
       "Episodes": [
         {
@@ -891,7 +891,7 @@ FileContainer Tuto file Version 1
           "Name": "Unix Way",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": "NsBo7NyKhpU"
+          "YoutubeId": "Zm0xjc14obQ"
         }
       ]
     },

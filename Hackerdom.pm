@@ -495,7 +495,7 @@ PublishingModel Tuto file Version 1
         "Digits": 2
       }
     ],
-    "UlearnCourseDirectory": "C:\\Users\\user\\Desktop 3\\hackerdom-ulearn\\src\\courses\\Hackerdom\\Hackerdom\\Slides"
+    "UlearnCourseDirectory": "C:\\Users\\Yura\\Desktop\\uLearn-hackerdom\\src\\courses\\Hackerdom\\Hackerdom\\Slides"
   },
   "Videos": [
     {
@@ -1680,7 +1680,7 @@ PublishingModel Tuto file Version 1
       {
         "Data": {
           "Description": "Лекция 9. Linux\r\n\n\n[GUID: 942e5bdf-e8ac-4b71-bd41-6b6907047a9f]",
-          "Id": "5Hf4imBLtw0",
+          "Id": "UFSUPRiSO0I",
           "Name": "Hackerdom-09-2 GNU, FSF"
         },
         "Guid": "942e5bdf-e8ac-4b71-bd41-6b6907047a9f"

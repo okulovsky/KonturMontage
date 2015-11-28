@@ -1466,7 +1466,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-09-09-8.mm",
+    "DisplayedRawLocation": "Hackerdom\\09\\09-8",
     "Information": {
       "Episodes": [
         {
@@ -1476,7 +1476,7 @@ FileContainer Tuto file Version 1
           "Name": "Команды Linux",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": "Q_7eBZCm2Wc"
+          "YoutubeId": "2OV4d9-aXao"
         }
       ]
     },

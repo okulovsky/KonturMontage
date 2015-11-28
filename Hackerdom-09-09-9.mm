@@ -566,7 +566,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-09-09-9.mm",
+    "DisplayedRawLocation": "Hackerdom\\09\\09-9",
     "Information": {
       "Episodes": [
         {
@@ -576,7 +576,7 @@ FileContainer Tuto file Version 1
           "Name": "Виртуальные машины",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": "6_4y__6aOtQ"
+          "YoutubeId": "Zn7CrWDnqBM"
         }
       ]
     },
