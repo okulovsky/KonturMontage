@@ -553,6 +553,7 @@ PublishingModel Tuto file Version 1
     "Keywords": "",
     "LatexCompiledSlidesSubdirectory": "LatexCompiledSlides",
     "LatexSourceSubdirectory": "Latex",
+    "Location": null,
     "ThumbnailImagePath": "hackerdom-thumb.jpg",
     "TopicLevels": [
       {
