@@ -59,6 +59,12 @@ PublishingModel Tuto file Version 1
           "Guid": "849fbc71-e696-4cf1-884e-4ff7e6a01e43",
           "Items": [],
           "PlaylistId": "[Enter PlaylistIdHere]"
+        },
+        {
+          "Caption": "Низкоуровневое программирование",
+          "Guid": "04d21704-1083-411c-b180-0bac0ffda41c",
+          "Items": [],
+          "PlaylistId": "[Enter PlaylistIdHere]"
         }
       ],
       "PlaylistId": "[Enter PlaylistIdHere]"
@@ -478,6 +484,66 @@ PublishingModel Tuto file Version 1
         "NumberInTopic": 8,
         "TopicGuid": "849fbc71-e696-4cf1-884e-4ff7e6a01e43",
         "VideoGuid": "fbd2a4df-0e0a-4961-ba81-852fb97b4be5"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "e1ab44a2-c4c4-45f5-807b-cbea25dd743d"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "7f2512c2-5df5-44c0-b787-6c439d7a5154"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "552b9070-0243-4655-989f-5f856c189084"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "21f4cf4e-bb28-4778-8e82-9cc57141ac41"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "f27ceaf2-3926-42e3-a862-e04c6771b0cf"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "6db2fb3a-60c2-40d6-a7cc-ddfba2d016b0"
+      },
+      {
+        "NumberInTopic": 6,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "93f658c4-84bd-4312-b8ec-8b0d5945962f"
+      },
+      {
+        "NumberInTopic": 7,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "49856ebe-f862-4272-b041-ad4d688cba99"
+      },
+      {
+        "NumberInTopic": 8,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "45cbad06-e7b0-4c02-b74d-7802b4d09d0e"
+      },
+      {
+        "NumberInTopic": 9,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "0a3ba148-7495-4014-9065-8f59dc43aac1"
+      },
+      {
+        "NumberInTopic": 10,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "e2cfed6d-3ca8-4eac-8c70-766b66fac55e"
+      },
+      {
+        "NumberInTopic": 11,
+        "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
+        "VideoGuid": "e171284d-0962-4e63-b370-8036a3bce1eb"
       }
     ]
   },
@@ -488,7 +554,7 @@ PublishingModel Tuto file Version 1
     "LatexCompiledSlidesSubdirectory": "LatexCompiledSlides",
     "LatexSourceSubdirectory": "Latex",
     "Location": null,
-    "ThumbnailImagePath": "thumb.jpg",
+    "ThumbnailImagePath": "hackerdom-thumb.jpg",
     "TopicLevels": [
       {
         "Caption": "Лекция",
@@ -499,268 +565,166 @@ PublishingModel Tuto file Version 1
   },
   "Videos": [
     {
-      "Duration": "PT5M16.596S",
-      "Guid": "fbd2a4df-0e0a-4961-ba81-852fb97b4be5",
-      "Name": "Виртуальные машины",
-      "OrdinalSuffix": "Input\\09\\09-9-0"
+      "Duration": "PT2M30.722S",
+      "Guid": "2bc58982-19aa-49ef-bae2-8aaa5d13b967",
+      "Name": "Темы курса",
+      "OrdinalSuffix": "Input\\Lecture03-0"
     },
     {
-      "Duration": "PT16M42.666S",
-      "Guid": "199bdd47-8111-427d-8677-00e434745302",
-      "Name": "Команды Linux",
-      "OrdinalSuffix": "Input\\09\\09-8-0"
+      "Duration": "PT13M32.134S",
+      "Guid": "26bd758d-c6f4-4102-839e-a5b68e14b3c2",
+      "Name": "Почему важна компьютерная безопасность",
+      "OrdinalSuffix": "Input\\Lecture03-1"
     },
     {
-      "Duration": "PT12M9.569S",
-      "Guid": "3545dbbb-e990-4401-9892-3bf001bedd6c",
-      "Name": "Пользователи",
-      "OrdinalSuffix": "Input\\09\\09-7-0"
+      "Duration": "PT9M47.888S",
+      "Guid": "55531877-74a0-4624-869f-96f8cd9a2e25",
+      "Name": "Классический CTF",
+      "OrdinalSuffix": "Input\\Lecture03-2"
     },
     {
-      "Duration": "PT16M20.057S",
-      "Guid": "a0357ffa-f00f-4030-be9c-159633c3568a",
-      "Name": "Загрузка системы",
-      "OrdinalSuffix": "Input\\09\\09-6-0"
+      "Duration": "PT4M53.28S",
+      "Guid": "27f42d11-1fec-4139-8c72-d3e4fb15bf4a",
+      "Name": "CTF-jeopardy",
+      "OrdinalSuffix": "Input\\Lecture03-3"
     },
     {
-      "Duration": "PT9M51.766S",
-      "Guid": "dd4267c3-d178-4644-a07d-c30bed4b2d21",
-      "Name": "Unix Way",
-      "OrdinalSuffix": "Input\\09\\09-5-0"
+      "Duration": "PT13M42.362S",
+      "Guid": "952ab6b0-cfe3-40fa-ba7e-0509326049ce",
+      "Name": "История криптографии",
+      "OrdinalSuffix": "Input\\Lecture01\\01-0"
     },
     {
-      "Duration": "PT17M47.041S",
-      "Guid": "745cd0a2-dee1-4596-ba6e-345edf3dda39",
-      "Name": "История Linux, дистрибутивы",
-      "OrdinalSuffix": "Input\\09\\09-4-0"
+      "Duration": "PT11M2.663S",
+      "Guid": "403f3218-abec-47e2-bcfb-4f302b38128a",
+      "Name": "Алгоритм Диффи-Хеллмана",
+      "OrdinalSuffix": "Input\\Lecture01\\01-1"
     },
     {
-      "Duration": "PT6M43.837S",
-      "Guid": "da17f8a5-e4bb-42bd-a601-478d62bb4a5d",
-      "Name": "Стандарт POSIX, Minix",
-      "OrdinalSuffix": "Input\\09\\09-3-0"
+      "Duration": "PT7M53.324S",
+      "Guid": "e2658eea-0078-4ca4-9e67-66f979b59f17",
+      "Name": "Алгоритм RSA",
+      "OrdinalSuffix": "Input\\Lecture01\\02-0"
     },
     {
-      "Duration": "PT4M37.644S",
-      "Guid": "942e5bdf-e8ac-4b71-bd41-6b6907047a9f",
-      "Name": "GNU, FSF",
-      "OrdinalSuffix": "Input\\09\\09-2-0"
+      "Duration": "PT6M57.516S",
+      "Guid": "1f6d91df-7d89-4b30-9e60-47bef586d6dc",
+      "Name": "Корректность алгоритма RSA",
+      "OrdinalSuffix": "Input\\Lecture01\\02-1"
     },
     {
-      "Duration": "PT18M6.463S",
-      "Guid": "ed14c5f4-1061-4c62-9497-67a8ddcb4a9d",
-      "Name": "Операционные системы",
-      "OrdinalSuffix": "Input\\09\\09-1-0"
+      "Duration": "PT12M26.776S",
+      "Guid": "a7294d8e-4796-4991-b20b-781e855953c8",
+      "Name": "Электронно-цифровая подпись",
+      "OrdinalSuffix": "Input\\Lecture01\\02-2"
     },
     {
-      "Duration": "PT2M56.015S",
-      "Guid": "e34d0b18-fb8c-4039-85a2-5ca392bc66f0",
-      "Name": "Инъекции в командах ОС",
-      "OrdinalSuffix": "Input\\Lecture11\\114-0"
+      "Duration": "PT3M44.707S",
+      "Guid": "85fc6105-12a0-4023-be20-5918da742c76",
+      "Name": "Заключительные положения",
+      "OrdinalSuffix": "Input\\Lecture01\\02-3"
     },
     {
-      "Duration": "PT4M39.54S",
-      "Guid": "1a9b7825-704d-4d1e-bc78-a697386da3dd",
-      "Name": "Инъекции в HTTP-заголовки",
-      "OrdinalSuffix": "Input\\Lecture11\\114-1"
+      "Duration": "PT6M23.718S",
+      "Guid": "248cee8f-1f7f-410a-a09a-93f8935b82ad",
+      "Name": "Хеш-функции",
+      "OrdinalSuffix": "Input\\Lecture04\\41-0"
     },
     {
-      "Duration": "PT2M54.896S",
-      "Guid": "89ab29cb-4715-4a9c-84cd-2131399d394a",
+      "Duration": "PT7M39.134S",
+      "Guid": "dae458e2-78bf-438f-8e69-258491c006f9",
+      "Name": "Применение хеш-функций",
+      "OrdinalSuffix": "Input\\Lecture04\\41-1"
+    },
+    {
+      "Duration": "PT6M13.537S",
+      "Guid": "7a6d1653-7865-490d-8209-8165fe65591b",
+      "Name": "Криптографическая хеш-функция",
+      "OrdinalSuffix": "Input\\Lecture04\\41-2"
+    },
+    {
+      "Duration": "PT7M9.789S",
+      "Guid": "36456d24-9129-4c38-a8ff-25dc62b66069",
+      "Name": "Применение криптографических хеш-функций, часть 1",
+      "OrdinalSuffix": "Input\\Lecture04\\41-3"
+    },
+    {
+      "Duration": "PT6M31.434S",
+      "Guid": "e0e26cd9-0910-4e19-be6c-cea609cc5c88",
+      "Name": "Применение криптостойких хеш-функций, часть 2",
+      "OrdinalSuffix": "Input\\Lecture04\\42-0"
+    },
+    {
+      "Duration": "PT16M11.166S",
+      "Guid": "ca0b5c85-1ccb-4e93-825c-901253802771",
+      "Name": "Архитектура Bitcoin",
+      "OrdinalSuffix": "Input\\Lecture04\\43-0"
+    },
+    {
+      "Duration": "PT11M15.021S",
+      "Guid": "cc2f600c-9af5-486b-91ec-fd9308005f5c",
+      "Name": "Экономика Bitcoin",
+      "OrdinalSuffix": "Input\\Lecture04\\43-1"
+    },
+    {
+      "Duration": "PT7M46.209S",
+      "Guid": "7b4fb17f-9bed-443e-84c6-684ba6e3e416",
+      "Name": "История стеганографии",
+      "OrdinalSuffix": "Input\\Lecture05\\51-0"
+    },
+    {
+      "Duration": "PT2M41.421S",
+      "Guid": "5ccea945-1707-4204-8980-95fad52d7c1e",
+      "Name": "Компьютерная стеганография",
+      "OrdinalSuffix": "Input\\Lecture05\\51-1"
+    },
+    {
+      "Duration": "PT4M8.171S",
+      "Guid": "6697f13b-21f2-462e-9eba-17169fe015cd",
+      "Name": "Текстовая стеганография",
+      "OrdinalSuffix": "Input\\Lecture05\\51-2"
+    },
+    {
+      "Duration": "PT6M11.433S",
+      "Guid": "c1e81612-2e0b-4f79-95cf-21dda0105641",
+      "Name": "Стеганография в изображениях",
+      "OrdinalSuffix": "Input\\Lecture05\\51-3"
+    },
+    {
+      "Duration": "PT1M22.929S",
+      "Guid": "0ac74cc4-9429-4087-bc2f-388f567d62bd",
+      "Name": "А если картинка в JPEG",
+      "OrdinalSuffix": "Input\\Lecture05\\52-0"
+    },
+    {
+      "Duration": "PT5M33.386S",
+      "Guid": "e44c0c68-f260-467b-a262-ad5f59addc7e",
+      "Name": "Стеганография в звуке и видео",
+      "OrdinalSuffix": "Input\\Lecture05\\52-1"
+    },
+    {
+      "Duration": "PT4M29.067S",
+      "Guid": "cb73846d-d46e-4303-89d7-1d08bfffe5ff",
+      "Name": "Стегоанализ",
+      "OrdinalSuffix": "Input\\Lecture05\\53-0"
+    },
+    {
+      "Duration": "PT4M31.958S",
+      "Guid": "5fc8f334-08fc-4d86-a974-26749f7a497f",
+      "Name": "Цифровые водяные знаки",
+      "OrdinalSuffix": "Input\\Lecture05\\53-1"
+    },
+    {
+      "Duration": "PT11M22.425S",
+      "Guid": "c0e30051-4c3a-41f0-961a-65cf7c6dbaf9",
+      "Name": "Практика",
+      "OrdinalSuffix": "Input\\Lecture05\\54-0"
+    },
+    {
+      "Duration": "PT1M16.312S",
+      "Guid": "eda63641-e069-421c-ba43-3ce811ee655a",
       "Name": "Заключение",
-      "OrdinalSuffix": "Input\\Lecture11\\114-2"
-    },
-    {
-      "Duration": "PT5M59.864S",
-      "Guid": "091326fc-02a8-425c-8b80-09a9bed6ce19",
-      "Name": "NoSQL ",
-      "OrdinalSuffix": "Input\\Lecture11\\113-0"
-    },
-    {
-      "Duration": "PT5M26.536S",
-      "Guid": "c8c18fd5-96e2-495d-bff1-97a4d0ab1787",
-      "Name": "CSS",
-      "OrdinalSuffix": "Input\\Lecture11\\113-1"
-    },
-    {
-      "Duration": "PT6M49.944S",
-      "Guid": "43693efe-2d83-4c78-9f42-71a7780a72c2",
-      "Name": "LDAP",
-      "OrdinalSuffix": "Input\\Lecture11\\113-2"
-    },
-    {
-      "Duration": "PT5M23.576S",
-      "Guid": "a8ebb60c-0fce-4d80-b46a-6872c82bfaf0",
-      "Name": "XPath",
-      "OrdinalSuffix": "Input\\Lecture11\\113-3"
-    },
-    {
-      "Duration": "PT5M38.863S",
-      "Guid": "e4c11062-7ed1-42b9-815d-e39a455ccc02",
-      "Name": "Группировка, сортировка и работа с файлами",
-      "OrdinalSuffix": "Input\\Lecture11\\112-0"
-    },
-    {
-      "Duration": "PT2M43.217S",
-      "Guid": "2a37b4c1-4666-4808-b4e3-6cc03be72a2d",
-      "Name": "Экранирование символов",
-      "OrdinalSuffix": "Input\\Lecture11\\112-1"
-    },
-    {
-      "Duration": "PT2M25.083S",
-      "Guid": "8adcc22b-abbe-4a36-8bd6-88c4f953a54a",
-      "Name": "Множественные запросы",
-      "OrdinalSuffix": "Input\\Lecture11\\112-2"
-    },
-    {
-      "Duration": "PT6M8.501S",
-      "Guid": "bbbc041f-10fe-4663-99df-48e568783624",
-      "Name": "Слепые инъекции",
-      "OrdinalSuffix": "Input\\Lecture11\\112-3"
-    },
-    {
-      "Duration": "PT4M28.427S",
-      "Guid": "283ec4e7-203e-42b5-8227-a887e307b51a",
-      "Name": "Инъекции",
-      "OrdinalSuffix": "Input\\Lecture11\\111-0"
-    },
-    {
-      "Duration": "PT9M4.877S",
-      "Guid": "61825d93-82e6-4db5-ae21-6fc9aae4e315",
-      "Name": "SQL-инъекции",
-      "OrdinalSuffix": "Input\\Lecture11\\111-1"
-    },
-    {
-      "Duration": "PT3M44.49S",
-      "Guid": "e9de4b61-ae31-4aee-a860-c6db495e8e2f",
-      "Name": "SQL-инъекции с UNION",
-      "OrdinalSuffix": "Input\\Lecture11\\111-2"
-    },
-    {
-      "Duration": "PT12M20.368S",
-      "Guid": "55ee9893-66a4-4803-befe-116a7996d16a",
-      "Name": "HTML и формы",
-      "OrdinalSuffix": "Input\\Lecture10\\104-0"
-    },
-    {
-      "Duration": "PT10M4.859S",
-      "Guid": "03c0202b-0aeb-4789-be91-04e7a0a2a9b3",
-      "Name": "Атаки на HTML",
-      "OrdinalSuffix": "Input\\Lecture10\\104-1"
-    },
-    {
-      "Duration": "PT6M7.839S",
-      "Guid": "b1504c3e-fb8d-4bf1-85cb-fb85336c7c9e",
-      "Name": "Авторизация и аутентификация",
-      "OrdinalSuffix": "Input\\Lecture10\\103-0"
-    },
-    {
-      "Duration": "PT3M32.786S",
-      "Guid": "b8744320-0270-4d1c-aee3-33375e48e9bd",
-      "Name": "Протокол HTTPS",
-      "OrdinalSuffix": "Input\\Lecture10\\103-1"
-    },
-    {
-      "Duration": "PT5M26.172S",
-      "Guid": "67dc4001-31bb-4192-b7cc-b245bf62bf14",
-      "Name": "Протокол CGI",
-      "OrdinalSuffix": "Input\\Lecture10\\103-2"
-    },
-    {
-      "Duration": "PT18M26.572S",
-      "Guid": "b1f4cccd-cee7-4482-976d-ceb60d326272",
-      "Name": "Заголовки, часть 1",
-      "OrdinalSuffix": "Input\\Lecture10\\102-0"
-    },
-    {
-      "Duration": "PT10M5.426S",
-      "Guid": "aa039f98-fcdf-4c2b-9beb-90aa5c74c8a3",
-      "Name": "Заголовки, часть 2",
-      "OrdinalSuffix": "Input\\Lecture10\\102-1"
-    },
-    {
-      "Duration": "PT6M35.143S",
-      "Guid": "5ad7c7fc-d551-416b-b6c7-f844de0b89c3",
-      "Name": "История HTTP",
-      "OrdinalSuffix": "Input\\Lecture10\\101-0"
-    },
-    {
-      "Duration": "PT8M16.727S",
-      "Guid": "6ee91c90-1e81-44d2-92fd-b679382c0e39",
-      "Name": "Структура HTTP",
-      "OrdinalSuffix": "Input\\Lecture10\\101-1"
-    },
-    {
-      "Duration": "PT4M2.796S",
-      "Guid": "f38982c8-91de-42f6-9e40-86ed752d327d",
-      "Name": "URL",
-      "OrdinalSuffix": "Input\\Lecture10\\101-2"
-    },
-    {
-      "Duration": "PT8M14.432S",
-      "Guid": "062b52e2-c3ef-405e-b116-6172f6d6b387",
-      "Name": "Методы HTTP",
-      "OrdinalSuffix": "Input\\Lecture10\\101-3"
-    },
-    {
-      "Duration": "PT9M16.741S",
-      "Guid": "96416927-9ffa-494f-a649-2c0f7f64950d",
-      "Name": "Протокол FTP",
-      "OrdinalSuffix": "Input\\Lecture08\\84-0"
-    },
-    {
-      "Duration": "PT6M45.835S",
-      "Guid": "bf2f44ce-6b9c-4e3d-aada-12edd5414156",
-      "Name": "Дополнительные подробности о FTP",
-      "OrdinalSuffix": "Input\\Lecture08\\84-1"
-    },
-    {
-      "Duration": "PT14M17.789S",
-      "Guid": "4403acb5-cce5-48c1-90fd-9fd5772bfc33",
-      "Name": "Туннелирование и VPN",
-      "OrdinalSuffix": "Input\\Lecture08\\86-0"
-    },
-    {
-      "Duration": "PT10M38.692S",
-      "Guid": "8406ef3b-4e76-4199-8144-51df8927eabb",
-      "Name": "Протокол SMTP",
-      "OrdinalSuffix": "Input\\Lecture08\\85-0"
-    },
-    {
-      "Duration": "PT13M26.871S",
-      "Guid": "ecb00bac-3f60-4a74-b9ef-25ce54c4cb67",
-      "Name": "Дополнительные подробности о DNS",
-      "OrdinalSuffix": "Input\\Lecture08\\83-0"
-    },
-    {
-      "Duration": "PT8M45.778S",
-      "Guid": "9df2f428-cf35-4a91-9350-b3bf6a635abd",
-      "Name": "Протокол DNS",
-      "OrdinalSuffix": "Input\\Lecture08\\82-0"
-    },
-    {
-      "Duration": "PT9M5.352S",
-      "Guid": "b07a0f80-a40a-4c16-91c2-7ba49bd97449",
-      "Name": "Иерархия NS-серверов",
-      "OrdinalSuffix": "Input\\Lecture08\\82-1"
-    },
-    {
-      "Duration": "PT9M13.033S",
-      "Guid": "634ff379-c533-4722-9b9e-b9d8ca4aa82d",
-      "Name": "Отравления кеша в DNS",
-      "OrdinalSuffix": "Input\\Lecture08\\82-2"
-    },
-    {
-      "Duration": "PT5M8.328S",
-      "Guid": "c916589a-8df8-4173-ac1f-c973370a3dfa",
-      "Name": "Протоколы прикладного уровня",
-      "OrdinalSuffix": "Input\\Lecture08\\81-0"
-    },
-    {
-      "Duration": "PT11M6.932S",
-      "Guid": "23de7b8f-8a5d-493c-82dc-16b72fd4b15d",
-      "Name": "Практика, часть 2",
-      "OrdinalSuffix": "Input\\Lecture06\\06-0"
+      "OrdinalSuffix": "Input\\Lecture05\\55-0"
     },
     {
       "Duration": "PT13M11.541S",
@@ -773,24 +737,6 @@ PublishingModel Tuto file Version 1
       "Guid": "9fd33d4b-d1b3-4cee-a5eb-4e6029dbad78",
       "Name": "Стек TCP IP",
       "OrdinalSuffix": "Input\\Lecture06\\01-1"
-    },
-    {
-      "Duration": "PT4M25.783S",
-      "Guid": "e0c9669f-4a74-46fa-81d6-2a49023512bb",
-      "Name": "Порты",
-      "OrdinalSuffix": "Input\\Lecture06\\05-0"
-    },
-    {
-      "Duration": "PT3M17.725S",
-      "Guid": "3ac1853a-6dec-408e-a9c9-1c1b0688e36e",
-      "Name": "Протокол NAT",
-      "OrdinalSuffix": "Input\\Lecture06\\05-1"
-    },
-    {
-      "Duration": "PT43.026S",
-      "Guid": "9010dd2b-157f-4384-8d12-26ba98433211",
-      "Name": "Практика, часть 1",
-      "OrdinalSuffix": "Input\\Lecture06\\05-2"
     },
     {
       "Duration": "PT3M28.979S",
@@ -835,244 +781,358 @@ PublishingModel Tuto file Version 1
       "OrdinalSuffix": "Input\\Lecture06\\04-0"
     },
     {
-      "Duration": "PT6M31.434S",
-      "Guid": "e0e26cd9-0910-4e19-be6c-cea609cc5c88",
-      "Name": "Применение криптостойких хеш-функций, часть 2",
-      "OrdinalSuffix": "Input\\Lecture04\\42-0"
+      "Duration": "PT4M25.783S",
+      "Guid": "e0c9669f-4a74-46fa-81d6-2a49023512bb",
+      "Name": "Порты",
+      "OrdinalSuffix": "Input\\Lecture06\\05-0"
     },
     {
-      "Duration": "PT6M23.718S",
-      "Guid": "248cee8f-1f7f-410a-a09a-93f8935b82ad",
-      "Name": "Хеш-функции",
-      "OrdinalSuffix": "Input\\Lecture04\\41-0"
+      "Duration": "PT3M17.725S",
+      "Guid": "3ac1853a-6dec-408e-a9c9-1c1b0688e36e",
+      "Name": "Протокол NAT",
+      "OrdinalSuffix": "Input\\Lecture06\\05-1"
     },
     {
-      "Duration": "PT7M39.134S",
-      "Guid": "dae458e2-78bf-438f-8e69-258491c006f9",
-      "Name": "Применение хеш-функций",
-      "OrdinalSuffix": "Input\\Lecture04\\41-1"
+      "Duration": "PT43.026S",
+      "Guid": "9010dd2b-157f-4384-8d12-26ba98433211",
+      "Name": "Практика, часть 1",
+      "OrdinalSuffix": "Input\\Lecture06\\05-2"
     },
     {
-      "Duration": "PT6M13.537S",
-      "Guid": "7a6d1653-7865-490d-8209-8165fe65591b",
-      "Name": "Криптографическая хеш-функция",
-      "OrdinalSuffix": "Input\\Lecture04\\41-2"
+      "Duration": "PT11M6.932S",
+      "Guid": "23de7b8f-8a5d-493c-82dc-16b72fd4b15d",
+      "Name": "Практика, часть 2",
+      "OrdinalSuffix": "Input\\Lecture06\\06-0"
     },
     {
-      "Duration": "PT7M9.789S",
-      "Guid": "36456d24-9129-4c38-a8ff-25dc62b66069",
-      "Name": "Применение криптографических хеш-функций, часть 1",
-      "OrdinalSuffix": "Input\\Lecture04\\41-3"
+      "Duration": "PT5M8.328S",
+      "Guid": "c916589a-8df8-4173-ac1f-c973370a3dfa",
+      "Name": "Протоколы прикладного уровня",
+      "OrdinalSuffix": "Input\\Lecture08\\81-0"
     },
     {
-      "Duration": "PT1M16.312S",
-      "Guid": "eda63641-e069-421c-ba43-3ce811ee655a",
+      "Duration": "PT8M45.778S",
+      "Guid": "9df2f428-cf35-4a91-9350-b3bf6a635abd",
+      "Name": "Протокол DNS",
+      "OrdinalSuffix": "Input\\Lecture08\\82-0"
+    },
+    {
+      "Duration": "PT9M5.352S",
+      "Guid": "b07a0f80-a40a-4c16-91c2-7ba49bd97449",
+      "Name": "Иерархия NS-серверов",
+      "OrdinalSuffix": "Input\\Lecture08\\82-1"
+    },
+    {
+      "Duration": "PT9M13.033S",
+      "Guid": "634ff379-c533-4722-9b9e-b9d8ca4aa82d",
+      "Name": "Отравления кеша в DNS",
+      "OrdinalSuffix": "Input\\Lecture08\\82-2"
+    },
+    {
+      "Duration": "PT13M26.871S",
+      "Guid": "ecb00bac-3f60-4a74-b9ef-25ce54c4cb67",
+      "Name": "Дополнительные подробности о DNS",
+      "OrdinalSuffix": "Input\\Lecture08\\83-0"
+    },
+    {
+      "Duration": "PT9M16.741S",
+      "Guid": "96416927-9ffa-494f-a649-2c0f7f64950d",
+      "Name": "Протокол FTP",
+      "OrdinalSuffix": "Input\\Lecture08\\84-0"
+    },
+    {
+      "Duration": "PT6M45.835S",
+      "Guid": "bf2f44ce-6b9c-4e3d-aada-12edd5414156",
+      "Name": "Дополнительные подробности о FTP",
+      "OrdinalSuffix": "Input\\Lecture08\\84-1"
+    },
+    {
+      "Duration": "PT10M38.692S",
+      "Guid": "8406ef3b-4e76-4199-8144-51df8927eabb",
+      "Name": "Протокол SMTP",
+      "OrdinalSuffix": "Input\\Lecture08\\85-0"
+    },
+    {
+      "Duration": "PT14M17.789S",
+      "Guid": "4403acb5-cce5-48c1-90fd-9fd5772bfc33",
+      "Name": "Туннелирование и VPN",
+      "OrdinalSuffix": "Input\\Lecture08\\86-0"
+    },
+    {
+      "Duration": "PT6M35.143S",
+      "Guid": "5ad7c7fc-d551-416b-b6c7-f844de0b89c3",
+      "Name": "История HTTP",
+      "OrdinalSuffix": "Input\\Lecture10\\101-0"
+    },
+    {
+      "Duration": "PT8M16.727S",
+      "Guid": "6ee91c90-1e81-44d2-92fd-b679382c0e39",
+      "Name": "Структура HTTP",
+      "OrdinalSuffix": "Input\\Lecture10\\101-1"
+    },
+    {
+      "Duration": "PT4M2.796S",
+      "Guid": "f38982c8-91de-42f6-9e40-86ed752d327d",
+      "Name": "URL",
+      "OrdinalSuffix": "Input\\Lecture10\\101-2"
+    },
+    {
+      "Duration": "PT8M14.432S",
+      "Guid": "062b52e2-c3ef-405e-b116-6172f6d6b387",
+      "Name": "Методы HTTP",
+      "OrdinalSuffix": "Input\\Lecture10\\101-3"
+    },
+    {
+      "Duration": "PT18M26.572S",
+      "Guid": "b1f4cccd-cee7-4482-976d-ceb60d326272",
+      "Name": "Заголовки, часть 1",
+      "OrdinalSuffix": "Input\\Lecture10\\102-0"
+    },
+    {
+      "Duration": "PT10M5.426S",
+      "Guid": "aa039f98-fcdf-4c2b-9beb-90aa5c74c8a3",
+      "Name": "Заголовки, часть 2",
+      "OrdinalSuffix": "Input\\Lecture10\\102-1"
+    },
+    {
+      "Duration": "PT6M7.839S",
+      "Guid": "b1504c3e-fb8d-4bf1-85cb-fb85336c7c9e",
+      "Name": "Авторизация и аутентификация",
+      "OrdinalSuffix": "Input\\Lecture10\\103-0"
+    },
+    {
+      "Duration": "PT3M32.786S",
+      "Guid": "b8744320-0270-4d1c-aee3-33375e48e9bd",
+      "Name": "Протокол HTTPS",
+      "OrdinalSuffix": "Input\\Lecture10\\103-1"
+    },
+    {
+      "Duration": "PT5M26.172S",
+      "Guid": "67dc4001-31bb-4192-b7cc-b245bf62bf14",
+      "Name": "Протокол CGI",
+      "OrdinalSuffix": "Input\\Lecture10\\103-2"
+    },
+    {
+      "Duration": "PT12M20.368S",
+      "Guid": "55ee9893-66a4-4803-befe-116a7996d16a",
+      "Name": "HTML и формы",
+      "OrdinalSuffix": "Input\\Lecture10\\104-0"
+    },
+    {
+      "Duration": "PT10M4.859S",
+      "Guid": "03c0202b-0aeb-4789-be91-04e7a0a2a9b3",
+      "Name": "Атаки на HTML",
+      "OrdinalSuffix": "Input\\Lecture10\\104-1"
+    },
+    {
+      "Duration": "PT4M28.427S",
+      "Guid": "283ec4e7-203e-42b5-8227-a887e307b51a",
+      "Name": "Инъекции",
+      "OrdinalSuffix": "Input\\Lecture11\\111-0"
+    },
+    {
+      "Duration": "PT9M4.877S",
+      "Guid": "61825d93-82e6-4db5-ae21-6fc9aae4e315",
+      "Name": "SQL-инъекции",
+      "OrdinalSuffix": "Input\\Lecture11\\111-1"
+    },
+    {
+      "Duration": "PT3M44.49S",
+      "Guid": "e9de4b61-ae31-4aee-a860-c6db495e8e2f",
+      "Name": "SQL-инъекции с UNION",
+      "OrdinalSuffix": "Input\\Lecture11\\111-2"
+    },
+    {
+      "Duration": "PT5M38.863S",
+      "Guid": "e4c11062-7ed1-42b9-815d-e39a455ccc02",
+      "Name": "Группировка, сортировка и работа с файлами",
+      "OrdinalSuffix": "Input\\Lecture11\\112-0"
+    },
+    {
+      "Duration": "PT2M43.217S",
+      "Guid": "2a37b4c1-4666-4808-b4e3-6cc03be72a2d",
+      "Name": "Экранирование символов",
+      "OrdinalSuffix": "Input\\Lecture11\\112-1"
+    },
+    {
+      "Duration": "PT2M25.083S",
+      "Guid": "8adcc22b-abbe-4a36-8bd6-88c4f953a54a",
+      "Name": "Множественные запросы",
+      "OrdinalSuffix": "Input\\Lecture11\\112-2"
+    },
+    {
+      "Duration": "PT6M8.501S",
+      "Guid": "bbbc041f-10fe-4663-99df-48e568783624",
+      "Name": "Слепые инъекции",
+      "OrdinalSuffix": "Input\\Lecture11\\112-3"
+    },
+    {
+      "Duration": "PT5M59.864S",
+      "Guid": "091326fc-02a8-425c-8b80-09a9bed6ce19",
+      "Name": "NoSQL ",
+      "OrdinalSuffix": "Input\\Lecture11\\113-0"
+    },
+    {
+      "Duration": "PT5M26.536S",
+      "Guid": "c8c18fd5-96e2-495d-bff1-97a4d0ab1787",
+      "Name": "CSS",
+      "OrdinalSuffix": "Input\\Lecture11\\113-1"
+    },
+    {
+      "Duration": "PT6M49.944S",
+      "Guid": "43693efe-2d83-4c78-9f42-71a7780a72c2",
+      "Name": "LDAP",
+      "OrdinalSuffix": "Input\\Lecture11\\113-2"
+    },
+    {
+      "Duration": "PT5M23.576S",
+      "Guid": "a8ebb60c-0fce-4d80-b46a-6872c82bfaf0",
+      "Name": "XPath",
+      "OrdinalSuffix": "Input\\Lecture11\\113-3"
+    },
+    {
+      "Duration": "PT2M56.015S",
+      "Guid": "e34d0b18-fb8c-4039-85a2-5ca392bc66f0",
+      "Name": "Инъекции в командах ОС",
+      "OrdinalSuffix": "Input\\Lecture11\\114-0"
+    },
+    {
+      "Duration": "PT4M39.54S",
+      "Guid": "1a9b7825-704d-4d1e-bc78-a697386da3dd",
+      "Name": "Инъекции в HTTP-заголовки",
+      "OrdinalSuffix": "Input\\Lecture11\\114-1"
+    },
+    {
+      "Duration": "PT2M54.896S",
+      "Guid": "89ab29cb-4715-4a9c-84cd-2131399d394a",
       "Name": "Заключение",
-      "OrdinalSuffix": "Input\\Lecture05\\55-0"
+      "OrdinalSuffix": "Input\\Lecture11\\114-2"
     },
     {
-      "Duration": "PT11M22.425S",
-      "Guid": "c0e30051-4c3a-41f0-961a-65cf7c6dbaf9",
-      "Name": "Практика",
-      "OrdinalSuffix": "Input\\Lecture05\\54-0"
+      "Duration": "PT18M6.463S",
+      "Guid": "ed14c5f4-1061-4c62-9497-67a8ddcb4a9d",
+      "Name": "Операционные системы",
+      "OrdinalSuffix": "Input\\09\\09-1-0"
     },
     {
-      "Duration": "PT4M29.067S",
-      "Guid": "cb73846d-d46e-4303-89d7-1d08bfffe5ff",
-      "Name": "Стегоанализ",
-      "OrdinalSuffix": "Input\\Lecture05\\53-0"
+      "Duration": "PT4M37.644S",
+      "Guid": "942e5bdf-e8ac-4b71-bd41-6b6907047a9f",
+      "Name": "GNU, FSF",
+      "OrdinalSuffix": "Input\\09\\09-2-0"
     },
     {
-      "Duration": "PT4M31.958S",
-      "Guid": "5fc8f334-08fc-4d86-a974-26749f7a497f",
-      "Name": "Цифровые водяные знаки",
-      "OrdinalSuffix": "Input\\Lecture05\\53-1"
+      "Duration": "PT6M43.837S",
+      "Guid": "da17f8a5-e4bb-42bd-a601-478d62bb4a5d",
+      "Name": "Стандарт POSIX, Minix",
+      "OrdinalSuffix": "Input\\09\\09-3-0"
     },
     {
-      "Duration": "PT1M22.929S",
-      "Guid": "0ac74cc4-9429-4087-bc2f-388f567d62bd",
-      "Name": "А если картинка в JPEG",
-      "OrdinalSuffix": "Input\\Lecture05\\52-0"
+      "Duration": "PT17M47.041S",
+      "Guid": "745cd0a2-dee1-4596-ba6e-345edf3dda39",
+      "Name": "История Linux, дистрибутивы",
+      "OrdinalSuffix": "Input\\09\\09-4-0"
     },
     {
-      "Duration": "PT5M33.386S",
-      "Guid": "e44c0c68-f260-467b-a262-ad5f59addc7e",
-      "Name": "Стеганография в звуке и видео",
-      "OrdinalSuffix": "Input\\Lecture05\\52-1"
+      "Duration": "PT9M51.766S",
+      "Guid": "dd4267c3-d178-4644-a07d-c30bed4b2d21",
+      "Name": "Unix Way",
+      "OrdinalSuffix": "Input\\09\\09-5-0"
     },
     {
-      "Duration": "PT7M46.209S",
-      "Guid": "7b4fb17f-9bed-443e-84c6-684ba6e3e416",
-      "Name": "История стеганографии",
-      "OrdinalSuffix": "Input\\Lecture05\\51-0"
+      "Duration": "PT16M20.057S",
+      "Guid": "a0357ffa-f00f-4030-be9c-159633c3568a",
+      "Name": "Загрузка системы",
+      "OrdinalSuffix": "Input\\09\\09-6-0"
     },
     {
-      "Duration": "PT2M41.421S",
-      "Guid": "5ccea945-1707-4204-8980-95fad52d7c1e",
-      "Name": "Компьютерная стеганография",
-      "OrdinalSuffix": "Input\\Lecture05\\51-1"
+      "Duration": "PT12M9.569S",
+      "Guid": "3545dbbb-e990-4401-9892-3bf001bedd6c",
+      "Name": "Пользователи",
+      "OrdinalSuffix": "Input\\09\\09-7-0"
     },
     {
-      "Duration": "PT4M8.171S",
-      "Guid": "6697f13b-21f2-462e-9eba-17169fe015cd",
-      "Name": "Текстовая стеганография",
-      "OrdinalSuffix": "Input\\Lecture05\\51-2"
+      "Duration": "PT16M42.666S",
+      "Guid": "199bdd47-8111-427d-8677-00e434745302",
+      "Name": "Команды Linux",
+      "OrdinalSuffix": "Input\\09\\09-8-0"
     },
     {
-      "Duration": "PT6M11.433S",
-      "Guid": "c1e81612-2e0b-4f79-95cf-21dda0105641",
-      "Name": "Стеганография в изображениях",
-      "OrdinalSuffix": "Input\\Lecture05\\51-3"
+      "Duration": "PT5M16.596S",
+      "Guid": "fbd2a4df-0e0a-4961-ba81-852fb97b4be5",
+      "Name": "Виртуальные машины",
+      "OrdinalSuffix": "Input\\09\\09-9-0"
     },
     {
-      "Duration": "PT16M11.166S",
-      "Guid": "ca0b5c85-1ccb-4e93-825c-901253802771",
-      "Name": "Архитектура Bitcoin",
-      "OrdinalSuffix": "Input\\Lecture04\\43-0"
+      "Duration": "PT17M33.221S",
+      "Guid": "e1ab44a2-c4c4-45f5-807b-cbea25dd743d",
+      "Name": "Архитектура компьютера",
+      "OrdinalSuffix": "Hackerdom\\10\\10-01-0"
     },
     {
-      "Duration": "PT11M15.021S",
-      "Guid": "cc2f600c-9af5-486b-91ec-fd9308005f5c",
-      "Name": "Экономика Bitcoin",
-      "OrdinalSuffix": "Input\\Lecture04\\43-1"
+      "Duration": "PT4M26.368S",
+      "Guid": "7f2512c2-5df5-44c0-b787-6c439d7a5154",
+      "Name": "Принцип Фон Неймана",
+      "OrdinalSuffix": "Hackerdom\\10\\10-02-0"
     },
     {
-      "Duration": "PT13M42.362S",
-      "Guid": "952ab6b0-cfe3-40fa-ba7e-0509326049ce",
-      "Name": "История криптографии",
-      "OrdinalSuffix": "Input\\Lecture01\\01-0"
+      "Duration": "PT10M0.127S",
+      "Guid": "552b9070-0243-4655-989f-5f856c189084",
+      "Name": "Регистры процессоров",
+      "OrdinalSuffix": "Hackerdom\\10\\10-03-0"
     },
     {
-      "Duration": "PT11M2.663S",
-      "Guid": "403f3218-abec-47e2-bcfb-4f302b38128a",
-      "Name": "Алгоритм Диффи-Хеллмана",
-      "OrdinalSuffix": "Input\\Lecture01\\01-1"
+      "Duration": "PT6M23.259S",
+      "Guid": "21f4cf4e-bb28-4778-8e82-9cc57141ac41",
+      "Name": "Ассемблер",
+      "OrdinalSuffix": "Hackerdom\\10\\10-04-0"
     },
     {
-      "Duration": "PT1M57.475S",
-      "Guid": "d973d9c8-278d-4fc9-b678-e0804d98f884",
-      "Name": "RSA, начало",
-      "OrdinalSuffix": "Input\\Lecture01\\01-2"
+      "Duration": "PT0S",
+      "Guid": "f27ceaf2-3926-42e3-a862-e04c6771b0cf",
+      "Name": "Команда MOV",
+      "OrdinalSuffix": "Hackerdom\\10\\10-05-0"
     },
     {
-      "Duration": "PT7M53.324S",
-      "Guid": "e2658eea-0078-4ca4-9e67-66f979b59f17",
-      "Name": "Алгоритм RSA",
-      "OrdinalSuffix": "Input\\Lecture01\\02-0"
+      "Duration": "PT0S",
+      "Guid": "6db2fb3a-60c2-40d6-a7cc-ddfba2d016b0",
+      "Name": "Стек",
+      "OrdinalSuffix": "Hackerdom\\10\\10-06-0"
     },
     {
-      "Duration": "PT6M57.516S",
-      "Guid": "1f6d91df-7d89-4b30-9e60-47bef586d6dc",
-      "Name": "Корректность алгоритма RSA",
-      "OrdinalSuffix": "Input\\Lecture01\\02-1"
+      "Duration": "PT0S",
+      "Guid": "93f658c4-84bd-4312-b8ec-8b0d5945962f",
+      "Name": "Арифметические и логические операции",
+      "OrdinalSuffix": "Hackerdom\\10\\10-07-0"
     },
     {
-      "Duration": "PT12M26.776S",
-      "Guid": "a7294d8e-4796-4991-b20b-781e855953c8",
-      "Name": "Электронно-цифровая подпись",
-      "OrdinalSuffix": "Input\\Lecture01\\02-2"
+      "Duration": "PT0S",
+      "Guid": "49856ebe-f862-4272-b041-ad4d688cba99",
+      "Name": "Знаковые числа",
+      "OrdinalSuffix": "Hackerdom\\10\\10-08-0"
     },
     {
-      "Duration": "PT3M44.707S",
-      "Guid": "85fc6105-12a0-4023-be20-5918da742c76",
-      "Name": "Заключительные положения",
-      "OrdinalSuffix": "Input\\Lecture01\\02-3"
+      "Duration": "PT0S",
+      "Guid": "45cbad06-e7b0-4c02-b74d-7802b4d09d0e",
+      "Name": "Безусловный переход",
+      "OrdinalSuffix": "Hackerdom\\10\\10-09-0"
     },
     {
-      "Duration": "PT2M30.722S",
-      "Guid": "2bc58982-19aa-49ef-bae2-8aaa5d13b967",
-      "Name": "Темы курса",
-      "OrdinalSuffix": "Input\\Lecture03-0"
+      "Duration": "PT0S",
+      "Guid": "0a3ba148-7495-4014-9065-8f59dc43aac1",
+      "Name": "Управление выполнением программы",
+      "OrdinalSuffix": "Hackerdom\\10\\10-10-0"
     },
     {
-      "Duration": "PT13M32.134S",
-      "Guid": "26bd758d-c6f4-4102-839e-a5b68e14b3c2",
-      "Name": "Почему важна компьютерная безопасность",
-      "OrdinalSuffix": "Input\\Lecture03-1"
+      "Duration": "PT0S",
+      "Guid": "e2cfed6d-3ca8-4eac-8c70-766b66fac55e",
+      "Name": "Функции",
+      "OrdinalSuffix": "Hackerdom\\10\\10-11-0"
     },
     {
-      "Duration": "PT9M47.888S",
-      "Guid": "55531877-74a0-4624-869f-96f8cd9a2e25",
-      "Name": "Классический CTF",
-      "OrdinalSuffix": "Input\\Lecture03-2"
-    },
-    {
-      "Duration": "PT4M53.28S",
-      "Guid": "27f42d11-1fec-4139-8c72-d3e4fb15bf4a",
-      "Name": "CTF-jeopardy",
-      "OrdinalSuffix": "Input\\Lecture03-3"
-    },
-    {
-      "Duration": "PT1M13.3S",
-      "Guid": "d8008964-52f7-4770-a423-d96914d69b91",
-      "Name": "Это какой-то патч",
-      "OrdinalSuffix": "Input\\Lecture01\\03-0"
-    },
-    {
-      "Duration": "PT6M33.946S",
-      "Guid": "829799a8-4313-4bb2-a790-80efbc33656d",
-      "Name": "Стеганография в изображениях",
-      "OrdinalSuffix": "Input\\Lecture02\\23-0"
-    },
-    {
-      "Duration": "PT3M57.814S",
-      "Guid": "5fcb29c9-2c39-454f-9a74-68e09b971d88",
-      "Name": "Текстовая стеганография",
-      "OrdinalSuffix": "Input\\Lecture02\\22-0"
-    },
-    {
-      "Duration": "PT5M56.527S",
-      "Guid": "939de0ed-3e39-40a7-b5b3-c81b9ea66ce4",
-      "Name": "История стеганографии",
-      "OrdinalSuffix": "Input\\Lecture02\\21-0"
-    },
-    {
-      "Duration": "PT4M2.821S",
-      "Guid": "6d54fcc6-bedb-47e8-b09a-6939af17db5d",
-      "Name": "Маша без шпаргалки",
-      "OrdinalSuffix": "Input\\Probe\\13-0"
-    },
-    {
-      "Duration": "PT6M33.715S",
-      "Guid": "3ba2fc1b-a049-4da3-be46-cce16568d44c",
-      "Name": "Миша без шпаргалки",
-      "OrdinalSuffix": "Input\\Probe\\14-0"
-    },
-    {
-      "Duration": "PT3M51.22S",
-      "Guid": "eef42954-14b8-4c82-899b-5644d78920e1",
-      "Name": "Андрей без шпаргалки",
-      "OrdinalSuffix": "Input\\Probe\\11-0"
-    },
-    {
-      "Duration": "PT4M2.593S",
-      "Guid": "f237da5b-c39f-4fc7-9a64-fc1fca47ab9c",
-      "Name": "Дима без шпаргалки",
-      "OrdinalSuffix": "Input\\Probe\\12-0"
-    },
-    {
-      "Duration": "PT5M36.672S",
-      "Guid": "fc790a3c-a906-4b53-8e82-733173b20712",
-      "Name": "Андрей",
-      "OrdinalSuffix": "Input\\Probe\\03-0"
-    },
-    {
-      "Duration": "PT5M57.879S",
-      "Guid": "7abc76fe-bbda-4078-b4d6-94e54819108d",
-      "Name": "Дима",
-      "OrdinalSuffix": "Input\\Probe\\04-0"
-    },
-    {
-      "Duration": "PT4M39.811S",
-      "Guid": "e40067ea-ed0f-4ed2-82c3-87a624f847a1",
-      "Name": "Мария",
-      "OrdinalSuffix": "Input\\Probe\\01-0"
-    },
-    {
-      "Duration": "PT4M5.767S",
-      "Guid": "11d19a01-366d-4d6f-806d-3e36fbf03c24",
-      "Name": "Миша",
-      "OrdinalSuffix": "Input\\Probe\\02-0"
+      "Duration": "PT0S",
+      "Guid": "e171284d-0962-4e63-b370-8036a3bce1eb",
+      "Name": "Структура исполняемого файла",
+      "OrdinalSuffix": "Hackerdom\\10\\10-12-0"
     }
   ],
   "YoutubeClipData": {
@@ -1688,7 +1748,7 @@ PublishingModel Tuto file Version 1
       {
         "Data": {
           "Description": "Лекция 9. Linux\r\n\n\n[GUID: da17f8a5-e4bb-42bd-a601-478d62bb4a5d]",
-          "Id": "7MufWEokX1o",
+          "Id": "-ZT8Z7yp8nw",
           "Name": "Hackerdom-09-3 Стандарт POSIX, Minix"
         },
         "Guid": "da17f8a5-e4bb-42bd-a601-478d62bb4a5d"
@@ -1696,7 +1756,7 @@ PublishingModel Tuto file Version 1
       {
         "Data": {
           "Description": "Лекция 9. Linux\r\n\n\n[GUID: 745cd0a2-dee1-4596-ba6e-345edf3dda39]",
-          "Id": "6-miVE9hyQk",
+          "Id": "6Yez_CHvN3w",
           "Name": "Hackerdom-09-4 История Linux, дистрибутивы"
         },
         "Guid": "745cd0a2-dee1-4596-ba6e-345edf3dda39"
@@ -1704,7 +1764,7 @@ PublishingModel Tuto file Version 1
       {
         "Data": {
           "Description": "Лекция 9. Linux\r\n\n\n[GUID: dd4267c3-d178-4644-a07d-c30bed4b2d21]",
-          "Id": "NsBo7NyKhpU",
+          "Id": "Zm0xjc14obQ",
           "Name": "Hackerdom-09-5 Unix Way"
         },
         "Guid": "dd4267c3-d178-4644-a07d-c30bed4b2d21"
@@ -1712,7 +1772,7 @@ PublishingModel Tuto file Version 1
       {
         "Data": {
           "Description": "Лекция 9. Linux\r\n\n\n[GUID: a0357ffa-f00f-4030-be9c-159633c3568a]",
-          "Id": "NSGfYNl1GYQ",
+          "Id": "jCOHJfgHMx4",
           "Name": "Hackerdom-09-6 Загрузка системы"
         },
         "Guid": "a0357ffa-f00f-4030-be9c-159633c3568a"
@@ -1720,7 +1780,7 @@ PublishingModel Tuto file Version 1
       {
         "Data": {
           "Description": "Лекция 9. Linux\r\n\n\n[GUID: 3545dbbb-e990-4401-9892-3bf001bedd6c]",
-          "Id": "Y6153iteGiU",
+          "Id": "q7_RNzKL9YM",
           "Name": "Hackerdom-09-7 Пользователи"
         },
         "Guid": "3545dbbb-e990-4401-9892-3bf001bedd6c"
@@ -1728,7 +1788,7 @@ PublishingModel Tuto file Version 1
       {
         "Data": {
           "Description": "Лекция 9. Linux\r\n\n\n[GUID: 199bdd47-8111-427d-8677-00e434745302]",
-          "Id": "Q_7eBZCm2Wc",
+          "Id": "2OV4d9-aXao",
           "Name": "Hackerdom-09-8 Команды Linux"
         },
         "Guid": "199bdd47-8111-427d-8677-00e434745302"
@@ -1736,10 +1796,106 @@ PublishingModel Tuto file Version 1
       {
         "Data": {
           "Description": "Лекция 9. Linux\r\n\n\n[GUID: fbd2a4df-0e0a-4961-ba81-852fb97b4be5]",
-          "Id": "6_4y__6aOtQ",
+          "Id": "Zn7CrWDnqBM",
           "Name": "Hackerdom-09-9 Виртуальные машины"
         },
         "Guid": "fbd2a4df-0e0a-4961-ba81-852fb97b4be5"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: e1ab44a2-c4c4-45f5-807b-cbea25dd743d]",
+          "Id": "0mcNIH6z9vQ",
+          "Name": "Hackerdom-10-1 Архитектура компьютера"
+        },
+        "Guid": "e1ab44a2-c4c4-45f5-807b-cbea25dd743d"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 7f2512c2-5df5-44c0-b787-6c439d7a5154]",
+          "Id": "4B30SevpHvY",
+          "Name": "Hackerdom-10-2 Принцип Фон Неймана"
+        },
+        "Guid": "7f2512c2-5df5-44c0-b787-6c439d7a5154"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 552b9070-0243-4655-989f-5f856c189084]",
+          "Id": "QBA_tMfTop0",
+          "Name": "Hackerdom-10-3 Регистры процессоров"
+        },
+        "Guid": "552b9070-0243-4655-989f-5f856c189084"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 21f4cf4e-bb28-4778-8e82-9cc57141ac41]",
+          "Id": "a5P7ZOZftRU",
+          "Name": "Hackerdom-10-4 Ассемблер"
+        },
+        "Guid": "21f4cf4e-bb28-4778-8e82-9cc57141ac41"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: f27ceaf2-3926-42e3-a862-e04c6771b0cf]",
+          "Id": "yXQ4Q6pS-XM",
+          "Name": "Hackerdom-10-5 Команда MOV"
+        },
+        "Guid": "f27ceaf2-3926-42e3-a862-e04c6771b0cf"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 6db2fb3a-60c2-40d6-a7cc-ddfba2d016b0]",
+          "Id": "LaeDaCqUOuQ",
+          "Name": "Hackerdom-10-6 Стек"
+        },
+        "Guid": "6db2fb3a-60c2-40d6-a7cc-ddfba2d016b0"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 93f658c4-84bd-4312-b8ec-8b0d5945962f]",
+          "Id": "fulaXZPLDw0",
+          "Name": "Hackerdom-10-7 Арифметические и логические операции"
+        },
+        "Guid": "93f658c4-84bd-4312-b8ec-8b0d5945962f"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 49856ebe-f862-4272-b041-ad4d688cba99]",
+          "Id": "0_x7ys_Ckd8",
+          "Name": "Hackerdom-10-8 Знаковые числа"
+        },
+        "Guid": "49856ebe-f862-4272-b041-ad4d688cba99"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 45cbad06-e7b0-4c02-b74d-7802b4d09d0e]",
+          "Id": "H-a9bGdmN1k",
+          "Name": "Hackerdom-10-9 Безусловный переход"
+        },
+        "Guid": "45cbad06-e7b0-4c02-b74d-7802b4d09d0e"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 0a3ba148-7495-4014-9065-8f59dc43aac1]",
+          "Id": "u7yY6X-ZDko",
+          "Name": "Hackerdom-10-10 Управление выполнением программы"
+        },
+        "Guid": "0a3ba148-7495-4014-9065-8f59dc43aac1"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: e2cfed6d-3ca8-4eac-8c70-766b66fac55e]",
+          "Id": "X6Ah1ZCZj-A",
+          "Name": "Hackerdom-10-11 Функции"
+        },
+        "Guid": "e2cfed6d-3ca8-4eac-8c70-766b66fac55e"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: e171284d-0962-4e63-b370-8036a3bce1eb]",
+          "Id": "-gEyUcBo7YQ",
+          "Name": "Hackerdom-10-12 Структура исполняемого файла"
+        },
+        "Guid": "e171284d-0962-4e63-b370-8036a3bce1eb"
       }
     ]
   },
@@ -1807,6 +1963,13 @@ PublishingModel Tuto file Version 1
           "PlaylistTitle": "Hackerdom-09 Linux"
         },
         "Guid": "849fbc71-e696-4cf1-884e-4ff7e6a01e43"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHhx-ml-r6oXuyCsLNUTeyUg",
+          "PlaylistTitle": "Hackerdom-10 Низкоуровневое программирование"
+        },
+        "Guid": "04d21704-1083-411c-b180-0bac0ffda41c"
       }
     ]
   }

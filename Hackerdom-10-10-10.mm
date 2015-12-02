@@ -1251,7 +1251,7 @@ FileContainer Tuto file Version 1
           "Name": "Управление выполнением программы",
           "OutputType": 0,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "u7yY6X-ZDko"
         }
       ]
     },
