@@ -147,7 +147,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 97719
+          "Time": 97869
         },
         {
           "Defined": true,
@@ -237,7 +237,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 205532
+          "Time": 205732
         },
         {
           "Defined": true,
@@ -282,7 +282,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 224626
+          "Time": 224826
         },
         {
           "Defined": true,
@@ -327,7 +327,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 249588
+          "Time": 249738
         },
         {
           "Defined": true,
@@ -458,6 +458,24 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 367937
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 369487
+        },
+        {
+          "Defined": true,
+          "FromStream": [
             true,
             false
           ],
@@ -480,7 +498,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 388024
+          "Time": 388224
         },
         {
           "Defined": true,
@@ -575,8 +593,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 449721
@@ -584,8 +602,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 458961
@@ -606,7 +624,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 466922
+          "Time": 467122
         },
         {
           "Defined": true,
@@ -620,11 +638,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
+            false,
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 484535
+          "Time": 484135
         },
         {
           "Defined": true,
@@ -633,7 +651,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 495379
+          "Time": 492379
         },
         {
           "Defined": true,
@@ -741,7 +759,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 585545
+          "Time": 585745
         },
         {
           "Defined": true,
@@ -840,7 +858,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 630849
+          "Time": 630949
         },
         {
           "Defined": true,
@@ -858,7 +876,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 638840
+          "Time": 639040
         },
         {
           "Defined": true,
@@ -1146,7 +1164,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 853900
+          "Time": 849528
         },
         {
           "Defined": true,
@@ -1155,7 +1173,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 856128
+          "Time": 849528
         },
         {
           "Defined": true,
@@ -1209,16 +1227,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 881276
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 885181
+          "Time": 881476
         },
         {
           "Defined": true,
@@ -1227,7 +1236,16 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 886801
+          "Time": 884201
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 886201
         },
         {
           "Defined": true,
@@ -1245,7 +1263,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 900018
+          "Time": 900218
         },
         {
           "Defined": true,
@@ -1352,7 +1370,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 983434
         },
         {
@@ -1395,7 +1413,7 @@ FileContainer Tuto file Version 1
           "Defined": true,
           "FromStream": [
             false,
-            true
+            false
           ],
           "StartsNewEpisode": false,
           "Time": 1011336
@@ -1412,8 +1430,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            false,
-            true
+            true,
+            false
           ],
           "StartsNewEpisode": false,
           "Time": 1014452
@@ -1457,8 +1475,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 1053744
@@ -1475,17 +1493,17 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 1059614
+          "Time": 1059414
         },
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 1065671
@@ -1493,8 +1511,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 1073293
@@ -1502,8 +1520,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 1076429
@@ -1511,8 +1529,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 1080583
@@ -1592,8 +1610,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 1146304
@@ -1812,7 +1830,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1338953
+          "Time": 1342753
         },
         {
           "Defined": true,
@@ -1835,11 +1853,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 1355601
+          "Time": 1355401
         },
         {
           "Defined": true,
@@ -1848,7 +1866,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 1358694
+          "Time": 1360294
         },
         {
           "Defined": true,
@@ -1938,7 +1956,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1438334
+          "Time": 1438534
         },
         {
           "Defined": true,
@@ -2177,6 +2195,24 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1598244
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1599844
+        },
+        {
+          "Defined": true,
+          "FromStream": [
             true,
             false
           ],
@@ -2208,7 +2244,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1622761
+          "Time": 1622961
         },
         {
           "Defined": true,
@@ -2298,7 +2334,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1678442
+          "Time": 1678242
         },
         {
           "Defined": true,
@@ -2361,7 +2397,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1722477
+          "Time": 1722677
         },
         {
           "Defined": true,
@@ -2474,9 +2510,28 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "LHPS-Lecture15-151",
+    "DisplayedRawLocation": "LHPS\\Lecture15\\151",
     "Information": {
-      "Episodes": []
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT10M31.058S",
+          "Guid": "d287e10c-b0c8-43c3-8195-4d96d25799ae",
+          "Name": "Вред лженауки",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "oUOeOhI76xQ"
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT10M57.718S",
+          "Guid": "5cb4efd7-925f-4185-a88c-167f1e0f6903",
+          "Name": "Схема демаркации",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "ThHAqWA8iUw"
+        }
+      ]
     },
     "PreparedChunks": null,
     "RawVideoHash": "9A-17-D2-F4-6B-CE-61-E7-16-30-74-01-97-A5-51-79",
@@ -2488,7 +2543,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 1801689,
+    "currentPosition": 1796283,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
