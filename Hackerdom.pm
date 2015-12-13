@@ -65,6 +65,12 @@ PublishingModel Tuto file Version 1
           "Guid": "04d21704-1083-411c-b180-0bac0ffda41c",
           "Items": [],
           "PlaylistId": "[Enter PlaylistIdHere]"
+        },
+        {
+          "Caption": "Reverse Engineering",
+          "Guid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
+          "Items": [],
+          "PlaylistId": "[Enter PlaylistIdHere]"
         }
       ],
       "PlaylistId": "[Enter PlaylistIdHere]"
@@ -544,6 +550,41 @@ PublishingModel Tuto file Version 1
         "NumberInTopic": 11,
         "TopicGuid": "04d21704-1083-411c-b180-0bac0ffda41c",
         "VideoGuid": "e171284d-0962-4e63-b370-8036a3bce1eb"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
+        "VideoGuid": "88892f91-997b-4739-a305-ada5ffff7439"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
+        "VideoGuid": "d93e0e1b-95ec-4ee1-8e18-696079347b6c"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
+        "VideoGuid": "6a0773c7-1aa2-44b3-af3e-3f53691a55a7"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
+        "VideoGuid": "a985c48c-020b-4e09-a3f3-5658205ab1a7"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
+        "VideoGuid": "26f3391a-2792-430d-8398-8e7312dfd0fc"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
+        "VideoGuid": "344de5f8-8657-420c-a5a2-e2e648739ab6"
+      },
+      {
+        "NumberInTopic": 6,
+        "TopicGuid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
+        "VideoGuid": "ab9abdef-959a-4d31-b7af-40255df35d50"
       }
     ]
   },
@@ -553,7 +594,6 @@ PublishingModel Tuto file Version 1
     "Keywords": "",
     "LatexCompiledSlidesSubdirectory": "LatexCompiledSlides",
     "LatexSourceSubdirectory": "Latex",
-    "Location": null,
     "ThumbnailImagePath": "hackerdom-thumb.jpg",
     "TopicLevels": [
       {
@@ -1133,6 +1173,48 @@ PublishingModel Tuto file Version 1
       "Guid": "e171284d-0962-4e63-b370-8036a3bce1eb",
       "Name": "Структура исполняемого файла",
       "OrdinalSuffix": "Hackerdom\\10\\10-12-0"
+    },
+    {
+      "Duration": "PT17M0.713S",
+      "Guid": "88892f91-997b-4739-a305-ada5ffff7439",
+      "Name": "Введение в Reverse Engineering",
+      "OrdinalSuffix": "Hackerdom\\11\\11-01-0"
+    },
+    {
+      "Duration": "PT8M52.899S",
+      "Guid": "d93e0e1b-95ec-4ee1-8e18-696079347b6c",
+      "Name": "Форматы исполняемых файлов",
+      "OrdinalSuffix": "Hackerdom\\11\\11-01-1"
+    },
+    {
+      "Duration": "PT17M2.179S",
+      "Guid": "6a0773c7-1aa2-44b3-af3e-3f53691a55a7",
+      "Name": "Как устроен РЕ-файл",
+      "OrdinalSuffix": "Hackerdom\\11\\11-02-0"
+    },
+    {
+      "Duration": "PT20M44.335S",
+      "Guid": "a985c48c-020b-4e09-a3f3-5658205ab1a7",
+      "Name": "Паттерны исполняемого кода",
+      "OrdinalSuffix": "Hackerdom\\11\\11-03-0"
+    },
+    {
+      "Duration": "PT12M18.387S",
+      "Guid": "26f3391a-2792-430d-8398-8e7312dfd0fc",
+      "Name": "Объектно-ориентированное программирование",
+      "OrdinalSuffix": "Hackerdom\\11\\11-04-0"
+    },
+    {
+      "Duration": "PT14M40.642S",
+      "Guid": "344de5f8-8657-420c-a5a2-e2e648739ab6",
+      "Name": "Пакеры",
+      "OrdinalSuffix": "Hackerdom\\11\\11-04-1"
+    },
+    {
+      "Duration": "PT14M20.336S",
+      "Guid": "ab9abdef-959a-4d31-b7af-40255df35d50",
+      "Name": "Антиотладка",
+      "OrdinalSuffix": "Hackerdom\\11\\11-05-0"
     }
   ],
   "YoutubeClipData": {
@@ -1896,6 +1978,62 @@ PublishingModel Tuto file Version 1
           "Name": "Hackerdom-10-12 Структура исполняемого файла"
         },
         "Guid": "e171284d-0962-4e63-b370-8036a3bce1eb"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: 88892f91-997b-4739-a305-ada5ffff7439]",
+          "Id": "X4JjFF3bSr0",
+          "Name": "Hackerdom-11-1 Введение в Reverse Engineering"
+        },
+        "Guid": "88892f91-997b-4739-a305-ada5ffff7439"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: d93e0e1b-95ec-4ee1-8e18-696079347b6c]",
+          "Id": "i4wptvkEwHw",
+          "Name": "Hackerdom-11-2 Форматы исполняемых файлов"
+        },
+        "Guid": "d93e0e1b-95ec-4ee1-8e18-696079347b6c"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: 6a0773c7-1aa2-44b3-af3e-3f53691a55a7]",
+          "Id": "-votu30GtkM",
+          "Name": "Hackerdom-11-3 Как устроен РЕ-файл"
+        },
+        "Guid": "6a0773c7-1aa2-44b3-af3e-3f53691a55a7"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: a985c48c-020b-4e09-a3f3-5658205ab1a7]",
+          "Id": "gD9U0wAdWFs",
+          "Name": "Hackerdom-11-4 Паттерны исполняемого кода"
+        },
+        "Guid": "a985c48c-020b-4e09-a3f3-5658205ab1a7"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: 26f3391a-2792-430d-8398-8e7312dfd0fc]",
+          "Id": "RcrSby2hA78",
+          "Name": "Hackerdom-11-5 Объектно-ориентированное программирование"
+        },
+        "Guid": "26f3391a-2792-430d-8398-8e7312dfd0fc"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: 344de5f8-8657-420c-a5a2-e2e648739ab6]",
+          "Id": "5r0-Yadh944",
+          "Name": "Hackerdom-11-6 Пакеры"
+        },
+        "Guid": "344de5f8-8657-420c-a5a2-e2e648739ab6"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: ab9abdef-959a-4d31-b7af-40255df35d50]",
+          "Id": "GPO_1pTqxhc",
+          "Name": "Hackerdom-11-7 Антиотладка"
+        },
+        "Guid": "ab9abdef-959a-4d31-b7af-40255df35d50"
       }
     ]
   },
@@ -1970,6 +2108,13 @@ PublishingModel Tuto file Version 1
           "PlaylistTitle": "Hackerdom-10 Низкоуровневое программирование"
         },
         "Guid": "04d21704-1083-411c-b180-0bac0ffda41c"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHix3dnJuSO5QqA2xCH22O3Q",
+          "PlaylistTitle": "Hackerdom-11 Reverse Engineering"
+        },
+        "Guid": "174c9b6a-0b31-49d2-8e27-78f0e9826939"
       }
     ]
   }
