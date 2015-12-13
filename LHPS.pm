@@ -675,6 +675,31 @@ PublishingModel Tuto file Version 1
         "NumberInTopic": 9,
         "TopicGuid": "97a77439-7d75-42df-bda2-39770f19bdb8",
         "VideoGuid": "01ee810a-3d76-4ddc-b7a8-d970a1c8e752"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "a846e73a-2f4f-4cff-9887-5a35c36b55c0",
+        "VideoGuid": "d287e10c-b0c8-43c3-8195-4d96d25799ae"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "a846e73a-2f4f-4cff-9887-5a35c36b55c0",
+        "VideoGuid": "5cb4efd7-925f-4185-a88c-167f1e0f6903"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "a846e73a-2f4f-4cff-9887-5a35c36b55c0",
+        "VideoGuid": "cd63f54a-dc53-4c02-a7e3-2756fb443d57"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "a846e73a-2f4f-4cff-9887-5a35c36b55c0",
+        "VideoGuid": "4084b5c9-7da9-4e1a-8914-150695dba737"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "a846e73a-2f4f-4cff-9887-5a35c36b55c0",
+        "VideoGuid": "42930549-ce4c-44bf-a81f-88f5f6af7152"
       }
     ]
   },
@@ -1384,6 +1409,36 @@ PublishingModel Tuto file Version 1
       "Guid": "01ee810a-3d76-4ddc-b7a8-d970a1c8e752",
       "Name": "Издательства тщеславия",
       "OrdinalSuffix": "LHPS\\Lecture14\\143-2"
+    },
+    {
+      "Duration": "PT10M31.058S",
+      "Guid": "d287e10c-b0c8-43c3-8195-4d96d25799ae",
+      "Name": "Вред лженауки",
+      "OrdinalSuffix": "LHPS\\Lecture15\\151-0"
+    },
+    {
+      "Duration": "PT10M57.718S",
+      "Guid": "5cb4efd7-925f-4185-a88c-167f1e0f6903",
+      "Name": "Схема демаркации",
+      "OrdinalSuffix": "LHPS\\Lecture15\\151-1"
+    },
+    {
+      "Duration": "PT16M41.657S",
+      "Guid": "cd63f54a-dc53-4c02-a7e3-2756fb443d57",
+      "Name": "Паранаука и лженаука",
+      "OrdinalSuffix": "LHPS\\Lecture15\\152-0"
+    },
+    {
+      "Duration": "PT15M18.205S",
+      "Guid": "4084b5c9-7da9-4e1a-8914-150695dba737",
+      "Name": "Признаки лженауки",
+      "OrdinalSuffix": "LHPS\\Lecture15\\153-0"
+    },
+    {
+      "Duration": "PT3M55.019S",
+      "Guid": "42930549-ce4c-44bf-a81f-88f5f6af7152",
+      "Name": "Борьба со лженаукой",
+      "OrdinalSuffix": "LHPS\\Lecture15\\153-1"
     }
   ],
   "YoutubeClipData": {
@@ -2315,6 +2370,46 @@ PublishingModel Tuto file Version 1
           "Name": "LHPS-2-4-10 Издательства тщеславия"
         },
         "Guid": "01ee810a-3d76-4ddc-b7a8-d970a1c8e752"
+      },
+      {
+        "Data": {
+          "Description": " 2. Философия науки\r\n 5. Наука и лженаука\r\n\n\n[GUID: d287e10c-b0c8-43c3-8195-4d96d25799ae]",
+          "Id": "oUOeOhI76xQ",
+          "Name": "LHPS-2-5-1 Вред лженауки"
+        },
+        "Guid": "d287e10c-b0c8-43c3-8195-4d96d25799ae"
+      },
+      {
+        "Data": {
+          "Description": " 2. Философия науки\r\n 5. Наука и лженаука\r\n\n\n[GUID: 5cb4efd7-925f-4185-a88c-167f1e0f6903]",
+          "Id": "ThHAqWA8iUw",
+          "Name": "LHPS-2-5-2 Схема демаркации"
+        },
+        "Guid": "5cb4efd7-925f-4185-a88c-167f1e0f6903"
+      },
+      {
+        "Data": {
+          "Description": " 2. Философия науки\r\n 5. Наука и лженаука\r\n\n\n[GUID: cd63f54a-dc53-4c02-a7e3-2756fb443d57]",
+          "Id": "fRBDErJPibI",
+          "Name": "LHPS-2-5-3 Паранаука и лженаука"
+        },
+        "Guid": "cd63f54a-dc53-4c02-a7e3-2756fb443d57"
+      },
+      {
+        "Data": {
+          "Description": " 2. Философия науки\r\n 5. Наука и лженаука\r\n\n\n[GUID: 4084b5c9-7da9-4e1a-8914-150695dba737]",
+          "Id": "VXiEhRQVtsI",
+          "Name": "LHPS-2-5-4 Признаки лженауки"
+        },
+        "Guid": "4084b5c9-7da9-4e1a-8914-150695dba737"
+      },
+      {
+        "Data": {
+          "Description": " 2. Философия науки\r\n 5. Наука и лженаука\r\n\n\n[GUID: 42930549-ce4c-44bf-a81f-88f5f6af7152]",
+          "Id": "fa0PkHySags",
+          "Name": "LHPS-2-5-5 Борьба со лженаукой"
+        },
+        "Guid": "42930549-ce4c-44bf-a81f-88f5f6af7152"
       }
     ]
   },
@@ -2396,6 +2491,13 @@ PublishingModel Tuto file Version 1
           "PlaylistTitle": "LHPS-2-4 Научная этика"
         },
         "Guid": "97a77439-7d75-42df-bda2-39770f19bdb8"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHgE8acOtpKKExbUdcHlekih",
+          "PlaylistTitle": "LHPS-2-5 Наука и лженаука"
+        },
+        "Guid": "a846e73a-2f4f-4cff-9887-5a35c36b55c0"
       }
     ]
   }
