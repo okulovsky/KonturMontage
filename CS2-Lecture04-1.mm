@@ -17,7 +17,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-Lecture04-1",
+    "DisplayedRawLocation": "CS2\\Lecture04\\1",
     "Information": {
       "Episodes": []
     },
@@ -3352,16 +3352,16 @@ FileContainer Tuto file Version 1
       }
     ],
     "SubtitleFixes": [],
-    "SynchronizationShift": 0
+    "SynchronizationShift": 7326
   },
   "Version": 1,
   "WindowState": {
     "currentMode": 0,
-    "currentPosition": 0,
+    "currentPosition": 7327,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": true,
-    "paused": true,
+    "paused": false,
     "speedRatio": 1
   }
 }
