@@ -417,7 +417,16 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 599576
+          "Time": 592145
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 599174
         },
         {
           "Defined": true,
@@ -778,7 +787,7 @@ FileContainer Tuto file Version 1
       "Episodes": [
         {
           "Dirty": false,
-          "Duration": "PT13M24.618S",
+          "Duration": "PT13M17.187S",
           "Guid": "1196f4d3-49ad-4314-bc08-e469e1cc640c",
           "Name": "Запись произвольной памяти",
           "OutputType": 0,
@@ -787,7 +796,43 @@ FileContainer Tuto file Version 1
         }
       ]
     },
-    "PreparedChunks": null,
+    "PreparedChunks": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
     "RawVideoHash": "11-26-44-A5-75-E2-D6-D0-9B-93-7B-E6-C5-7E-97-25",
     "ReadyToEdit": false,
     "SoundIntervals": [
@@ -3953,11 +3998,11 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 0,
-    "currentPosition": 345406,
+    "currentPosition": 611167,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 2
+    "speedRatio": 1
   }
 }
