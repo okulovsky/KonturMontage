@@ -71,6 +71,12 @@ PublishingModel Tuto file Version 1
           "Guid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
           "Items": [],
           "PlaylistId": "[Enter PlaylistIdHere]"
+        },
+        {
+          "Caption": "Бинарные уязвимости",
+          "Guid": "231e07fa-7b76-4c5d-a29c-adaaa0f7699b",
+          "Items": [],
+          "PlaylistId": "[Enter PlaylistIdHere]"
         }
       ],
       "PlaylistId": "[Enter PlaylistIdHere]"
@@ -585,6 +591,41 @@ PublishingModel Tuto file Version 1
         "NumberInTopic": 6,
         "TopicGuid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
         "VideoGuid": "ab9abdef-959a-4d31-b7af-40255df35d50"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "231e07fa-7b76-4c5d-a29c-adaaa0f7699b",
+        "VideoGuid": "4895ff12-8a51-45d1-a32e-956347066598"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "231e07fa-7b76-4c5d-a29c-adaaa0f7699b",
+        "VideoGuid": "612bbc3f-cbb4-4d0b-a2c4-6f571c1416d5"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "231e07fa-7b76-4c5d-a29c-adaaa0f7699b",
+        "VideoGuid": "3bda1c2c-c2a1-4fb0-9146-fccc47daf93b"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "231e07fa-7b76-4c5d-a29c-adaaa0f7699b",
+        "VideoGuid": "8feb1864-c3c8-462b-b226-e1b40f17b3c8"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "231e07fa-7b76-4c5d-a29c-adaaa0f7699b",
+        "VideoGuid": "b21f7904-eeee-4a9e-b1db-def706019959"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "231e07fa-7b76-4c5d-a29c-adaaa0f7699b",
+        "VideoGuid": "4905e6d3-0b7a-426c-8555-0b45f4b5207a"
+      },
+      {
+        "NumberInTopic": 6,
+        "TopicGuid": "231e07fa-7b76-4c5d-a29c-adaaa0f7699b",
+        "VideoGuid": "1196f4d3-49ad-4314-bc08-e469e1cc640c"
       }
     ]
   },
@@ -1215,6 +1256,48 @@ PublishingModel Tuto file Version 1
       "Guid": "ab9abdef-959a-4d31-b7af-40255df35d50",
       "Name": "Антиотладка",
       "OrdinalSuffix": "Hackerdom\\11\\11-05-0"
+    },
+    {
+      "Duration": "PT3M1.787S",
+      "Guid": "4895ff12-8a51-45d1-a32e-956347066598",
+      "Name": "Введение в бинарные уязвимости",
+      "OrdinalSuffix": "Hackerdom\\12\\12-01-0"
+    },
+    {
+      "Duration": "PT0S",
+      "Guid": "612bbc3f-cbb4-4d0b-a2c4-6f571c1416d5",
+      "Name": "Отладчик GDB",
+      "OrdinalSuffix": "Hackerdom\\12\\12-01-1"
+    },
+    {
+      "Duration": "PT15M0.293S",
+      "Guid": "3bda1c2c-c2a1-4fb0-9146-fccc47daf93b",
+      "Name": "Переполнение стека",
+      "OrdinalSuffix": "Hackerdom-12-12-02-0"
+    },
+    {
+      "Duration": "PT11M53.116S",
+      "Guid": "8feb1864-c3c8-462b-b226-e1b40f17b3c8",
+      "Name": "Исполнение кода, шеллкод",
+      "OrdinalSuffix": "Hackerdom\\12\\12-03-0"
+    },
+    {
+      "Duration": "PT7M39.497S",
+      "Guid": "b21f7904-eeee-4a9e-b1db-def706019959",
+      "Name": "OpenSSL Heartbleed",
+      "OrdinalSuffix": "Hackerdom\\12\\12-04-0"
+    },
+    {
+      "Duration": "PT20M19.506S",
+      "Guid": "4905e6d3-0b7a-426c-8555-0b45f4b5207a",
+      "Name": "Уязвимость форматной строки",
+      "OrdinalSuffix": "Hackerdom\\12\\12-05-0"
+    },
+    {
+      "Duration": "PT13M17.187S",
+      "Guid": "1196f4d3-49ad-4314-bc08-e469e1cc640c",
+      "Name": "Запись произвольной памяти",
+      "OrdinalSuffix": "Hackerdom\\12\\12-06-0"
     }
   ],
   "YoutubeClipData": {
@@ -2034,6 +2117,62 @@ PublishingModel Tuto file Version 1
           "Name": "Hackerdom-11-7 Антиотладка"
         },
         "Guid": "ab9abdef-959a-4d31-b7af-40255df35d50"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 4895ff12-8a51-45d1-a32e-956347066598]",
+          "Id": "kZBt15ineJ8",
+          "Name": "Hackerdom-12-1 Введение в бинарные уязвимости"
+        },
+        "Guid": "4895ff12-8a51-45d1-a32e-956347066598"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 612bbc3f-cbb4-4d0b-a2c4-6f571c1416d5]",
+          "Id": "RCD_x--emVE",
+          "Name": "Hackerdom-12-2 Отладчик GDB"
+        },
+        "Guid": "612bbc3f-cbb4-4d0b-a2c4-6f571c1416d5"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 3bda1c2c-c2a1-4fb0-9146-fccc47daf93b]",
+          "Id": "7votHlnZ3PE",
+          "Name": "Hackerdom-12-3 Переполнение стека"
+        },
+        "Guid": "3bda1c2c-c2a1-4fb0-9146-fccc47daf93b"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 8feb1864-c3c8-462b-b226-e1b40f17b3c8]",
+          "Id": "zkAEi9zbB_0",
+          "Name": "Hackerdom-12-4 Исполнение кода, шеллкод"
+        },
+        "Guid": "8feb1864-c3c8-462b-b226-e1b40f17b3c8"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: b21f7904-eeee-4a9e-b1db-def706019959]",
+          "Id": "CcBPDa8IXtg",
+          "Name": "Hackerdom-12-5 OpenSSL Heartbleed"
+        },
+        "Guid": "b21f7904-eeee-4a9e-b1db-def706019959"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 4905e6d3-0b7a-426c-8555-0b45f4b5207a]",
+          "Id": "Q5rUgkXrzyQ",
+          "Name": "Hackerdom-12-6 Уязвимость форматной строки"
+        },
+        "Guid": "4905e6d3-0b7a-426c-8555-0b45f4b5207a"
+      },
+      {
+        "Data": {
+          "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 1196f4d3-49ad-4314-bc08-e469e1cc640c]",
+          "Id": "RhMjPXHytZQ",
+          "Name": "Hackerdom-12-7 Запись произвольной памяти"
+        },
+        "Guid": "1196f4d3-49ad-4314-bc08-e469e1cc640c"
       }
     ]
   },
@@ -2115,6 +2254,13 @@ PublishingModel Tuto file Version 1
           "PlaylistTitle": "Hackerdom-11 Reverse Engineering"
         },
         "Guid": "174c9b6a-0b31-49d2-8e27-78f0e9826939"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHjDoi8FNb5l0jc7b1nhk_X5",
+          "PlaylistTitle": "Hackerdom-12 Бинарные уязвимости"
+        },
+        "Guid": "231e07fa-7b76-4c5d-a29c-adaaa0f7699b"
       }
     ]
   }
