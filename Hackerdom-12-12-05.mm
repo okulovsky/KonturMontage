@@ -6617,11 +6617,11 @@ FileContainer Tuto file Version 1
   },
   "Version": 1,
   "WindowState": {
-    "currentMode": 1,
-    "currentPosition": 1475267,
+    "currentMode": 0,
+    "currentPosition": 1475388,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
-    "faceVideoIsVisible": false,
+    "faceVideoIsVisible": true,
     "paused": true,
     "speedRatio": 1
   }

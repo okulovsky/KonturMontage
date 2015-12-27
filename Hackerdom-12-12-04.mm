@@ -2612,10 +2612,10 @@ FileContainer Tuto file Version 1
   },
   "Version": 1,
   "WindowState": {
-    "currentMode": 1,
-    "currentPosition": 27917,
+    "currentMode": 0,
+    "currentPosition": 28038,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": false,
+    "desktopVideoIsVisible": true,
     "faceVideoIsVisible": true,
     "paused": true,
     "speedRatio": 1
