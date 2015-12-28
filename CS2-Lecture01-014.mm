@@ -48,7 +48,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 27449
+          "Time": 26649
         },
         {
           "Defined": true,
@@ -66,7 +66,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 30785
+          "Time": 30585
         },
         {
           "Defined": true,
@@ -129,7 +129,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 57124
+          "Time": 56574
         },
         {
           "Defined": true,
@@ -138,7 +138,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 59061
+          "Time": 58661
         },
         {
           "Defined": true,
@@ -201,7 +201,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 87309
+          "Time": 86909
         },
         {
           "Defined": true,
@@ -210,7 +210,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 89748
+          "Time": 89348
         },
         {
           "Defined": true,
@@ -471,7 +471,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 209100
+          "Time": 208700
         },
         {
           "Defined": true,
@@ -480,7 +480,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 213646
+          "Time": 213446
         },
         {
           "Defined": true,
@@ -489,7 +489,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 219455
+          "Time": 219055
         },
         {
           "Defined": true,
@@ -498,7 +498,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 220442
+          "Time": 220242
         },
         {
           "Defined": true,
@@ -912,7 +912,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 433220
+          "Time": 432220
         },
         {
           "Defined": true,
@@ -921,7 +921,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 434456
+          "Time": 434656
         },
         {
           "Defined": true,
@@ -2261,12 +2261,12 @@ FileContainer Tuto file Version 1
   },
   "Version": 1,
   "WindowState": {
-    "currentMode": 0,
-    "currentPosition": 456000,
+    "currentMode": 1,
+    "currentPosition": 454342,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": true,
+    "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
-    "paused": false,
+    "paused": true,
     "speedRatio": 1
   }
 }
