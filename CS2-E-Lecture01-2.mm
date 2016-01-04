@@ -1763,8 +1763,9 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-E\\Lecture01\\2",
+    "DisplayedRawLocation": "CS2-E-Lecture01-2.mm",
     "Information": {
+      "CreationTimeTicks": 635874534340000000,
       "Episodes": [
         {
           "Dirty": false,
@@ -1802,7 +1803,8 @@ FileContainer Tuto file Version 1
           "PatchModel": null,
           "YoutubeId": null
         }
-      ]
+      ],
+      "LastModificationTimeTicks": 635874889090000000
     },
     "PreparedChunks": null,
     "RawVideoHash": "98-7C-73-EB-35-7D-82-1F-CA-1C-41-BB-96-8C-8C-DC",

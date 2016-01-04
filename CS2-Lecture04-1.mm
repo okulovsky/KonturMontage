@@ -611,9 +611,11 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2\\Lecture04\\1",
+    "DisplayedRawLocation": "CS2-Lecture04-1.mm",
     "Information": {
-      "Episodes": []
+      "CreationTimeTicks": 635852883900000000,
+      "Episodes": [],
+      "LastModificationTimeTicks": 635873685630000000
     },
     "PreparedChunks": null,
     "RawVideoHash": "DD-C7-2A-9C-91-E5-4B-2E-A4-99-79-AB-96-27-FA-AF",

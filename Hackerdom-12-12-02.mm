@@ -764,8 +764,9 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-12-12-02",
+    "DisplayedRawLocation": "Hackerdom-12-12-02.mm",
     "Information": {
+      "CreationTimeTicks": 635863130530000000,
       "Episodes": [
         {
           "Dirty": false,
@@ -776,7 +777,8 @@ FileContainer Tuto file Version 1
           "PatchModel": null,
           "YoutubeId": "7votHlnZ3PE"
         }
-      ]
+      ],
+      "LastModificationTimeTicks": 635863758910000000
     },
     "PreparedChunks": null,
     "RawVideoHash": "EA-AA-8C-97-A5-9B-34-68-A9-BB-1E-AC-B4-26-E2-00",
