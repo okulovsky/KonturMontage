@@ -1747,6 +1747,7 @@ FileContainer Tuto file Version 1
     "CrossfadesEnabled": true,
     "DisplayedRawLocation": "LHPS\\Lecture15\\153",
     "Information": {
+      "CreationTimeTicks": 635853087950000000,
       "Episodes": [
         {
           "Dirty": false,
@@ -1766,7 +1767,8 @@ FileContainer Tuto file Version 1
           "PatchModel": null,
           "YoutubeId": "fa0PkHySags"
         }
-      ]
+      ],
+      "LastModificationTimeTicks": 635874685490000000
     },
     "PreparedChunks": null,
     "RawVideoHash": "5B-75-D7-B0-99-41-78-0B-E5-42-42-BA-2A-31-A0-6C",

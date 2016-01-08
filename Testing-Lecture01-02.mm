@@ -4202,8 +4202,9 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Testing\\Lecture01\\02",
+    "DisplayedRawLocation": "Testing-Lecture01-02.mm",
     "Information": {
+      "CreationTimeTicks": 635874534340000000,
       "Episodes": [
         {
           "Dirty": false,
@@ -4214,7 +4215,8 @@ FileContainer Tuto file Version 1
           "PatchModel": null,
           "YoutubeId": null
         }
-      ]
+      ],
+      "LastModificationTimeTicks": 635874889090000000
     },
     "PreparedChunks": [
       {},
