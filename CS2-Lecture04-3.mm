@@ -17,7 +17,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-Lecture04-3.mm",
+    "DisplayedRawLocation": "CS2\\Lecture04\\3",
     "Information": {
       "CreationTimeTicks": 635852883900000000,
       "Episodes": [],

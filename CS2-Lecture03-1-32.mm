@@ -17,29 +17,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            false,
+            true,
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 14332
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 17450
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 25641
+          "Time": 16802
         },
         {
           "Defined": true,
@@ -48,16 +30,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 30045
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            true
-          ],
-          "StartsNewEpisode": false,
-          "Time": 35123
+          "Time": 18961
         },
         {
           "Defined": true,
@@ -66,7 +39,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 39169
+          "Time": 19037
         },
         {
           "Defined": true,
@@ -75,151 +48,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 49530
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 54087
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 63091
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 66793
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 78930
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 81327
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 88641
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 95782
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 103511
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 109277
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 111501
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 119143
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 126434
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 139857
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 144711
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 150899
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 160969
+          "Time": 22683
         },
         {
           "Defined": true,
@@ -228,727 +57,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 165086
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 167896
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 175929
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 186080
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 193952
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 198828
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 206104
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 208811
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 216947
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 227807
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 247559
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 273651
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 278913
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 283044
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 289520
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 291118
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 293308
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 308087
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 310285
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 320820
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 328629
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 332877
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 349332
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 352584
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 354683
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 356955
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 359437
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 388204
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 410932
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 422519
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 432226
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 436457
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 439079
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 441638
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 458219
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 460115
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 471151
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 479046
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 482549
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 494401
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 501928
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 513862
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 517399
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 528174
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 545312
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 561249
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 572975
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 578420
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 585912
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 594084
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 597406
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 604248
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 613094
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 620479
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 628829
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 632797
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 636075
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 639672
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 641357
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 643044
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 649867
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 654471
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 658492
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 667628
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 673885
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 681528
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 689743
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 692598
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 695599
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 697585
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 711330
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 720570
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 725909
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 732003
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 736744
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 744819
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 749862
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 757933
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 764818
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 774191
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 781767
+          "Time": 28867
         },
         {
           "Defined": true,
@@ -957,304 +66,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 785802
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 790987
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 799499
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 802809
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 804128
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 806987
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 813421
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 817304
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 823131
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 826328
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 828576
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 831383
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 833176
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 837404
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 843528
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 847434
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 853331
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 855980
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 858247
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 861115
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 864188
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 866687
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 869079
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 871608
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 873718
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 875123
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 876372
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 878018
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 879388
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 880830
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 882309
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 883795
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 885278
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 886842
+          "Time": 32293
         },
         {
           "Defined": true,
@@ -1263,7 +75,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 888688
+          "Time": 34810
         },
         {
           "Defined": true,
@@ -1272,52 +84,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 895210
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 898975
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 904031
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 907924
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 914126
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 915514
+          "Time": 38857
         },
         {
           "Defined": true,
@@ -1326,412 +93,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 917786
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 920690
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 933014
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 935510
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 946504
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 952395
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 955908
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 959549
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 963225
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 966934
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 968267
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 969564
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 971911
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 973087
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 974383
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 975383
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 988688
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 998315
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1008598
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1022540
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1036007
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1042294
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1046416
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1047446
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1057668
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1065956
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1072234
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1076894
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1084297
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1099465
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1105126
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1115175
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1125983
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1132838
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1135404
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1140145
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1158428
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1162566
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1168584
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1171118
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1173225
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1179998
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1186650
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1189520
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1191168
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 1192951
+          "Time": 46199
         },
         {
           "Defined": true,
@@ -1740,7 +102,16 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 1194963
+          "Time": 48578
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 52675
         },
         {
           "Defined": true,
@@ -1749,7 +120,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1205890
+          "Time": 54147
         },
         {
           "Defined": true,
@@ -1758,7 +129,1231 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1220881
+          "Time": 58038
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 63131
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 65981
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 69068
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 72218
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 77049
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 79752
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 82035
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 83773
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 87941
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 89769
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 91568
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 96083
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 100347
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 105755
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 109526
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 112433
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 117599
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 122090
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 127334
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 130386
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 132472
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 136225
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 139745
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 148130
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 152167
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 155442
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 158091
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 159521
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 160806
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 163173
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 171073
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 173228
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 175899
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 178409
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 180491
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 186381
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 197258
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 202184
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 205954
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 210054
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 214352
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 216352
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 220276
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 225065
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 229622
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 231809
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 237732
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 239420
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 245562
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 249317
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 260061
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 262379
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 265941
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 267277
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 270840
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 272926
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 276167
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 280451
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 282279
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 285121
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 290718
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 295955
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 297845
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 301734
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 306351
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 312961
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 313801
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 317974
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 319988
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 324459
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 328393
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 331238
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 333318
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 341103
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 343632
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 353847
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 359708
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 363395
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 365738
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 367822
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 371192
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 376769
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 380901
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 382380
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 383966
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 391770
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 392749
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 394936
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 399784
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 401809
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 403589
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 404901
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 408087
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 409820
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 410773
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 412648
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 414133
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 418131
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 422023
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 424704
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 430252
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 433559
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 434981
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 436980
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 440347
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 443050
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 446155
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 449299
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 451642
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 454486
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 457533
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 459171
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 461041
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 462647
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 465388
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 470666
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 473500
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 475402
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 479197
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 480795
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 483204
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 484230
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 488220
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 491590
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 494991
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 496075
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 499347
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 502698
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 505890
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 509404
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 512948
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 515530
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 520976
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 525061
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 528860
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 530032
         },
         {
           "Defined": false,
@@ -1767,953 +1362,1596 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1234564
+          "Time": 531907
         }
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Testing\\Lecture01\\03",
+    "DisplayedRawLocation": "CS2\\Lecture03-1\\32",
     "Information": {
-      "CreationTimeTicks": 635874534340000000,
+      "CreationTimeTicks": 635878666690030179,
       "Episodes": [
         {
           "Dirty": false,
-          "Duration": "PT11M36.358S",
-          "Guid": "524e0582-2347-4b5e-aa8f-3126a712383d",
-          "Name": "Кейлогеры, багтрекеры",
+          "Duration": "PT0S",
+          "Guid": "76ec7986-01b1-43ef-9022-8228ce25a9ed",
+          "Name": "Свойства",
           "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }
       ],
-      "LastModificationTimeTicks": 635874889090000000
+      "LastModificationTimeTicks": 635879104799270777
     },
-    "PreparedChunks": [
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {},
-      {}
-    ],
-    "RawVideoHash": "AB-B9-40-D0-2A-A6-56-FB-9D-8A-F8-AA-68-E2-1A-E1",
+    "PreparedChunks": null,
+    "RawVideoHash": "87-80-91-87-3F-45-CF-EA-2C-3B-07-2A-DD-D5-53-52",
     "ReadyToEdit": false,
     "SoundIntervals": [
       {
-        "EndTime": 234,
-        "HasVoice": true,
+        "EndTime": 17081,
+        "HasVoice": false,
         "StartTime": 0,
         "Volume": 0
       },
       {
-        "EndTime": 810,
+        "EndTime": 18585,
+        "HasVoice": true,
+        "StartTime": 17081,
+        "Volume": 0
+      },
+      {
+        "EndTime": 19337,
+        "HasVoice": false,
+        "StartTime": 18585,
+        "Volume": 0
+      },
+      {
+        "EndTime": 21665,
+        "HasVoice": true,
+        "StartTime": 19337,
+        "Volume": 0
+      },
+      {
+        "EndTime": 22121,
+        "HasVoice": false,
+        "StartTime": 21665,
+        "Volume": 0
+      },
+      {
+        "EndTime": 23937,
+        "HasVoice": true,
+        "StartTime": 22121,
+        "Volume": 0
+      },
+      {
+        "EndTime": 24353,
+        "HasVoice": false,
+        "StartTime": 23937,
+        "Volume": 0
+      },
+      {
+        "EndTime": 24673,
+        "HasVoice": true,
+        "StartTime": 24353,
+        "Volume": 0
+      },
+      {
+        "EndTime": 25265,
+        "HasVoice": false,
+        "StartTime": 24673,
+        "Volume": 0
+      },
+      {
+        "EndTime": 28081,
+        "HasVoice": true,
+        "StartTime": 25265,
+        "Volume": 0
+      },
+      {
+        "EndTime": 29641,
+        "HasVoice": false,
+        "StartTime": 28081,
+        "Volume": 0
+      },
+      {
+        "EndTime": 36265,
+        "HasVoice": true,
+        "StartTime": 29641,
+        "Volume": 0
+      },
+      {
+        "EndTime": 36713,
+        "HasVoice": false,
+        "StartTime": 36265,
+        "Volume": 0
+      },
+      {
+        "EndTime": 38337,
+        "HasVoice": true,
+        "StartTime": 36713,
+        "Volume": 0
+      },
+      {
+        "EndTime": 39377,
+        "HasVoice": false,
+        "StartTime": 38337,
+        "Volume": 0
+      },
+      {
+        "EndTime": 43273,
+        "HasVoice": true,
+        "StartTime": 39377,
+        "Volume": 0
+      },
+      {
+        "EndTime": 43825,
+        "HasVoice": false,
+        "StartTime": 43273,
+        "Volume": 0
+      },
+      {
+        "EndTime": 44881,
+        "HasVoice": true,
+        "StartTime": 43825,
+        "Volume": 0
+      },
+      {
+        "EndTime": 45321,
+        "HasVoice": false,
+        "StartTime": 44881,
+        "Volume": 0
+      },
+      {
+        "EndTime": 45881,
+        "HasVoice": true,
+        "StartTime": 45321,
+        "Volume": 0
+      },
+      {
+        "EndTime": 46601,
+        "HasVoice": false,
+        "StartTime": 45881,
+        "Volume": 0
+      },
+      {
+        "EndTime": 50745,
+        "HasVoice": true,
+        "StartTime": 46601,
+        "Volume": 0
+      },
+      {
+        "EndTime": 51193,
+        "HasVoice": false,
+        "StartTime": 50745,
+        "Volume": 0
+      },
+      {
+        "EndTime": 52241,
+        "HasVoice": true,
+        "StartTime": 51193,
+        "Volume": 0
+      },
+      {
+        "EndTime": 54321,
+        "HasVoice": false,
+        "StartTime": 52241,
+        "Volume": 0
+      },
+      {
+        "EndTime": 62865,
+        "HasVoice": true,
+        "StartTime": 54321,
+        "Volume": 0
+      },
+      {
+        "EndTime": 64489,
+        "HasVoice": false,
+        "StartTime": 62865,
+        "Volume": 0
+      },
+      {
+        "EndTime": 67225,
+        "HasVoice": true,
+        "StartTime": 64489,
+        "Volume": 0
+      },
+      {
+        "EndTime": 67809,
+        "HasVoice": false,
+        "StartTime": 67225,
+        "Volume": 0
+      },
+      {
+        "EndTime": 70009,
+        "HasVoice": true,
+        "StartTime": 67809,
+        "Volume": 0
+      },
+      {
+        "EndTime": 70809,
+        "HasVoice": false,
+        "StartTime": 70009,
+        "Volume": 0
+      },
+      {
+        "EndTime": 77065,
+        "HasVoice": true,
+        "StartTime": 70809,
+        "Volume": 0
+      },
+      {
+        "EndTime": 77545,
+        "HasVoice": false,
+        "StartTime": 77065,
+        "Volume": 0
+      },
+      {
+        "EndTime": 80361,
+        "HasVoice": true,
+        "StartTime": 77545,
+        "Volume": 0
+      },
+      {
+        "EndTime": 80889,
+        "HasVoice": false,
+        "StartTime": 80361,
+        "Volume": 0
+      },
+      {
+        "EndTime": 81785,
+        "HasVoice": true,
+        "StartTime": 80889,
+        "Volume": 0
+      },
+      {
+        "EndTime": 84673,
+        "HasVoice": false,
+        "StartTime": 81785,
+        "Volume": 0
+      },
+      {
+        "EndTime": 87657,
+        "HasVoice": true,
+        "StartTime": 84673,
+        "Volume": 0
+      },
+      {
+        "EndTime": 88225,
+        "HasVoice": false,
+        "StartTime": 87657,
+        "Volume": 0
+      },
+      {
+        "EndTime": 88945,
+        "HasVoice": true,
+        "StartTime": 88225,
+        "Volume": 0
+      },
+      {
+        "EndTime": 89409,
+        "HasVoice": false,
+        "StartTime": 88945,
+        "Volume": 0
+      },
+      {
+        "EndTime": 90993,
+        "HasVoice": true,
+        "StartTime": 89409,
+        "Volume": 0
+      },
+      {
+        "EndTime": 91513,
+        "HasVoice": false,
+        "StartTime": 90993,
+        "Volume": 0
+      },
+      {
+        "EndTime": 93345,
+        "HasVoice": true,
+        "StartTime": 91513,
+        "Volume": 0
+      },
+      {
+        "EndTime": 93769,
+        "HasVoice": false,
+        "StartTime": 93345,
+        "Volume": 0
+      },
+      {
+        "EndTime": 95937,
+        "HasVoice": true,
+        "StartTime": 93769,
+        "Volume": 0
+      },
+      {
+        "EndTime": 96385,
+        "HasVoice": false,
+        "StartTime": 95937,
+        "Volume": 0
+      },
+      {
+        "EndTime": 97873,
+        "HasVoice": true,
+        "StartTime": 96385,
+        "Volume": 0
+      },
+      {
+        "EndTime": 98321,
+        "HasVoice": false,
+        "StartTime": 97873,
+        "Volume": 0
+      },
+      {
+        "EndTime": 105393,
+        "HasVoice": true,
+        "StartTime": 98321,
+        "Volume": 0
+      },
+      {
+        "EndTime": 106545,
+        "HasVoice": false,
+        "StartTime": 105393,
+        "Volume": 0
+      },
+      {
+        "EndTime": 109665,
+        "HasVoice": true,
+        "StartTime": 106545,
+        "Volume": 0
+      },
+      {
+        "EndTime": 110177,
+        "HasVoice": false,
+        "StartTime": 109665,
+        "Volume": 0
+      },
+      {
+        "EndTime": 111657,
+        "HasVoice": true,
+        "StartTime": 110177,
+        "Volume": 0
+      },
+      {
+        "EndTime": 114001,
+        "HasVoice": false,
+        "StartTime": 111657,
+        "Volume": 0
+      },
+      {
+        "EndTime": 117065,
+        "HasVoice": true,
+        "StartTime": 114001,
+        "Volume": 0
+      },
+      {
+        "EndTime": 117753,
+        "HasVoice": false,
+        "StartTime": 117065,
+        "Volume": 0
+      },
+      {
+        "EndTime": 118049,
+        "HasVoice": true,
+        "StartTime": 117753,
+        "Volume": 0
+      },
+      {
+        "EndTime": 118521,
+        "HasVoice": false,
+        "StartTime": 118049,
+        "Volume": 0
+      },
+      {
+        "EndTime": 120169,
+        "HasVoice": true,
+        "StartTime": 118521,
+        "Volume": 0
+      },
+      {
+        "EndTime": 120745,
+        "HasVoice": false,
+        "StartTime": 120169,
+        "Volume": 0
+      },
+      {
+        "EndTime": 121489,
+        "HasVoice": true,
+        "StartTime": 120745,
+        "Volume": 0
+      },
+      {
+        "EndTime": 122057,
+        "HasVoice": false,
+        "StartTime": 121489,
+        "Volume": 0
+      },
+      {
+        "EndTime": 124249,
+        "HasVoice": true,
+        "StartTime": 122057,
+        "Volume": 0
+      },
+      {
+        "EndTime": 125345,
+        "HasVoice": false,
+        "StartTime": 124249,
+        "Volume": 0
+      },
+      {
+        "EndTime": 126801,
+        "HasVoice": true,
+        "StartTime": 125345,
+        "Volume": 0
+      },
+      {
+        "EndTime": 127225,
+        "HasVoice": false,
+        "StartTime": 126801,
+        "Volume": 0
+      },
+      {
+        "EndTime": 128753,
+        "HasVoice": true,
+        "StartTime": 127225,
+        "Volume": 0
+      },
+      {
+        "EndTime": 129321,
+        "HasVoice": false,
+        "StartTime": 128753,
+        "Volume": 0
+      },
+      {
+        "EndTime": 129465,
+        "HasVoice": true,
+        "StartTime": 129321,
+        "Volume": 0
+      },
+      {
+        "EndTime": 130185,
+        "HasVoice": false,
+        "StartTime": 129465,
+        "Volume": 0
+      },
+      {
+        "EndTime": 130841,
+        "HasVoice": true,
+        "StartTime": 130185,
+        "Volume": 0
+      },
+      {
+        "EndTime": 132137,
+        "HasVoice": false,
+        "StartTime": 130841,
+        "Volume": 0
+      },
+      {
+        "EndTime": 148329,
+        "HasVoice": true,
+        "StartTime": 132137,
+        "Volume": 0
+      },
+      {
+        "EndTime": 149321,
+        "HasVoice": false,
+        "StartTime": 148329,
+        "Volume": 0
+      },
+      {
+        "EndTime": 151529,
+        "HasVoice": true,
+        "StartTime": 149321,
+        "Volume": 0
+      },
+      {
+        "EndTime": 163721,
+        "HasVoice": false,
+        "StartTime": 151529,
+        "Volume": 0
+      },
+      {
+        "EndTime": 164705,
+        "HasVoice": true,
+        "StartTime": 163721,
+        "Volume": 0
+      },
+      {
+        "EndTime": 165985,
+        "HasVoice": false,
+        "StartTime": 164705,
+        "Volume": 0
+      },
+      {
+        "EndTime": 169561,
+        "HasVoice": true,
+        "StartTime": 165985,
+        "Volume": 0
+      },
+      {
+        "EndTime": 170401,
+        "HasVoice": false,
+        "StartTime": 169561,
+        "Volume": 0
+      },
+      {
+        "EndTime": 171465,
+        "HasVoice": true,
+        "StartTime": 170401,
+        "Volume": 0
+      },
+      {
+        "EndTime": 172025,
+        "HasVoice": false,
+        "StartTime": 171465,
+        "Volume": 0
+      },
+      {
+        "EndTime": 172489,
+        "HasVoice": true,
+        "StartTime": 172025,
+        "Volume": 0
+      },
+      {
+        "EndTime": 173073,
+        "HasVoice": false,
+        "StartTime": 172489,
+        "Volume": 0
+      },
+      {
+        "EndTime": 174049,
+        "HasVoice": true,
+        "StartTime": 173073,
+        "Volume": 0
+      },
+      {
+        "EndTime": 174569,
+        "HasVoice": false,
+        "StartTime": 174049,
+        "Volume": 0
+      },
+      {
+        "EndTime": 176601,
+        "HasVoice": true,
+        "StartTime": 174569,
+        "Volume": 0
+      },
+      {
+        "EndTime": 177345,
         "HasVoice": false,
-        "StartTime": 234,
+        "StartTime": 176601,
         "Volume": 0
       },
       {
-        "EndTime": 24258,
+        "EndTime": 178281,
         "HasVoice": true,
-        "StartTime": 810,
+        "StartTime": 177345,
         "Volume": 0
       },
       {
-        "EndTime": 24690,
+        "EndTime": 178833,
         "HasVoice": false,
-        "StartTime": 24258,
+        "StartTime": 178281,
         "Volume": 0
       },
       {
-        "EndTime": 29770,
+        "EndTime": 180553,
         "HasVoice": true,
-        "StartTime": 24690,
+        "StartTime": 178833,
         "Volume": 0
       },
       {
-        "EndTime": 30290,
+        "EndTime": 181289,
         "HasVoice": false,
-        "StartTime": 29770,
+        "StartTime": 180553,
         "Volume": 0
       },
       {
-        "EndTime": 140850,
+        "EndTime": 181841,
         "HasVoice": true,
-        "StartTime": 30290,
+        "StartTime": 181289,
         "Volume": 0
       },
       {
-        "EndTime": 141250,
+        "EndTime": 183161,
         "HasVoice": false,
-        "StartTime": 140850,
+        "StartTime": 181841,
         "Volume": 0
       },
       {
-        "EndTime": 287146,
+        "EndTime": 184897,
         "HasVoice": true,
-        "StartTime": 141250,
+        "StartTime": 183161,
         "Volume": 0
       },
       {
-        "EndTime": 287586,
+        "EndTime": 185465,
         "HasVoice": false,
-        "StartTime": 287146,
+        "StartTime": 184897,
         "Volume": 0
       },
       {
-        "EndTime": 289618,
+        "EndTime": 185937,
         "HasVoice": true,
-        "StartTime": 287586,
+        "StartTime": 185465,
         "Volume": 0
       },
       {
-        "EndTime": 290090,
+        "EndTime": 187481,
         "HasVoice": false,
-        "StartTime": 289618,
+        "StartTime": 185937,
         "Volume": 0
       },
       {
-        "EndTime": 291546,
+        "EndTime": 191641,
         "HasVoice": true,
-        "StartTime": 290090,
+        "StartTime": 187481,
         "Volume": 0
       },
       {
-        "EndTime": 292362,
+        "EndTime": 192089,
         "HasVoice": false,
-        "StartTime": 291546,
+        "StartTime": 191641,
         "Volume": 0
       },
       {
-        "EndTime": 308274,
+        "EndTime": 197417,
         "HasVoice": true,
-        "StartTime": 292362,
+        "StartTime": 192089,
         "Volume": 0
       },
       {
-        "EndTime": 308738,
+        "EndTime": 198025,
         "HasVoice": false,
-        "StartTime": 308274,
+        "StartTime": 197417,
         "Volume": 0
       },
       {
-        "EndTime": 329210,
+        "EndTime": 200585,
         "HasVoice": true,
-        "StartTime": 308738,
+        "StartTime": 198025,
         "Volume": 0
       },
       {
-        "EndTime": 329610,
+        "EndTime": 201321,
         "HasVoice": false,
-        "StartTime": 329210,
+        "StartTime": 200585,
         "Volume": 0
       },
       {
-        "EndTime": 353234,
+        "EndTime": 201649,
         "HasVoice": true,
-        "StartTime": 329610,
+        "StartTime": 201321,
         "Volume": 0
       },
       {
-        "EndTime": 353698,
+        "EndTime": 206297,
         "HasVoice": false,
-        "StartTime": 353234,
+        "StartTime": 201649,
         "Volume": 0
       },
       {
-        "EndTime": 354490,
+        "EndTime": 208729,
         "HasVoice": true,
-        "StartTime": 353698,
+        "StartTime": 206297,
         "Volume": 0
       },
       {
-        "EndTime": 354922,
+        "EndTime": 209201,
         "HasVoice": false,
-        "StartTime": 354490,
+        "StartTime": 208729,
         "Volume": 0
       },
       {
-        "EndTime": 357842,
+        "EndTime": 211609,
         "HasVoice": true,
-        "StartTime": 354922,
+        "StartTime": 209201,
         "Volume": 0
       },
       {
-        "EndTime": 358474,
+        "EndTime": 212089,
         "HasVoice": false,
-        "StartTime": 357842,
+        "StartTime": 211609,
         "Volume": 0
       },
       {
-        "EndTime": 433842,
+        "EndTime": 216433,
         "HasVoice": true,
-        "StartTime": 358474,
+        "StartTime": 212089,
         "Volume": 0
       },
       {
-        "EndTime": 434338,
+        "EndTime": 217049,
         "HasVoice": false,
-        "StartTime": 433842,
+        "StartTime": 216433,
         "Volume": 0
       },
       {
-        "EndTime": 438610,
+        "EndTime": 223889,
         "HasVoice": true,
-        "StartTime": 434338,
+        "StartTime": 217049,
         "Volume": 0
       },
       {
-        "EndTime": 439250,
+        "EndTime": 224641,
         "HasVoice": false,
-        "StartTime": 438610,
+        "StartTime": 223889,
         "Volume": 0
       },
       {
-        "EndTime": 440906,
+        "EndTime": 224921,
         "HasVoice": true,
-        "StartTime": 439250,
+        "StartTime": 224641,
         "Volume": 0
       },
       {
-        "EndTime": 441314,
+        "EndTime": 225609,
         "HasVoice": false,
-        "StartTime": 440906,
+        "StartTime": 224921,
         "Volume": 0
       },
       {
-        "EndTime": 545202,
+        "EndTime": 232433,
         "HasVoice": true,
-        "StartTime": 441314,
+        "StartTime": 225609,
         "Volume": 0
       },
       {
-        "EndTime": 545698,
+        "EndTime": 233129,
         "HasVoice": false,
-        "StartTime": 545202,
+        "StartTime": 232433,
         "Volume": 0
       },
       {
-        "EndTime": 627738,
+        "EndTime": 235977,
         "HasVoice": true,
-        "StartTime": 545698,
+        "StartTime": 233129,
         "Volume": 0
       },
       {
-        "EndTime": 628290,
+        "EndTime": 236425,
         "HasVoice": false,
-        "StartTime": 627738,
+        "StartTime": 235977,
         "Volume": 0
       },
       {
-        "EndTime": 660866,
+        "EndTime": 238617,
         "HasVoice": true,
-        "StartTime": 628290,
+        "StartTime": 236425,
         "Volume": 0
       },
       {
-        "EndTime": 661274,
+        "EndTime": 239673,
         "HasVoice": false,
-        "StartTime": 660866,
+        "StartTime": 238617,
         "Volume": 0
       },
       {
-        "EndTime": 684250,
+        "EndTime": 243913,
         "HasVoice": true,
-        "StartTime": 661274,
+        "StartTime": 239673,
         "Volume": 0
       },
       {
-        "EndTime": 684658,
+        "EndTime": 244337,
         "HasVoice": false,
-        "StartTime": 684250,
+        "StartTime": 243913,
         "Volume": 0
       },
       {
-        "EndTime": 696938,
+        "EndTime": 253969,
         "HasVoice": true,
-        "StartTime": 684658,
+        "StartTime": 244337,
         "Volume": 0
       },
       {
-        "EndTime": 697690,
+        "EndTime": 254473,
         "HasVoice": false,
-        "StartTime": 696938,
+        "StartTime": 253969,
         "Volume": 0
       },
       {
-        "EndTime": 750330,
+        "EndTime": 256137,
         "HasVoice": true,
-        "StartTime": 697690,
+        "StartTime": 254473,
         "Volume": 0
       },
       {
-        "EndTime": 751002,
+        "EndTime": 256849,
         "HasVoice": false,
-        "StartTime": 750330,
+        "StartTime": 256137,
         "Volume": 0
       },
       {
-        "EndTime": 810698,
+        "EndTime": 257201,
         "HasVoice": true,
-        "StartTime": 751002,
+        "StartTime": 256849,
         "Volume": 0
       },
       {
-        "EndTime": 811146,
+        "EndTime": 257745,
         "HasVoice": false,
-        "StartTime": 810698,
+        "StartTime": 257201,
         "Volume": 0
       },
       {
-        "EndTime": 820810,
+        "EndTime": 259889,
         "HasVoice": true,
-        "StartTime": 811146,
+        "StartTime": 257745,
         "Volume": 0
       },
       {
-        "EndTime": 821354,
+        "EndTime": 260417,
         "HasVoice": false,
-        "StartTime": 820810,
+        "StartTime": 259889,
         "Volume": 0
       },
       {
-        "EndTime": 827106,
+        "EndTime": 260833,
         "HasVoice": true,
-        "StartTime": 821354,
+        "StartTime": 260417,
         "Volume": 0
       },
       {
-        "EndTime": 827610,
+        "EndTime": 261769,
         "HasVoice": false,
-        "StartTime": 827106,
+        "StartTime": 260833,
         "Volume": 0
       },
       {
-        "EndTime": 851498,
+        "EndTime": 263921,
         "HasVoice": true,
-        "StartTime": 827610,
+        "StartTime": 261769,
         "Volume": 0
       },
       {
-        "EndTime": 852042,
+        "EndTime": 264393,
         "HasVoice": false,
-        "StartTime": 851498,
+        "StartTime": 263921,
         "Volume": 0
       },
       {
-        "EndTime": 852218,
+        "EndTime": 265433,
         "HasVoice": true,
-        "StartTime": 852042,
+        "StartTime": 264393,
         "Volume": 0
       },
       {
-        "EndTime": 852858,
+        "EndTime": 266065,
         "HasVoice": false,
-        "StartTime": 852218,
+        "StartTime": 265433,
         "Volume": 0
       },
       {
-        "EndTime": 854202,
+        "EndTime": 266761,
         "HasVoice": true,
-        "StartTime": 852858,
+        "StartTime": 266065,
         "Volume": 0
       },
       {
-        "EndTime": 854610,
+        "EndTime": 268001,
         "HasVoice": false,
-        "StartTime": 854202,
+        "StartTime": 266761,
         "Volume": 0
       },
       {
-        "EndTime": 855898,
+        "EndTime": 272817,
         "HasVoice": true,
-        "StartTime": 854610,
+        "StartTime": 268001,
         "Volume": 0
       },
       {
-        "EndTime": 856554,
+        "EndTime": 273321,
         "HasVoice": false,
-        "StartTime": 855898,
+        "StartTime": 272817,
         "Volume": 0
       },
       {
-        "EndTime": 859970,
+        "EndTime": 276297,
         "HasVoice": true,
-        "StartTime": 856554,
+        "StartTime": 273321,
         "Volume": 0
       },
       {
-        "EndTime": 860442,
+        "EndTime": 277297,
         "HasVoice": false,
-        "StartTime": 859970,
+        "StartTime": 276297,
         "Volume": 0
       },
       {
-        "EndTime": 861762,
+        "EndTime": 281657,
         "HasVoice": true,
-        "StartTime": 860442,
+        "StartTime": 277297,
         "Volume": 0
       },
       {
-        "EndTime": 862562,
+        "EndTime": 282097,
         "HasVoice": false,
-        "StartTime": 861762,
+        "StartTime": 281657,
         "Volume": 0
       },
       {
-        "EndTime": 863658,
+        "EndTime": 287393,
         "HasVoice": true,
-        "StartTime": 862562,
+        "StartTime": 282097,
         "Volume": 0
       },
       {
-        "EndTime": 864274,
+        "EndTime": 287913,
         "HasVoice": false,
-        "StartTime": 863658,
+        "StartTime": 287393,
         "Volume": 0
       },
       {
-        "EndTime": 867370,
+        "EndTime": 290481,
         "HasVoice": true,
-        "StartTime": 864274,
+        "StartTime": 287913,
         "Volume": 0
       },
       {
-        "EndTime": 867978,
+        "EndTime": 291905,
         "HasVoice": false,
-        "StartTime": 867370,
+        "StartTime": 290481,
         "Volume": 0
       },
       {
-        "EndTime": 871818,
+        "EndTime": 299897,
         "HasVoice": true,
-        "StartTime": 867978,
+        "StartTime": 291905,
         "Volume": 0
       },
       {
-        "EndTime": 872226,
+        "EndTime": 300353,
         "HasVoice": false,
-        "StartTime": 871818,
+        "StartTime": 299897,
         "Volume": 0
       },
       {
-        "EndTime": 874682,
+        "EndTime": 301185,
         "HasVoice": true,
-        "StartTime": 872226,
+        "StartTime": 300353,
         "Volume": 0
       },
       {
-        "EndTime": 875250,
+        "EndTime": 302913,
         "HasVoice": false,
-        "StartTime": 874682,
+        "StartTime": 301185,
         "Volume": 0
       },
       {
-        "EndTime": 912978,
+        "EndTime": 306257,
         "HasVoice": true,
-        "StartTime": 875250,
+        "StartTime": 302913,
         "Volume": 0
       },
       {
-        "EndTime": 913826,
+        "EndTime": 307057,
         "HasVoice": false,
-        "StartTime": 912978,
+        "StartTime": 306257,
         "Volume": 0
       },
       {
-        "EndTime": 920810,
+        "EndTime": 313593,
         "HasVoice": true,
-        "StartTime": 913826,
+        "StartTime": 307057,
         "Volume": 0
       },
       {
-        "EndTime": 921370,
+        "EndTime": 314009,
         "HasVoice": false,
-        "StartTime": 920810,
+        "StartTime": 313593,
         "Volume": 0
       },
       {
-        "EndTime": 935490,
+        "EndTime": 315849,
         "HasVoice": true,
-        "StartTime": 921370,
+        "StartTime": 314009,
         "Volume": 0
       },
       {
-        "EndTime": 935930,
+        "EndTime": 316449,
         "HasVoice": false,
-        "StartTime": 935490,
+        "StartTime": 315849,
         "Volume": 0
       },
       {
-        "EndTime": 937010,
+        "EndTime": 318745,
         "HasVoice": true,
-        "StartTime": 935930,
+        "StartTime": 316449,
         "Volume": 0
       },
       {
-        "EndTime": 937522,
+        "EndTime": 319169,
         "HasVoice": false,
-        "StartTime": 937010,
+        "StartTime": 318745,
         "Volume": 0
       },
       {
-        "EndTime": 960650,
+        "EndTime": 319337,
         "HasVoice": true,
-        "StartTime": 937522,
+        "StartTime": 319169,
         "Volume": 0
       },
       {
-        "EndTime": 961154,
+        "EndTime": 320057,
         "HasVoice": false,
-        "StartTime": 960650,
+        "StartTime": 319337,
         "Volume": 0
       },
       {
-        "EndTime": 971954,
+        "EndTime": 324449,
         "HasVoice": true,
-        "StartTime": 961154,
+        "StartTime": 320057,
         "Volume": 0
       },
       {
-        "EndTime": 972698,
+        "EndTime": 324985,
         "HasVoice": false,
-        "StartTime": 971954,
+        "StartTime": 324449,
         "Volume": 0
       },
       {
-        "EndTime": 999642,
+        "EndTime": 328041,
         "HasVoice": true,
-        "StartTime": 972698,
+        "StartTime": 324985,
         "Volume": 0
       },
       {
-        "EndTime": 1000242,
+        "EndTime": 328673,
         "HasVoice": false,
-        "StartTime": 999642,
+        "StartTime": 328041,
         "Volume": 0
       },
       {
-        "EndTime": 1001010,
+        "EndTime": 333113,
         "HasVoice": true,
-        "StartTime": 1000242,
+        "StartTime": 328673,
         "Volume": 0
       },
       {
-        "EndTime": 1001554,
+        "EndTime": 333969,
         "HasVoice": false,
-        "StartTime": 1001010,
+        "StartTime": 333113,
         "Volume": 0
       },
       {
-        "EndTime": 1002202,
+        "EndTime": 338001,
         "HasVoice": true,
-        "StartTime": 1001554,
+        "StartTime": 333969,
         "Volume": 0
       },
       {
-        "EndTime": 1002754,
+        "EndTime": 338489,
         "HasVoice": false,
-        "StartTime": 1002202,
+        "StartTime": 338001,
         "Volume": 0
       },
       {
-        "EndTime": 1012570,
+        "EndTime": 348921,
         "HasVoice": true,
-        "StartTime": 1002754,
+        "StartTime": 338489,
         "Volume": 0
       },
       {
-        "EndTime": 1013338,
+        "EndTime": 349425,
         "HasVoice": false,
-        "StartTime": 1012570,
+        "StartTime": 348921,
         "Volume": 0
       },
       {
-        "EndTime": 1026498,
+        "EndTime": 353449,
         "HasVoice": true,
-        "StartTime": 1013338,
+        "StartTime": 349425,
         "Volume": 0
       },
       {
-        "EndTime": 1027034,
+        "EndTime": 354273,
         "HasVoice": false,
-        "StartTime": 1026498,
+        "StartTime": 353449,
         "Volume": 0
       },
       {
-        "EndTime": 1041994,
+        "EndTime": 359425,
         "HasVoice": true,
-        "StartTime": 1027034,
+        "StartTime": 354273,
         "Volume": 0
       },
       {
-        "EndTime": 1042698,
+        "EndTime": 359889,
         "HasVoice": false,
-        "StartTime": 1041994,
+        "StartTime": 359425,
         "Volume": 0
       },
       {
-        "EndTime": 1046514,
+        "EndTime": 362633,
         "HasVoice": true,
-        "StartTime": 1042698,
+        "StartTime": 359889,
         "Volume": 0
       },
       {
-        "EndTime": 1047074,
+        "EndTime": 363481,
         "HasVoice": false,
-        "StartTime": 1046514,
+        "StartTime": 362633,
         "Volume": 0
       },
       {
-        "EndTime": 1047226,
+        "EndTime": 367025,
         "HasVoice": true,
-        "StartTime": 1047074,
+        "StartTime": 363481,
         "Volume": 0
       },
       {
-        "EndTime": 1047746,
+        "EndTime": 367593,
         "HasVoice": false,
-        "StartTime": 1047226,
+        "StartTime": 367025,
         "Volume": 0
       },
       {
-        "EndTime": 1048378,
+        "EndTime": 372473,
         "HasVoice": true,
-        "StartTime": 1047746,
+        "StartTime": 367593,
         "Volume": 0
       },
       {
-        "EndTime": 1048794,
+        "EndTime": 373585,
         "HasVoice": false,
-        "StartTime": 1048378,
+        "StartTime": 372473,
         "Volume": 0
       },
       {
-        "EndTime": 1053586,
+        "EndTime": 381649,
         "HasVoice": true,
-        "StartTime": 1048794,
+        "StartTime": 373585,
         "Volume": 0
       },
       {
-        "EndTime": 1054114,
+        "EndTime": 384369,
         "HasVoice": false,
-        "StartTime": 1053586,
+        "StartTime": 381649,
         "Volume": 0
       },
       {
-        "EndTime": 1059642,
+        "EndTime": 392449,
         "HasVoice": true,
-        "StartTime": 1054114,
+        "StartTime": 384369,
         "Volume": 0
       },
       {
-        "EndTime": 1060066,
+        "EndTime": 395401,
         "HasVoice": false,
-        "StartTime": 1059642,
+        "StartTime": 392449,
         "Volume": 0
       },
       {
-        "EndTime": 1060962,
+        "EndTime": 399329,
         "HasVoice": true,
-        "StartTime": 1060066,
+        "StartTime": 395401,
         "Volume": 0
       },
       {
-        "EndTime": 1061786,
+        "EndTime": 400465,
         "HasVoice": false,
-        "StartTime": 1060962,
+        "StartTime": 399329,
         "Volume": 0
       },
       {
-        "EndTime": 1081650,
+        "EndTime": 404089,
         "HasVoice": true,
-        "StartTime": 1061786,
+        "StartTime": 400465,
         "Volume": 0
       },
       {
-        "EndTime": 1082090,
+        "EndTime": 404793,
         "HasVoice": false,
-        "StartTime": 1081650,
+        "StartTime": 404089,
         "Volume": 0
       },
       {
-        "EndTime": 1093322,
+        "EndTime": 410313,
         "HasVoice": true,
-        "StartTime": 1082090,
+        "StartTime": 404793,
         "Volume": 0
       },
       {
-        "EndTime": 1093722,
+        "EndTime": 411353,
         "HasVoice": false,
-        "StartTime": 1093322,
+        "StartTime": 410313,
         "Volume": 0
       },
       {
-        "EndTime": 1109930,
+        "EndTime": 417601,
         "HasVoice": true,
-        "StartTime": 1093722,
+        "StartTime": 411353,
         "Volume": 0
       },
       {
-        "EndTime": 1110482,
+        "EndTime": 419169,
         "HasVoice": false,
-        "StartTime": 1109930,
+        "StartTime": 417601,
         "Volume": 0
       },
       {
-        "EndTime": 1114850,
+        "EndTime": 419633,
         "HasVoice": true,
-        "StartTime": 1110482,
+        "StartTime": 419169,
         "Volume": 0
       },
       {
-        "EndTime": 1115370,
+        "EndTime": 420481,
         "HasVoice": false,
-        "StartTime": 1114850,
+        "StartTime": 419633,
         "Volume": 0
       },
       {
-        "EndTime": 1129050,
+        "EndTime": 421505,
         "HasVoice": true,
-        "StartTime": 1115370,
+        "StartTime": 420481,
         "Volume": 0
       },
       {
-        "EndTime": 1129514,
+        "EndTime": 422121,
         "HasVoice": false,
-        "StartTime": 1129050,
+        "StartTime": 421505,
         "Volume": 0
       },
       {
-        "EndTime": 1129674,
+        "EndTime": 423857,
         "HasVoice": true,
-        "StartTime": 1129514,
+        "StartTime": 422121,
         "Volume": 0
       },
       {
-        "EndTime": 1130234,
+        "EndTime": 424393,
         "HasVoice": false,
-        "StartTime": 1129674,
+        "StartTime": 423857,
         "Volume": 0
       },
       {
-        "EndTime": 1132170,
+        "EndTime": 426001,
         "HasVoice": true,
-        "StartTime": 1130234,
+        "StartTime": 424393,
         "Volume": 0
       },
       {
-        "EndTime": 1132938,
+        "EndTime": 426609,
         "HasVoice": false,
-        "StartTime": 1132170,
+        "StartTime": 426001,
         "Volume": 0
       },
       {
-        "EndTime": 1136282,
+        "EndTime": 427281,
         "HasVoice": true,
-        "StartTime": 1132938,
+        "StartTime": 426609,
         "Volume": 0
       },
       {
-        "EndTime": 1136698,
+        "EndTime": 427713,
         "HasVoice": false,
-        "StartTime": 1136282,
+        "StartTime": 427281,
         "Volume": 0
       },
       {
-        "EndTime": 1164122,
+        "EndTime": 429537,
         "HasVoice": true,
-        "StartTime": 1136698,
+        "StartTime": 427713,
         "Volume": 0
       },
       {
-        "EndTime": 1164530,
+        "EndTime": 430105,
         "HasVoice": false,
-        "StartTime": 1164122,
+        "StartTime": 429537,
         "Volume": 0
       },
       {
-        "EndTime": 1166426,
+        "EndTime": 434281,
         "HasVoice": true,
-        "StartTime": 1164530,
+        "StartTime": 430105,
         "Volume": 0
       },
       {
-        "EndTime": 1166922,
+        "EndTime": 434713,
         "HasVoice": false,
-        "StartTime": 1166426,
+        "StartTime": 434281,
         "Volume": 0
       },
       {
-        "EndTime": 1168674,
+        "EndTime": 436561,
         "HasVoice": true,
-        "StartTime": 1166922,
+        "StartTime": 434713,
         "Volume": 0
       },
       {
-        "EndTime": 1169090,
+        "EndTime": 437017,
         "HasVoice": false,
-        "StartTime": 1168674,
+        "StartTime": 436561,
         "Volume": 0
       },
       {
-        "EndTime": 1169786,
+        "EndTime": 439545,
         "HasVoice": true,
-        "StartTime": 1169090,
+        "StartTime": 437017,
         "Volume": 0
       },
       {
-        "EndTime": 1170298,
+        "EndTime": 440225,
         "HasVoice": false,
-        "StartTime": 1169786,
+        "StartTime": 439545,
         "Volume": 0
       },
       {
-        "EndTime": 1172522,
+        "EndTime": 444761,
         "HasVoice": true,
-        "StartTime": 1170298,
+        "StartTime": 440225,
         "Volume": 0
       },
       {
-        "EndTime": 1172922,
+        "EndTime": 445385,
         "HasVoice": false,
-        "StartTime": 1172522,
+        "StartTime": 444761,
         "Volume": 0
       },
       {
-        "EndTime": 1174018,
+        "EndTime": 451217,
         "HasVoice": true,
-        "StartTime": 1172922,
+        "StartTime": 445385,
         "Volume": 0
       },
       {
-        "EndTime": 1174594,
+        "EndTime": 452097,
         "HasVoice": false,
-        "StartTime": 1174018,
+        "StartTime": 451217,
         "Volume": 0
       },
       {
-        "EndTime": 1184338,
+        "EndTime": 454521,
         "HasVoice": true,
-        "StartTime": 1174594,
+        "StartTime": 452097,
         "Volume": 0
       },
       {
-        "EndTime": 1185250,
+        "EndTime": 454937,
         "HasVoice": false,
-        "StartTime": 1184338,
+        "StartTime": 454521,
         "Volume": 0
       },
       {
-        "EndTime": 1191210,
+        "EndTime": 460689,
         "HasVoice": true,
-        "StartTime": 1185250,
+        "StartTime": 454937,
         "Volume": 0
       },
       {
-        "EndTime": 1191682,
+        "EndTime": 461393,
         "HasVoice": false,
-        "StartTime": 1191210,
+        "StartTime": 460689,
         "Volume": 0
       },
       {
-        "EndTime": 1196922,
+        "EndTime": 465113,
         "HasVoice": true,
-        "StartTime": 1191682,
+        "StartTime": 461393,
         "Volume": 0
       },
       {
-        "EndTime": 1197490,
+        "EndTime": 466561,
         "HasVoice": false,
-        "StartTime": 1196922,
+        "StartTime": 465113,
         "Volume": 0
       },
       {
-        "EndTime": 1241450,
+        "EndTime": 473529,
         "HasVoice": true,
-        "StartTime": 1197490,
+        "StartTime": 466561,
         "Volume": 0
       },
       {
-        "EndTime": 1242114,
+        "EndTime": 474449,
         "HasVoice": false,
-        "StartTime": 1241450,
+        "StartTime": 473529,
         "Volume": 0
       },
       {
-        "EndTime": 1243474,
+        "EndTime": 480329,
         "HasVoice": true,
-        "StartTime": 1242114,
+        "StartTime": 474449,
         "Volume": 0
       },
       {
-        "EndTime": 1243898,
+        "EndTime": 480753,
         "HasVoice": false,
-        "StartTime": 1243474,
+        "StartTime": 480329,
         "Volume": 0
       },
       {
-        "EndTime": 1244381,
+        "EndTime": 484281,
         "HasVoice": true,
-        "StartTime": 1243898,
+        "StartTime": 480753,
+        "Volume": 0
+      },
+      {
+        "EndTime": 484729,
+        "HasVoice": false,
+        "StartTime": 484281,
+        "Volume": 0
+      },
+      {
+        "EndTime": 488209,
+        "HasVoice": true,
+        "StartTime": 484729,
+        "Volume": 0
+      },
+      {
+        "EndTime": 488977,
+        "HasVoice": false,
+        "StartTime": 488209,
+        "Volume": 0
+      },
+      {
+        "EndTime": 496809,
+        "HasVoice": true,
+        "StartTime": 488977,
+        "Volume": 0
+      },
+      {
+        "EndTime": 497497,
+        "HasVoice": false,
+        "StartTime": 496809,
+        "Volume": 0
+      },
+      {
+        "EndTime": 503097,
+        "HasVoice": true,
+        "StartTime": 497497,
+        "Volume": 0
+      },
+      {
+        "EndTime": 503921,
+        "HasVoice": false,
+        "StartTime": 503097,
+        "Volume": 0
+      },
+      {
+        "EndTime": 508689,
+        "HasVoice": true,
+        "StartTime": 503921,
+        "Volume": 0
+      },
+      {
+        "EndTime": 509113,
+        "HasVoice": false,
+        "StartTime": 508689,
+        "Volume": 0
+      },
+      {
+        "EndTime": 509513,
+        "HasVoice": true,
+        "StartTime": 509113,
+        "Volume": 0
+      },
+      {
+        "EndTime": 510401,
+        "HasVoice": false,
+        "StartTime": 509513,
+        "Volume": 0
+      },
+      {
+        "EndTime": 511729,
+        "HasVoice": true,
+        "StartTime": 510401,
+        "Volume": 0
+      },
+      {
+        "EndTime": 512161,
+        "HasVoice": false,
+        "StartTime": 511729,
+        "Volume": 0
+      },
+      {
+        "EndTime": 512905,
+        "HasVoice": true,
+        "StartTime": 512161,
+        "Volume": 0
+      },
+      {
+        "EndTime": 513401,
+        "HasVoice": false,
+        "StartTime": 512905,
+        "Volume": 0
+      },
+      {
+        "EndTime": 515537,
+        "HasVoice": true,
+        "StartTime": 513401,
+        "Volume": 0
+      },
+      {
+        "EndTime": 515945,
+        "HasVoice": false,
+        "StartTime": 515537,
+        "Volume": 0
+      },
+      {
+        "EndTime": 518313,
+        "HasVoice": true,
+        "StartTime": 515945,
+        "Volume": 0
+      },
+      {
+        "EndTime": 518793,
+        "HasVoice": false,
+        "StartTime": 518313,
+        "Volume": 0
+      },
+      {
+        "EndTime": 520129,
+        "HasVoice": true,
+        "StartTime": 518793,
+        "Volume": 0
+      },
+      {
+        "EndTime": 520673,
+        "HasVoice": false,
+        "StartTime": 520129,
+        "Volume": 0
+      },
+      {
+        "EndTime": 521169,
+        "HasVoice": true,
+        "StartTime": 520673,
+        "Volume": 0
+      },
+      {
+        "EndTime": 521633,
+        "HasVoice": false,
+        "StartTime": 521169,
+        "Volume": 0
+      },
+      {
+        "EndTime": 524233,
+        "HasVoice": true,
+        "StartTime": 521633,
+        "Volume": 0
+      },
+      {
+        "EndTime": 524649,
+        "HasVoice": false,
+        "StartTime": 524233,
+        "Volume": 0
+      },
+      {
+        "EndTime": 527689,
+        "HasVoice": true,
+        "StartTime": 524649,
+        "Volume": 0
+      },
+      {
+        "EndTime": 528217,
+        "HasVoice": false,
+        "StartTime": 527689,
+        "Volume": 0
+      },
+      {
+        "EndTime": 528321,
+        "HasVoice": true,
+        "StartTime": 528217,
+        "Volume": 0
+      },
+      {
+        "EndTime": 531865,
+        "HasVoice": false,
+        "StartTime": 528321,
         "Volume": 0
       }
     ],
     "SubtitleFixes": [],
-    "SynchronizationShift": 9438
+    "SynchronizationShift": 5146
   },
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 786958,
+    "currentPosition": 530069,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": true,
-    "faceVideoIsVisible": false,
+    "desktopVideoIsVisible": false,
+    "faceVideoIsVisible": true,
     "paused": true,
     "speedRatio": 1
   }
