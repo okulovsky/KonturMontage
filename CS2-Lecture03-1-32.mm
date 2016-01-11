@@ -152,17 +152,17 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 69068
+          "Time": 70309
         },
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 72218
@@ -174,7 +174,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 77049
+          "Time": 77305
         },
         {
           "Defined": true,
@@ -638,11 +638,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 276167
+          "Time": 276597
         },
         {
           "Defined": true,
@@ -1373,7 +1373,7 @@ FileContainer Tuto file Version 1
       "Episodes": [
         {
           "Dirty": false,
-          "Duration": "PT0S",
+          "Duration": "PT8M5.284S",
           "Guid": "76ec7986-01b1-43ef-9022-8228ce25a9ed",
           "Name": "Свойства",
           "OutputType": 1,
@@ -1381,7 +1381,7 @@ FileContainer Tuto file Version 1
           "YoutubeId": null
         }
       ],
-      "LastModificationTimeTicks": 635879104799270777
+      "LastModificationTimeTicks": 635881283810502494
     },
     "PreparedChunks": null,
     "RawVideoHash": "87-80-91-87-3F-45-CF-EA-2C-3B-07-2A-DD-D5-53-52",
@@ -2948,7 +2948,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 530069,
+    "currentPosition": 525129,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
