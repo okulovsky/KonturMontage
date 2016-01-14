@@ -1742,9 +1742,9 @@ FileContainer Tuto file Version 1
         },
         {
           "Dirty": false,
-          "Duration": "PT8M48.298S",
+          "Duration": "PT9M6.287S",
           "Guid": "9a54a05b-bb6f-4600-b27f-1b518824b96f",
-          "Name": "Стртуктуры",
+          "Name": "Структуры",
           "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
@@ -5369,7 +5369,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 1170386,
+    "currentPosition": 1089129,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
