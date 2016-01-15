@@ -939,7 +939,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 633057
+          "Time": 635657
         },
         {
           "Defined": true,
@@ -1025,20 +1025,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 698568
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 709013
+          "Time": 698598
         },
         {
           "Defined": true,
@@ -1047,7 +1038,16 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 714912
+          "Time": 709326
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 715302
         },
         {
           "Defined": true,
@@ -1098,10 +1098,10 @@ FileContainer Tuto file Version 1
           "Defined": true,
           "FromStream": [
             false,
-            true
+            false
           ],
           "StartsNewEpisode": false,
-          "Time": 740267
+          "Time": 740067
         },
         {
           "Defined": true,
@@ -1110,7 +1110,16 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 751354
+          "Time": 745462
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 752558
         },
         {
           "Defined": true,
@@ -1727,11 +1736,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
+            false,
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1203547
+          "Time": 1203347
         },
         {
           "Defined": true,
@@ -1740,7 +1749,25 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1215891
+          "Time": 1206608
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1207158
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1214870
         },
         {
           "Defined": true,
@@ -1769,7 +1796,7 @@ FileContainer Tuto file Version 1
       "Episodes": [
         {
           "Dirty": false,
-          "Duration": "PT5M29.01S",
+          "Duration": "PT5M29.21S",
           "Guid": "6faa9804-7a0f-43da-a4c5-3229ce5585c0",
           "Name": "Реализация Fluent-Интерфейса",
           "OutputType": 1,
@@ -1778,7 +1805,7 @@ FileContainer Tuto file Version 1
         },
         {
           "Dirty": false,
-          "Duration": "PT2M59.687S",
+          "Duration": "PT3M0.787S",
           "Guid": "df079b25-8952-4d6f-976b-f92b17c93005",
           "Name": "Более сложный случай",
           "OutputType": 1,
@@ -1796,7 +1823,7 @@ FileContainer Tuto file Version 1
         },
         {
           "Dirty": false,
-          "Duration": "PT0S",
+          "Duration": "PT4M50.43S",
           "Guid": "30c4a153-5510-4015-ab90-98e259b8da7f",
           "Name": "Расширяемость Fluent-Интерфейсов",
           "OutputType": 1,
@@ -1804,7 +1831,7 @@ FileContainer Tuto file Version 1
           "YoutubeId": null
         }
       ],
-      "LastModificationTimeTicks": 635874889090000000
+      "LastModificationTimeTicks": 635885140551677915
     },
     "PreparedChunks": null,
     "RawVideoHash": "98-7C-73-EB-35-7D-82-1F-CA-1C-41-BB-96-8C-8C-DC",
@@ -7583,7 +7610,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 1218163,
+    "currentPosition": 1218168,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
