@@ -1814,7 +1814,7 @@ FileContainer Tuto file Version 1
         },
         {
           "Dirty": false,
-          "Duration": "PT3M49.643S",
+          "Duration": "PT3M44.248S",
           "Guid": "31f68310-4412-405d-9fe1-6543b577825a",
           "Name": "Реализация UntilKeyPressed",
           "OutputType": 1,
@@ -1823,7 +1823,7 @@ FileContainer Tuto file Version 1
         },
         {
           "Dirty": false,
-          "Duration": "PT4M50.43S",
+          "Duration": "PT4M47.169S",
           "Guid": "30c4a153-5510-4015-ab90-98e259b8da7f",
           "Name": "Расширяемость Fluent-Интерфейсов",
           "OutputType": 1,
@@ -7610,11 +7610,11 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 1218168,
+    "currentPosition": 326881,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": false,
-    "faceVideoIsVisible": true,
-    "paused": true,
+    "desktopVideoIsVisible": true,
+    "faceVideoIsVisible": false,
+    "paused": false,
     "speedRatio": 1
   }
 }
