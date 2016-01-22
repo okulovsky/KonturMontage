@@ -237,7 +237,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 92881
+          "Time": 92981
         },
         {
           "Defined": true,
@@ -750,7 +750,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 227339
+          "Time": 227739
         },
         {
           "Defined": true,
@@ -1479,7 +1479,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 390644
+          "Time": 390365
         },
         {
           "Defined": true,
@@ -1488,7 +1488,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 392049
+          "Time": 390365
         },
         {
           "Defined": true,
@@ -1497,7 +1497,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 392365
+          "Time": 390365
         },
         {
           "Defined": true,
@@ -1911,7 +1911,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 476321
+          "Time": 476521
         },
         {
           "Defined": true,
@@ -2261,8 +2261,18 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "CS2\\LectureXX\\04",
     "Information": {
       "CreationTimeTicks": 635884202030280530,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635885126014203060
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT7M39.294S",
+          "Guid": "c37ea992-4ffd-4ea7-a5c9-f6b4da68fd68",
+          "Name": "Ссылочные типы и типы-значения",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635890789355816495
     },
     "PreparedChunks": null,
     "RawVideoHash": "2D-3F-0E-05-DE-DE-69-56-15-CC-52-15-E9-70-0E-77",
@@ -4297,7 +4307,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 550850,
+    "currentPosition": 550848,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,

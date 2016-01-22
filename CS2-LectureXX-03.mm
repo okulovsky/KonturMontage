@@ -417,7 +417,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 109692
+          "Time": 109492
         },
         {
           "Defined": true,
@@ -732,7 +732,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 188364
+          "Time": 188764
         },
         {
           "Defined": true,
@@ -858,7 +858,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 223554
+          "Time": 223754
         },
         {
           "Defined": true,
@@ -1542,7 +1542,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 355019
+          "Time": 355219
         },
         {
           "Defined": true,
@@ -1695,7 +1695,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 389429
+          "Time": 389629
         },
         {
           "Defined": true,
@@ -3495,7 +3495,25 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 896985
+          "Time": 896807
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 896807
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 898007
         },
         {
           "Defined": true,
@@ -3531,7 +3549,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 907565
+          "Time": 907715
         },
         {
           "Defined": true,
@@ -3863,8 +3881,27 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "CS2\\LectureXX\\03",
     "Information": {
       "CreationTimeTicks": 635884201152573638,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635885113877460395
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT7M10.943S",
+          "Guid": "d0d272ef-b4e9-4844-83c7-53c5e699904b",
+          "Name": "Основные программные конструкции",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT6M6.177S",
+          "Guid": "d037853c-5ce7-4cde-a8ec-91d1bf025c5d",
+          "Name": "Массивы, коллекции, foreach",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635890785538848177
     },
     "PreparedChunks": null,
     "RawVideoHash": "B2-96-C4-44-C0-86-20-6F-2C-A0-A8-9E-66-DF-F6-0D",
@@ -7494,12 +7531,12 @@ FileContainer Tuto file Version 1
   },
   "Version": 1,
   "WindowState": {
-    "currentMode": 1,
-    "currentPosition": 1009419,
+    "currentMode": 0,
+    "currentPosition": 601934,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": false,
+    "desktopVideoIsVisible": true,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2
   }
 }
