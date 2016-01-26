@@ -773,7 +773,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-10-10-05.mm",
+    "DisplayedRawLocation": "Hackerdom\\10\\10-05",
     "Information": {
       "CreationTimeTicks": 635844000180000000,
       "Episodes": [
@@ -782,7 +782,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT0S",
           "Guid": "f27ceaf2-3926-42e3-a862-e04c6771b0cf",
           "Name": "Команда MOV",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "yXQ4Q6pS-XM"
         }

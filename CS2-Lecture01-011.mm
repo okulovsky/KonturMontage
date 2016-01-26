@@ -4454,7 +4454,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-Lecture01-011.mm",
+    "DisplayedRawLocation": "CS2\\Lecture01\\011",
     "Information": {
       "CreationTimeTicks": 635840680780000000,
       "Episodes": [
@@ -4463,7 +4463,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M25.988S",
           "Guid": "386b291c-c0e4-4872-9ab9-72a24b6b301f",
           "Name": "Вводные сведения",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "4yhaQSJqjt4"
         },
@@ -4472,7 +4472,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT2M35.474S",
           "Guid": "2859c338-d721-46bf-91b1-479bc92b5958",
           "Name": "Обзор упражнений",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "xrFHhFWQ3r8"
         },
@@ -4481,7 +4481,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT16M59.174S",
           "Guid": "33682059-91f2-4f5f-a582-e4a70c13e1a9",
           "Name": "Создание класса",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "cCWOc_CtCFA"
         }

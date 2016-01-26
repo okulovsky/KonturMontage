@@ -1862,7 +1862,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-Lecture01-012.mm",
+    "DisplayedRawLocation": "CS2\\Lecture01\\012",
     "Information": {
       "CreationTimeTicks": 635840680780000000,
       "Episodes": [
@@ -1871,7 +1871,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M42.697S",
           "Guid": "3c1ae31d-2d0f-4a3e-bff5-b05a5f557bf3",
           "Name": "Конструкторы",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "ptBO255MX9E"
         },
@@ -1880,7 +1880,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT3M46.056S",
           "Guid": "bd78f395-7296-41bb-b170-d3a251ce1bc8",
           "Name": "Индексаторы",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "CvNAoRY38VM"
         },
@@ -1889,7 +1889,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M56.275S",
           "Guid": "7e7f8938-b9e4-4506-a424-9ea3634a73d8",
           "Name": "Структуры",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "EaW7w213STw"
         },
@@ -1898,7 +1898,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT3M1.61S",
           "Guid": "23104273-75dd-43d7-b999-3b48c40f0830",
           "Name": "Перегрузка операторов",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "x7j9cSUwtfA"
         }

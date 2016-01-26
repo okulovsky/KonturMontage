@@ -1196,7 +1196,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-10-10-01.mm",
+    "DisplayedRawLocation": "Hackerdom\\10\\10-01",
     "Information": {
       "CreationTimeTicks": 635844000180000000,
       "Episodes": [
@@ -1205,7 +1205,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT17M33.221S",
           "Guid": "e1ab44a2-c4c4-45f5-807b-cbea25dd743d",
           "Name": "Архитектура компьютера",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "0mcNIH6z9vQ"
         }

@@ -782,7 +782,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-12-12-06.mm",
+    "DisplayedRawLocation": "Hackerdom\\12\\12-06",
     "Information": {
       "CreationTimeTicks": 635863130530000000,
       "Episodes": [
@@ -791,7 +791,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT13M17.187S",
           "Guid": "1196f4d3-49ad-4314-bc08-e469e1cc640c",
           "Name": "Запись произвольной памяти",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "RhMjPXHytZQ"
         }

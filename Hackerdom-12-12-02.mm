@@ -764,7 +764,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-12-12-02.mm",
+    "DisplayedRawLocation": "Hackerdom\\12\\12-02",
     "Information": {
       "CreationTimeTicks": 635863130530000000,
       "Episodes": [
@@ -773,7 +773,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT15M0.293S",
           "Guid": "3bda1c2c-c2a1-4fb0-9146-fccc47daf93b",
           "Name": "Переполнение стека",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "7votHlnZ3PE"
         }

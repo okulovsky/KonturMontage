@@ -827,7 +827,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M43.837S",
           "Guid": "da17f8a5-e4bb-42bd-a601-478d62bb4a5d",
           "Name": "Стандарт POSIX, Minix",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "-ZT8Z7yp8nw"
         }

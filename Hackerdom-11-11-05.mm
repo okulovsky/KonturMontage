@@ -836,7 +836,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-11-11-05.mm",
+    "DisplayedRawLocation": "Hackerdom\\11\\11-05",
     "Information": {
       "CreationTimeTicks": 635856168210000000,
       "Episodes": [
@@ -845,7 +845,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT14M20.336S",
           "Guid": "ab9abdef-959a-4d31-b7af-40255df35d50",
           "Name": "Антиотладка",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "GPO_1pTqxhc"
         }

@@ -584,7 +584,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M37.644S",
           "Guid": "942e5bdf-e8ac-4b71-bd41-6b6907047a9f",
           "Name": "GNU, FSF",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "UFSUPRiSO0I"
         }

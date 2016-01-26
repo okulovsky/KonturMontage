@@ -539,7 +539,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-12-12-04.mm",
+    "DisplayedRawLocation": "Hackerdom\\12\\12-04",
     "Information": {
       "CreationTimeTicks": 635863130530000000,
       "Episodes": [
@@ -548,7 +548,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT7M39.497S",
           "Guid": "b21f7904-eeee-4a9e-b1db-def706019959",
           "Name": "OpenSSL Heartbleed",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "CcBPDa8IXtg"
         }

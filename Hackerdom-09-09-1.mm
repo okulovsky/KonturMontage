@@ -1952,7 +1952,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT18M6.463S",
           "Guid": "ed14c5f4-1061-4c62-9497-67a8ddcb4a9d",
           "Name": "Операционные системы",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "GYYqIdgHD6c"
         }

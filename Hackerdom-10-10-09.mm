@@ -359,7 +359,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-10-10-09.mm",
+    "DisplayedRawLocation": "Hackerdom\\10\\10-09",
     "Information": {
       "CreationTimeTicks": 635844000180000000,
       "Episodes": [
@@ -368,7 +368,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT0S",
           "Guid": "45cbad06-e7b0-4c02-b74d-7802b4d09d0e",
           "Name": "Безусловный переход",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "H-a9bGdmN1k"
         }

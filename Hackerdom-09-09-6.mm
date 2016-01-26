@@ -1736,7 +1736,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT16M20.057S",
           "Guid": "a0357ffa-f00f-4030-be9c-159633c3568a",
           "Name": "Загрузка системы",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "jCOHJfgHMx4"
         }

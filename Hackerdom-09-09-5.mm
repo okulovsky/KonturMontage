@@ -890,7 +890,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M51.766S",
           "Guid": "dd4267c3-d178-4644-a07d-c30bed4b2d21",
           "Name": "Unix Way",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "Zm0xjc14obQ"
         }

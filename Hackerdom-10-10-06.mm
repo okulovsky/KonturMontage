@@ -404,7 +404,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-10-10-06.mm",
+    "DisplayedRawLocation": "Hackerdom\\10\\10-06",
     "Information": {
       "CreationTimeTicks": 635844000180000000,
       "Episodes": [
@@ -413,7 +413,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT0S",
           "Guid": "6db2fb3a-60c2-40d6-a7cc-ddfba2d016b0",
           "Name": "Стек",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "LaeDaCqUOuQ"
         }

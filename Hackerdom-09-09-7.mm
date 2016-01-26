@@ -1295,7 +1295,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT12M9.569S",
           "Guid": "3545dbbb-e990-4401-9892-3bf001bedd6c",
           "Name": "Пользователи",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "q7_RNzKL9YM"
         }

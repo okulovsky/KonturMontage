@@ -413,7 +413,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-10-10-02.mm",
+    "DisplayedRawLocation": "Hackerdom\\10\\10-02",
     "Information": {
       "CreationTimeTicks": 635844000180000000,
       "Episodes": [
@@ -422,7 +422,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M26.368S",
           "Guid": "7f2512c2-5df5-44c0-b787-6c439d7a5154",
           "Name": "Принцип Фон Неймана",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "4B30SevpHvY"
         }

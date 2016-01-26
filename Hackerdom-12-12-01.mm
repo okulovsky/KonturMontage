@@ -1223,7 +1223,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-12-12-01.mm",
+    "DisplayedRawLocation": "Hackerdom\\12\\12-01",
     "Information": {
       "CreationTimeTicks": 635863130530000000,
       "Episodes": [
@@ -1232,7 +1232,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT3M1.787S",
           "Guid": "4895ff12-8a51-45d1-a32e-956347066598",
           "Name": "Введение в бинарные уязвимости",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "kZBt15ineJ8"
         },
@@ -1241,7 +1241,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT0S",
           "Guid": "612bbc3f-cbb4-4d0b-a2c4-6f571c1416d5",
           "Name": "Отладчик GDB",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "RCD_x--emVE"
         }

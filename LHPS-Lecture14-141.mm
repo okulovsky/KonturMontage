@@ -2420,7 +2420,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT10M32.617S",
           "Guid": "e6dbb009-d125-45a0-b9a0-a1cfcb43c321",
           "Name": "Мотивация исследователей",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "B2pkt2RWMWU"
         },
@@ -2429,7 +2429,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M38.847S",
           "Guid": "e2a46c8a-b3d6-45e1-a44c-98ef247b99e3",
           "Name": "Государственное регулирование науки",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "URPrzagcwyk"
         },
@@ -2438,7 +2438,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT6M9.572S",
           "Guid": "2b408f5c-d4f0-4b6e-8fdb-84bd2e2fe81b",
           "Name": "Научный институт",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "DK7ipNz1Yuk"
         }

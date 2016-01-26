@@ -1295,7 +1295,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-11-11-04.mm",
+    "DisplayedRawLocation": "Hackerdom\\11\\11-04",
     "Information": {
       "CreationTimeTicks": 635856168210000000,
       "Episodes": [
@@ -1304,7 +1304,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT12M18.387S",
           "Guid": "26f3391a-2792-430d-8398-8e7312dfd0fc",
           "Name": "Объектно-ориентированное программирование",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "RcrSby2hA78"
         },
@@ -1313,7 +1313,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT14M40.642S",
           "Guid": "344de5f8-8657-420c-a5a2-e2e648739ab6",
           "Name": "Пакеры",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "5r0-Yadh944"
         }

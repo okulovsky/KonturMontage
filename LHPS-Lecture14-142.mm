@@ -2159,7 +2159,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M35.325S",
           "Guid": "d7c1a42a-acb0-427a-9731-a1f9dd5cf26b",
           "Name": "Закрытость научного института",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "wISKMj9k89U"
         },
@@ -2168,7 +2168,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT4M2.654S",
           "Guid": "5d3b84e6-c9a1-4c71-814b-73a7de4ca763",
           "Name": "Глобальность научного института",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "hzd1oe_t004"
         },
@@ -2177,7 +2177,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M37.418S",
           "Guid": "e81f9fff-7ce7-47ab-96df-b29997c42619",
           "Name": "Научные публикации",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "bmNHoiQZ4rw"
         },
@@ -2186,7 +2186,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT9M4.455S",
           "Guid": "c7cb24a3-fc15-4169-a581-f6907b82de88",
           "Name": "Вторичные источники и массовая культура",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "etf37jNrpNE"
         }

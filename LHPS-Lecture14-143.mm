@@ -2042,7 +2042,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT10M27.248S",
           "Guid": "52fb5157-60ef-4c4c-8fe6-efd879f6a453",
           "Name": "Наукометрика",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "dTdykI25qCw"
         },
@@ -2051,7 +2051,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M12.125S",
           "Guid": "776d30c4-3fce-4aa7-85f0-19247fd3fdfa",
           "Name": "Критика сложившейся модели",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "3REw3FSkc1Y"
         },
@@ -2060,7 +2060,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT11M3.609S",
           "Guid": "01ee810a-3d76-4ddc-b7a8-d970a1c8e752",
           "Name": "Издательства тщеславия",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "8qEp6qOMs4A"
         }

@@ -1916,7 +1916,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT17M47.041S",
           "Guid": "745cd0a2-dee1-4596-ba6e-345edf3dda39",
           "Name": "История Linux, дистрибутивы",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "6Yez_CHvN3w"
         }

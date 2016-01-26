@@ -1475,7 +1475,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT16M42.666S",
           "Guid": "199bdd47-8111-427d-8677-00e434745302",
           "Name": "Команды Linux",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "2OV4d9-aXao"
         }

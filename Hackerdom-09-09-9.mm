@@ -575,7 +575,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT5M16.596S",
           "Guid": "fbd2a4df-0e0a-4961-ba81-852fb97b4be5",
           "Name": "Виртуальные машины",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "Zn7CrWDnqBM"
         }

@@ -1025,7 +1025,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-10-10-03.mm",
+    "DisplayedRawLocation": "Hackerdom\\10\\10-03",
     "Information": {
       "CreationTimeTicks": 635844000180000000,
       "Episodes": [
@@ -1034,7 +1034,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT10M0.127S",
           "Guid": "552b9070-0243-4655-989f-5f856c189084",
           "Name": "Регистры процессоров",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "QBA_tMfTop0"
         }

@@ -1601,7 +1601,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-11-11-02.mm",
+    "DisplayedRawLocation": "Hackerdom\\11\\11-02",
     "Information": {
       "CreationTimeTicks": 635856168210000000,
       "Episodes": [
@@ -1610,7 +1610,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT17M2.179S",
           "Guid": "6a0773c7-1aa2-44b3-af3e-3f53691a55a7",
           "Name": "Как устроен РЕ-файл",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "-votu30GtkM"
         }

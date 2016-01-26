@@ -422,7 +422,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-10-10-07.mm",
+    "DisplayedRawLocation": "Hackerdom\\10\\10-07",
     "Information": {
       "CreationTimeTicks": 635844000180000000,
       "Episodes": [
@@ -431,7 +431,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT0S",
           "Guid": "93f658c4-84bd-4312-b8ec-8b0d5945962f",
           "Name": "Арифметические и логические операции",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "fulaXZPLDw0"
         }

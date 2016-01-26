@@ -2366,7 +2366,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Hackerdom-11-11-01.mm",
+    "DisplayedRawLocation": "Hackerdom\\11\\11-01",
     "Information": {
       "CreationTimeTicks": 635856168210000000,
       "Episodes": [
@@ -2375,7 +2375,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT17M0.713S",
           "Guid": "88892f91-997b-4739-a305-ada5ffff7439",
           "Name": "Введение в Reverse Engineering",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "X4JjFF3bSr0"
         },
@@ -2384,7 +2384,7 @@ FileContainer Tuto file Version 1
           "Duration": "PT8M52.899S",
           "Guid": "d93e0e1b-95ec-4ee1-8e18-696079347b6c",
           "Name": "Форматы исполняемых файлов",
-          "OutputType": 0,
+          "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": "i4wptvkEwHw"
         }
