@@ -515,7 +515,7 @@ FileContainer Tuto file Version 1
             false,
             true
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 142715
         },
         {
@@ -1172,7 +1172,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 285662
         },
         {
@@ -1440,6 +1440,15 @@ FileContainer Tuto file Version 1
           "Defined": true,
           "FromStream": [
             false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 358974
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
             true
           ],
           "StartsNewEpisode": false,
@@ -1550,7 +1559,7 @@ FileContainer Tuto file Version 1
             false,
             true
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 387319
         },
         {
@@ -2216,7 +2225,7 @@ FileContainer Tuto file Version 1
             false,
             true
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 531079
         },
         {
@@ -2794,6 +2803,24 @@ FileContainer Tuto file Version 1
           ],
           "StartsNewEpisode": false,
           "Time": 668979
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 670067
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 672867
         },
         {
           "Defined": true,
@@ -3737,14 +3764,14 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 917057
         },
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 918902
@@ -3783,7 +3810,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 929343
+          "Time": 928598
         },
         {
           "Defined": true,
@@ -4089,7 +4116,25 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1008280
+          "Time": 1007761
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1008161
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1010361
         },
         {
           "Defined": true,
@@ -4152,7 +4197,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1026716
+          "Time": 1027286
         },
         {
           "Defined": true,
@@ -4160,7 +4205,7 @@ FileContainer Tuto file Version 1
             false,
             true
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 1028815
         },
         {
@@ -4799,7 +4844,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 1238042
         },
         {
@@ -5529,7 +5574,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1388170
+          "Time": 1388370
         },
         {
           "Defined": true,
@@ -5796,7 +5841,7 @@ FileContainer Tuto file Version 1
           "Defined": true,
           "FromStream": [
             false,
-            true
+            false
           ],
           "StartsNewEpisode": false,
           "Time": 1445774
@@ -5805,7 +5850,7 @@ FileContainer Tuto file Version 1
           "Defined": true,
           "FromStream": [
             false,
-            true
+            false
           ],
           "StartsNewEpisode": false,
           "Time": 1447337
@@ -5814,7 +5859,7 @@ FileContainer Tuto file Version 1
           "Defined": true,
           "FromStream": [
             false,
-            true
+            false
           ],
           "StartsNewEpisode": false,
           "Time": 1449150
@@ -5826,7 +5871,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 1450897
+          "Time": 1450278
         },
         {
           "Defined": true,
@@ -6239,8 +6284,81 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "CS2\\Lecture05\\3",
     "Information": {
       "CreationTimeTicks": 635885497601581515,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635886846293743879
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT1M50.404S",
+          "Guid": "0b9e9452-55c9-4612-9ed7-ea7c5c1f93e1",
+          "Name": "Реализация интерфейса - задача",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT2M10.75S",
+          "Guid": "e68b0a07-5586-4b39-9c45-15ddc697b6be",
+          "Name": "Реализация интерфейса - решение",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT1M32.209S",
+          "Guid": "cb9fb619-e6ef-42a6-9ca7-a71e81cadd28",
+          "Name": "Выделение метода - задача",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT2M23.76S",
+          "Guid": "09f140a8-fda0-4134-bb29-e473923bf678",
+          "Name": "Выделение метода - решение",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT5M42.77S",
+          "Guid": "c16ecf93-7972-48df-9cd8-fd4c10108f27",
+          "Name": "Чистые и грязные методы",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT1M26.348S",
+          "Guid": "f44db8b4-54b7-4ccc-a9ff-2b7244b50880",
+          "Name": "Наследование - задача",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT3M29.227S",
+          "Guid": "fabc5944-8832-406a-9969-48400ca42a80",
+          "Name": "Наследование - решение",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT4M15.106S",
+          "Guid": "cf5f50f1-e4ac-415e-8d54-b9c17eb7654d",
+          "Name": "Роль архитектуры в приложении",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635894236106659647
     },
     "PreparedChunks": null,
     "RawVideoHash": "61-36-8D-A7-56-D1-46-74-33-AB-17-03-EB-AF-E6-DD",
@@ -11887,11 +12005,11 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 1521189,
+    "currentPosition": 147719,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": false,
-    "faceVideoIsVisible": true,
+    "desktopVideoIsVisible": true,
+    "faceVideoIsVisible": false,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 1.5
   }
 }
