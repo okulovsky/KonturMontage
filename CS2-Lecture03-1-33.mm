@@ -1153,7 +1153,7 @@ FileContainer Tuto file Version 1
           "Name": "Структуры",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "ssM4Rzv6fZo"
         }
       ],
       "LastModificationTimeTicks": 635879141755323005

@@ -5194,7 +5194,7 @@ FileContainer Tuto file Version 1
           "Name": "Большой рефакторинг - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "leBjV-KlOmc"
         },
         {
           "Dirty": false,
@@ -5203,7 +5203,7 @@ FileContainer Tuto file Version 1
           "Name": "Большой рефакторинг - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "QpfuNeNluJw"
         },
         {
           "Dirty": false,
@@ -5212,7 +5212,7 @@ FileContainer Tuto file Version 1
           "Name": "Single Responsibility Principle",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "Sxa42a9Pn1A"
         },
         {
           "Dirty": false,

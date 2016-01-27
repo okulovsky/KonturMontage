@@ -2701,7 +2701,7 @@ FileContainer Tuto file Version 1
           "Name": "Hello, world",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "D7rAvLYc_MI"
         },
         {
           "Dirty": false,
@@ -2710,7 +2710,7 @@ FileContainer Tuto file Version 1
           "Name": "Типы данных",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "zso3ORIBvcQ"
         }
       ],
       "LastModificationTimeTicks": 635890776831090122

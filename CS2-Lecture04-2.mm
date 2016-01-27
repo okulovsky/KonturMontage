@@ -2755,7 +2755,7 @@ FileContainer Tuto file Version 1
           "Name": "Дополнение к явной реализации",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "lsbpCxcOikA"
         },
         {
           "Dirty": false,
@@ -2764,7 +2764,7 @@ FileContainer Tuto file Version 1
           "Name": "Полиморфизм и абстрактные базовые классы",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "E0ombjiW-Yk"
         },
         {
           "Dirty": false,
@@ -2773,7 +2773,7 @@ FileContainer Tuto file Version 1
           "Name": "Ключевые слова new и sealed",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "CXIre0DJY80"
         }
       ],
       "LastModificationTimeTicks": 635881257023692451

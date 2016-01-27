@@ -2269,7 +2269,7 @@ FileContainer Tuto file Version 1
           "Name": "Ссылочные типы и типы-значения",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "rqEzeU5VIm8"
         }
       ],
       "LastModificationTimeTicks": 635890789355816495

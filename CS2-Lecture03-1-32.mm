@@ -1378,7 +1378,7 @@ FileContainer Tuto file Version 1
           "Name": "Свойства",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "UHpavsWYwR4"
         }
       ],
       "LastModificationTimeTicks": 635881283810502494

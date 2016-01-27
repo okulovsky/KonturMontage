@@ -4708,7 +4708,7 @@ FileContainer Tuto file Version 1
           "Name": "Конструкторы - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "vpT9x2bLcuM"
         },
         {
           "Dirty": false,
@@ -4717,7 +4717,7 @@ FileContainer Tuto file Version 1
           "Name": "Конструкторы - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "zu-xc5dAvsQ"
         },
         {
           "Dirty": false,
@@ -4726,7 +4726,7 @@ FileContainer Tuto file Version 1
           "Name": "Индексаторы - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "NfnUrkFlezw"
         },
         {
           "Dirty": false,
@@ -4735,7 +4735,7 @@ FileContainer Tuto file Version 1
           "Name": "Индексаторы - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "uIw_z9bY5yc"
         },
         {
           "Dirty": false,
@@ -4744,7 +4744,7 @@ FileContainer Tuto file Version 1
           "Name": "Структуры - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "hpJKc2SLBJA"
         },
         {
           "Dirty": false,
@@ -4753,7 +4753,7 @@ FileContainer Tuto file Version 1
           "Name": "Структуры - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "SzSjUDUxuLA"
         },
         {
           "Dirty": false,
@@ -4762,7 +4762,7 @@ FileContainer Tuto file Version 1
           "Name": "Операторы - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "nFU8QkbVDSo"
         },
         {
           "Dirty": false,
@@ -4771,7 +4771,7 @@ FileContainer Tuto file Version 1
           "Name": "Операторы - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "VqrndE0kSmI"
         }
       ],
       "LastModificationTimeTicks": 635894217154955671

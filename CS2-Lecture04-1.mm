@@ -2026,7 +2026,7 @@ FileContainer Tuto file Version 1
           "Name": "Наследование",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "0OHrlYoV1UE"
         },
         {
           "Dirty": false,
@@ -2035,7 +2035,7 @@ FileContainer Tuto file Version 1
           "Name": "Интерфейсы",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "bIxM4KD-Lao"
         }
       ],
       "LastModificationTimeTicks": 635881248165505792

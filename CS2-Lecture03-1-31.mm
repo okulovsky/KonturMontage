@@ -2818,7 +2818,7 @@ FileContainer Tuto file Version 1
           "Name": "public, private, static",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "EXmVrpre-ko"
         },
         {
           "Dirty": false,
@@ -2827,7 +2827,7 @@ FileContainer Tuto file Version 1
           "Name": "Модификатор internal",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "VaqFmubBCmQ"
         },
         {
           "Dirty": false,
@@ -2836,7 +2836,7 @@ FileContainer Tuto file Version 1
           "Name": "Конструкторы",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "kz3zS1mioxs"
         },
         {
           "Dirty": false,
@@ -2845,7 +2845,7 @@ FileContainer Tuto file Version 1
           "Name": "Порядок инициализации",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "s3NGfHJLLZ8"
         },
         {
           "Dirty": false,
@@ -2854,7 +2854,7 @@ FileContainer Tuto file Version 1
           "Name": "Перегруженные методы и параметры по умолчанию",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "SMvzG3oTSyA"
         },
         {
           "Dirty": false,
@@ -2863,7 +2863,7 @@ FileContainer Tuto file Version 1
           "Name": "Операторы",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "FoIAgf6usqo"
         }
       ],
       "LastModificationTimeTicks": 635881279998102683

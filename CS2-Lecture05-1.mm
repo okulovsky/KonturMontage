@@ -4726,7 +4726,7 @@ FileContainer Tuto file Version 1
           "Name": "Выделение класса - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "T2-5KGp4q_0"
         },
         {
           "Dirty": false,
@@ -4735,7 +4735,7 @@ FileContainer Tuto file Version 1
           "Name": "Выделение класса - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "jM7pX_TJt7Q"
         },
         {
           "Dirty": false,
@@ -4744,7 +4744,7 @@ FileContainer Tuto file Version 1
           "Name": "Свойства - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "xtykqo2X-0Q"
         },
         {
           "Dirty": false,
@@ -4753,7 +4753,7 @@ FileContainer Tuto file Version 1
           "Name": "Свойства - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "WPhsEGOrL5o"
         },
         {
           "Dirty": false,
@@ -4762,7 +4762,7 @@ FileContainer Tuto file Version 1
           "Name": "Маскировка ошибок vs решение проблем",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "H63-3RLpEWE"
         }
       ],
       "LastModificationTimeTicks": 635894207686454104

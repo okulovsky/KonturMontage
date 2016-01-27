@@ -3889,7 +3889,7 @@ FileContainer Tuto file Version 1
           "Name": "Основные программные конструкции",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "n48nTUiYiUg"
         },
         {
           "Dirty": false,
@@ -3898,7 +3898,7 @@ FileContainer Tuto file Version 1
           "Name": "Массивы, коллекции, foreach",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "_Ghkv4hueVo"
         }
       ],
       "LastModificationTimeTicks": 635890785538848177

@@ -6292,7 +6292,7 @@ FileContainer Tuto file Version 1
           "Name": "Реализация интерфейса - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "MsGTBYxYid4"
         },
         {
           "Dirty": false,
@@ -6301,7 +6301,7 @@ FileContainer Tuto file Version 1
           "Name": "Реализация интерфейса - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "Q0caGBmpOAg"
         },
         {
           "Dirty": false,
@@ -6310,7 +6310,7 @@ FileContainer Tuto file Version 1
           "Name": "Выделение метода - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "008slFq5xwg"
         },
         {
           "Dirty": false,
@@ -6319,7 +6319,7 @@ FileContainer Tuto file Version 1
           "Name": "Выделение метода - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "xwSiuSKQ7jw"
         },
         {
           "Dirty": false,
@@ -6328,7 +6328,7 @@ FileContainer Tuto file Version 1
           "Name": "Чистые и грязные методы",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "dOF5uN3eWGg"
         },
         {
           "Dirty": false,
@@ -6337,7 +6337,7 @@ FileContainer Tuto file Version 1
           "Name": "Наследование - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "3csXEO9Clvo"
         },
         {
           "Dirty": false,
@@ -6346,7 +6346,7 @@ FileContainer Tuto file Version 1
           "Name": "Наследование - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "7VMFl0L18Q0"
         },
         {
           "Dirty": false,
@@ -6355,7 +6355,7 @@ FileContainer Tuto file Version 1
           "Name": "Роль архитектуры в приложении",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "Imm6V4tTcCY"
         }
       ],
       "LastModificationTimeTicks": 635894236106659647

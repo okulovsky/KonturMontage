@@ -1738,7 +1738,7 @@ FileContainer Tuto file Version 1
           "Name": "Индексаторы",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "ssM4Rzv6fZo"
         },
         {
           "Dirty": false,
@@ -1747,7 +1747,7 @@ FileContainer Tuto file Version 1
           "Name": "Структуры",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "NmnoZsI4EIQ"
         }
       ],
       "LastModificationTimeTicks": 635881330185997813

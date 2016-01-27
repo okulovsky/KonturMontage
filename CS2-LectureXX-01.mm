@@ -2431,7 +2431,7 @@ FileContainer Tuto file Version 1
           "Name": "Введение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "ZSoifyky1Vo"
         },
         {
           "Dirty": false,
@@ -2440,7 +2440,7 @@ FileContainer Tuto file Version 1
           "Name": "C# и Java",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "8Oh2vxrR_aM"
         },
         {
           "Dirty": false,
@@ -2449,7 +2449,7 @@ FileContainer Tuto file Version 1
           "Name": "C# и C",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "bJ0kpVHPhco"
         },
         {
           "Dirty": false,
@@ -2458,7 +2458,7 @@ FileContainer Tuto file Version 1
           "Name": "C# и Python, PHP",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "G50y41c2Wvw"
         },
         {
           "Dirty": false,
@@ -2467,7 +2467,7 @@ FileContainer Tuto file Version 1
           "Name": "C# и другие языки",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "wcU7pQ4bfqs"
         }
       ],
       "LastModificationTimeTicks": 635890684345418703
