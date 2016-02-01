@@ -863,11 +863,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
+            false,
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 611866
+          "Time": 611836
         },
         {
           "Defined": true,
@@ -876,7 +876,25 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 617098
+          "Time": 614397
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 615594
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 616898
         },
         {
           "Defined": true,
@@ -4208,7 +4226,7 @@ FileContainer Tuto file Version 1
       "Episodes": [
         {
           "Dirty": false,
-          "Duration": "PT16M33.21S",
+          "Duration": "PT16M29.252S",
           "Guid": "31df9f5f-d0b5-41dd-aa45-37d9d676b142",
           "Name": "Прокси",
           "OutputType": 1,
@@ -4216,7 +4234,7 @@ FileContainer Tuto file Version 1
           "YoutubeId": null
         }
       ],
-      "LastModificationTimeTicks": 635874889090000000
+      "LastModificationTimeTicks": 635898437217137572
     },
     "PreparedChunks": [
       {},
@@ -8936,10 +8954,10 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 2436822,
+    "currentPosition": 1494447,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": true,
-    "faceVideoIsVisible": false,
+    "desktopVideoIsVisible": false,
+    "faceVideoIsVisible": true,
     "paused": true,
     "speedRatio": 1
   }

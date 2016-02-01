@@ -485,11 +485,20 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 420217
+        },
+        {
+          "Defined": true,
+          "FromStream": [
             true,
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 422519
+          "Time": 423119
         },
         {
           "Defined": true,
@@ -607,6 +616,33 @@ FileContainer Tuto file Version 1
           ],
           "StartsNewEpisode": false,
           "Time": 517399
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 521371
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 523821
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 524477
         },
         {
           "Defined": true,
@@ -1778,7 +1814,7 @@ FileContainer Tuto file Version 1
       "Episodes": [
         {
           "Dirty": false,
-          "Duration": "PT11M36.358S",
+          "Duration": "PT11M30.35S",
           "Guid": "524e0582-2347-4b5e-aa8f-3126a712383d",
           "Name": "Кейлогеры, багтрекеры",
           "OutputType": 1,
@@ -1786,7 +1822,7 @@ FileContainer Tuto file Version 1
           "YoutubeId": null
         }
       ],
-      "LastModificationTimeTicks": 635874889090000000
+      "LastModificationTimeTicks": 635898438944710229
     },
     "PreparedChunks": [
       {},
@@ -2710,10 +2746,10 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 786958,
+    "currentPosition": 528276,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": true,
-    "faceVideoIsVisible": false,
+    "desktopVideoIsVisible": false,
+    "faceVideoIsVisible": true,
     "paused": true,
     "speedRatio": 1
   }
