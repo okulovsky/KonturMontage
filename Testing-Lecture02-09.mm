@@ -35,16 +35,16 @@ FileContainer Tuto file Version 1
       }
     ],
     "SubtitleFixes": [],
-    "SynchronizationShift": 0
+    "SynchronizationShift": 5307
   },
   "Version": 1,
   "WindowState": {
     "currentMode": 0,
-    "currentPosition": 0,
+    "currentPosition": 5308,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": true,
-    "paused": true,
+    "paused": false,
     "speedRatio": 1
   }
 }

@@ -165,7 +165,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 38117
+          "Time": 38717
         },
         {
           "Defined": true,
@@ -552,7 +552,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 155997
+          "Time": 155597
         },
         {
           "Defined": true,
@@ -570,7 +570,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 158875
+          "Time": 158675
         },
         {
           "Defined": true,
@@ -597,7 +597,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 164494
+          "Time": 164544
         },
         {
           "Defined": true,
@@ -849,7 +849,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 226316
+          "Time": 226516
         },
         {
           "Defined": true,
@@ -858,7 +858,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 227137
+          "Time": 227737
         },
         {
           "Defined": true,
@@ -867,7 +867,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 229640
+          "Time": 230240
         },
         {
           "Defined": true,
@@ -921,7 +921,1123 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 242790
+          "Time": 242727
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 242727
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 243127
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 247129
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 249020
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 251330
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 254152
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 264723
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 269506
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 270592
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 273375
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 274918
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 278295
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 282873
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 287493
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 290597
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 296082
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 297354
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 300811
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 306943
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 309894
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 314550
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 318072
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 322087
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 326271
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 331416
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 335766
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 337922
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 340035
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 351532
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 365520
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 378229
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 387997
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 394292
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 399449
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 404129
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 407748
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 411855
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 413694
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 426075
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 428802
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 432565
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 435021
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 437029
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 443525
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 446918
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 451302
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 453946
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 458036
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 460658
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 463370
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 466960
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 469521
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 473083
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 476850
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 480163
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 483488
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 485594
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 489202
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 492111
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 492959
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 495190
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 496656
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 497734
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 498519
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 504860
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 508003
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 511890
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 517178
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 519552
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 523335
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 525354
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 527835
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 530312
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 534880
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 541349
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 542256
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 545289
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 553732
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 557665
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 561861
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 565988
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 568349
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 571549
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 573140
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 575814
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 579613
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 583669
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 586842
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 590589
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 592446
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 594245
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 596548
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 598339
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 600969
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 605306
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 608289
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 611924
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 616142
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 617552
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 620270
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 621418
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 625331
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 631191
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 633299
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 637267
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 641855
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 645989
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 649075
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 650384
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 653918
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 659193
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 660910
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 664828
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 669390
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 673050
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 675930
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 679851
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 685004
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 691804
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 694127
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 696862
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 697522
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 699393
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 702068
         },
         {
           "Defined": false,
@@ -930,7 +2046,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 243508
+          "Time": 704912
         }
       ]
     },
@@ -938,8 +2054,18 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "Testing\\Lecture02\\10",
     "Information": {
       "CreationTimeTicks": 635887314980944311,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635898942140202388
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT6M15.19S",
+          "Guid": "fcf79093-4b51-43fe-9c22-b946e874931b",
+          "Name": "Выбор стратегии тестирования",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635899562901704005
     },
     "PreparedChunks": null,
     "RawVideoHash": "0A-0F-58-CD-C7-B1-61-24-C5-0E-CF-0B-BE-75-C7-AE",
@@ -2265,10 +3391,10 @@ FileContainer Tuto file Version 1
   },
   "Version": 1,
   "WindowState": {
-    "currentMode": 0,
-    "currentPosition": 245117,
+    "currentMode": 1,
+    "currentPosition": 25194,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": true,
+    "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
     "speedRatio": 1

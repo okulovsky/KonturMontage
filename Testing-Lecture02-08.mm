@@ -1096,7 +1096,7 @@ FileContainer Tuto file Version 1
           "Dirty": false,
           "Duration": "PT2M22.742S",
           "Guid": "4a3fdf60-d7c2-4ed4-a4b2-84d39a317092",
-          "Name": "Оценка рисков",
+          "Name": "Оценка рисков и времени",
           "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
@@ -1121,7 +1121,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 38224,
+    "currentPosition": 36848,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": false,

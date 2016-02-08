@@ -1916,7 +1916,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 16831,
+    "currentPosition": 17054,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": false,
