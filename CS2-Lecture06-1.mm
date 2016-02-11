@@ -705,7 +705,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 242790
+          "Time": 243190
         },
         {
           "Defined": true,
@@ -2963,12 +2963,50 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "CS2\\Lecture06\\1",
     "Information": {
       "CreationTimeTicks": 635885497601581515,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635898528013064274
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT1M45.035S",
+          "Guid": "f8cb42f7-9353-4263-9625-5184d1d732a0",
+          "Name": "Простое делегирование, задача",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT6M22.828S",
+          "Guid": "f0211376-0739-4fe6-bc77-3957d80c93fb",
+          "Name": "Простое делегирование, решение",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT1M22.434S",
+          "Guid": "0da86f55-fd69-45f9-81b5-0e9db0f9131b",
+          "Name": "Более сложное делегирование, задача",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT6M13.455S",
+          "Guid": "404fd639-aefe-4a5f-9da7-2f23b96c6313",
+          "Name": "Более сложное делегирование, решение",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635907859243120461
     },
     "PreparedChunks": null,
     "RawVideoHash": "0D-BE-FC-D9-DF-31-C0-A8-67-41-70-4D-7C-01-C0-B4",
     "ReadyToEdit": false,
+    "Signs": [],
     "SoundIntervals": [
       {
         "EndTime": 21074,
@@ -6799,7 +6837,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 1248873,
+    "currentPosition": 1248877,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": false,

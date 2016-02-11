@@ -1118,7 +1118,7 @@ FileContainer Tuto file Version 1
             false,
             true
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 441258
         },
         {
@@ -1928,17 +1928,26 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 762038
         },
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 767434
+          "Time": 767419
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 772155
         },
         {
           "Defined": true,
@@ -1947,16 +1956,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 772800
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 777546
+          "Time": 776663
         },
         {
           "Defined": true,
@@ -3845,12 +3845,68 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "CS2\\Lecture06\\4",
     "Information": {
       "CreationTimeTicks": 635885497601581515,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635898898579762088
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT1M41.596S",
+          "Guid": "cb5e1b36-2c1e-4e55-8793-2b80e0416205",
+          "Name": "Рефакторинг рефлексии - задача",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT5M8.564S",
+          "Guid": "a651577a-7bf9-400c-811b-e1d7e44aae34",
+          "Name": "Рефакторинг рефлексии - решение",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT48.773S",
+          "Guid": "f95758e9-5b46-4f2a-ad9b-bb077e73d57e",
+          "Name": "Оптимизация рефлекции - задача",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT3M38.582S",
+          "Guid": "502350ad-0950-4ddc-8388-e734c8adc117",
+          "Name": "Оптимизация рефлексии - решение",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT49.205S",
+          "Guid": "8bee9bd4-1acc-483b-aa01-973c35c25517",
+          "Name": "Expressions - задача",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT9M19.948S",
+          "Guid": "eb664e9f-5d20-45f4-aa39-fcab13cb4b79",
+          "Name": "Expressions - решение",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635907891749420658
     },
     "PreparedChunks": null,
     "RawVideoHash": "27-6A-C4-E7-F2-6E-A7-36-82-60-36-30-E0-35-0E-AA",
     "ReadyToEdit": false,
+    "Signs": [],
     "SoundIntervals": [
       {
         "EndTime": 11963,
@@ -9541,7 +9597,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 1450619,
+    "currentPosition": 1450622,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": false,

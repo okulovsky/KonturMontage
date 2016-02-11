@@ -1110,7 +1110,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 459707
+          "Time": 459257
         },
         {
           "Defined": true,
@@ -1577,7 +1577,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 662242
         },
         {
@@ -2342,12 +2342,50 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "CS2\\Lecture06\\3",
     "Information": {
       "CreationTimeTicks": 635885497601581515,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635898880501134629
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT2M24.349S",
+          "Guid": "16f8af66-41f6-4582-92e3-cb873b3b06df",
+          "Name": "Рефлексия типов - задача",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT6M35.556S",
+          "Guid": "7e35622e-81da-4c1a-bd5b-ee5a578355a1",
+          "Name": "Рефлексия типов - решение",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT1M43S",
+          "Guid": "3a03a896-cca6-4c3f-8318-8efe584d4cc1",
+          "Name": "Профайлинг рефлексии - задача",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT4M1.172S",
+          "Guid": "263f495c-0104-432a-977f-21170b560e78",
+          "Name": "Профайлинг рефлексии - решение",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635907884846635841
     },
     "PreparedChunks": null,
     "RawVideoHash": "B4-F8-B8-8F-3F-DA-C3-BF-A7-ED-58-51-96-58-8F-52",
     "ReadyToEdit": false,
+    "Signs": [],
     "SoundIntervals": [
       {
         "EndTime": 17160,
@@ -6058,7 +6096,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 1067311,
+    "currentPosition": 1067326,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
