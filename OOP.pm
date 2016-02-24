@@ -17,14 +17,44 @@ PublishingModel Tuto file Version 1
               "PlaylistId": "[Enter PlaylistIdHere]"
             },
             {
-              "Caption": "Инкапсуляция",
+              "Caption": "Инкапсуляция (лекция)",
               "Guid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
               "Items": [],
               "PlaylistId": "[Enter PlaylistIdHere]"
             },
             {
-              "Caption": "Наследование и полиморфизм",
+              "Caption": "Инкапсуляция (тренинг)",
+              "Guid": "48998b38-092e-448e-a252-9ebc1cb441e2",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            },
+            {
+              "Caption": "Наследование и полиморфизм (лекция)",
               "Guid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            },
+            {
+              "Caption": "Наследование и полиморфизм (тренинг)",
+              "Guid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            },
+            {
+              "Caption": "Дженерики",
+              "Guid": "183a9a63-92b3-49cb-8298-4a9b5557bef0",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            },
+            {
+              "Caption": "Делегаты",
+              "Guid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            },
+            {
+              "Caption": "Рефлексия",
+              "Guid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
               "Items": [],
               "PlaylistId": "[Enter PlaylistIdHere]"
             }
@@ -131,68 +161,68 @@ PublishingModel Tuto file Version 1
         "VideoGuid": "9a54a05b-bb6f-4600-b27f-1b518824b96f"
       },
       {
-        "NumberInTopic": 9,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 0,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "0d599304-cd2a-4bbd-8610-e6f2f3d204e6"
       },
       {
-        "NumberInTopic": 10,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 1,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "2f6c9fc2-5ac4-4025-9d35-c9ece5b7f381"
       },
       {
-        "NumberInTopic": 11,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 2,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "c9d642e4-ca66-418f-a9eb-ec1ff902f015"
       },
       {
-        "NumberInTopic": 12,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 3,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "96aa88e4-c17a-40c8-aa9c-a876d6f23cc6"
       },
       {
-        "NumberInTopic": 13,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 4,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "cbaf4ab3-f892-416a-b8d4-18846aa4ed8f"
       },
       {
-        "NumberInTopic": 14,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 5,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "dbe74b6c-9ce5-4815-a64f-b6d17d7b0272"
       },
       {
-        "NumberInTopic": 15,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 6,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "d9c9eb7f-165d-47ba-92cb-66f2b7da262d"
       },
       {
-        "NumberInTopic": 16,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 7,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "120f2a91-2c41-429e-8325-dcb6e9dff16a"
       },
       {
-        "NumberInTopic": 17,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 8,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "a5011945-da28-4dd7-9e07-5146ce89e2d9"
       },
       {
-        "NumberInTopic": 18,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 9,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "8f302ff9-8e35-4864-9051-6c8e717b787d"
       },
       {
-        "NumberInTopic": 19,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 10,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "de09778b-36f9-4126-9587-dac89d941d5b"
       },
       {
-        "NumberInTopic": 20,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 11,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "da610f9e-0b39-42e9-896c-feec632f1542"
       },
       {
-        "NumberInTopic": 21,
-        "TopicGuid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
+        "NumberInTopic": 12,
+        "TopicGuid": "48998b38-092e-448e-a252-9ebc1cb441e2",
         "VideoGuid": "2a500d60-6281-43c8-bb70-fd650907de9a"
       },
       {
@@ -221,59 +251,189 @@ PublishingModel Tuto file Version 1
         "VideoGuid": "75965a9f-2bc4-4a82-b7c3-de5085d48cd1"
       },
       {
-        "NumberInTopic": 5,
-        "TopicGuid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+        "NumberInTopic": 0,
+        "TopicGuid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
         "VideoGuid": "0b9e9452-55c9-4612-9ed7-ea7c5c1f93e1"
       },
       {
-        "NumberInTopic": 6,
-        "TopicGuid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+        "NumberInTopic": 1,
+        "TopicGuid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
         "VideoGuid": "e68b0a07-5586-4b39-9c45-15ddc697b6be"
       },
       {
-        "NumberInTopic": 7,
-        "TopicGuid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+        "NumberInTopic": 2,
+        "TopicGuid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
         "VideoGuid": "cb9fb619-e6ef-42a6-9ca7-a71e81cadd28"
       },
       {
-        "NumberInTopic": 8,
-        "TopicGuid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+        "NumberInTopic": 3,
+        "TopicGuid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
         "VideoGuid": "09f140a8-fda0-4134-bb29-e473923bf678"
       },
       {
-        "NumberInTopic": 9,
-        "TopicGuid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+        "NumberInTopic": 4,
+        "TopicGuid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
         "VideoGuid": "c16ecf93-7972-48df-9cd8-fd4c10108f27"
       },
       {
-        "NumberInTopic": 10,
-        "TopicGuid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+        "NumberInTopic": 5,
+        "TopicGuid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
         "VideoGuid": "f44db8b4-54b7-4ccc-a9ff-2b7244b50880"
       },
       {
-        "NumberInTopic": 11,
-        "TopicGuid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+        "NumberInTopic": 6,
+        "TopicGuid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
         "VideoGuid": "fabc5944-8832-406a-9969-48400ca42a80"
       },
       {
-        "NumberInTopic": 12,
-        "TopicGuid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+        "NumberInTopic": 7,
+        "TopicGuid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
         "VideoGuid": "cf5f50f1-e4ac-415e-8d54-b9c17eb7654d"
       },
       {
-        "NumberInTopic": 13,
-        "TopicGuid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+        "NumberInTopic": 8,
+        "TopicGuid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
         "VideoGuid": "01460132-df59-486b-adf1-bd5c8288e40b"
       },
       {
-        "NumberInTopic": 14,
-        "TopicGuid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+        "NumberInTopic": 9,
+        "TopicGuid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
         "VideoGuid": "01502e03-43ac-498c-9f81-a24140267a21"
       },
       {
-        "NumberInTopic": 15,
-        "TopicGuid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
+        "NumberInTopic": 10,
+        "TopicGuid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
         "VideoGuid": "2ba0d223-183d-49f2-9d3d-7ce8c6deeaaf"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "183a9a63-92b3-49cb-8298-4a9b5557bef0",
+        "VideoGuid": "b9e8727a-09c5-4f92-9b58-a167a5e2b531"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "183a9a63-92b3-49cb-8298-4a9b5557bef0",
+        "VideoGuid": "b473b8b2-e988-4b87-b263-85c801426306"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "183a9a63-92b3-49cb-8298-4a9b5557bef0",
+        "VideoGuid": "5070f6a8-4f67-473d-aa74-5fc611de5ff5"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "183a9a63-92b3-49cb-8298-4a9b5557bef0",
+        "VideoGuid": "37abdc4f-47f6-4d30-b336-2e5e7edb0430"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "f8cb42f7-9353-4263-9625-5184d1d732a0"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "f0211376-0739-4fe6-bc77-3957d80c93fb"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "0da86f55-fd69-45f9-81b5-0e9db0f9131b"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "404fd639-aefe-4a5f-9da7-2f23b96c6313"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "2ecc1e80-69b4-401a-8f33-ca8c80cbeb48"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "400dd085-8ac0-4f38-b5e4-e6d0c697a637"
+      },
+      {
+        "NumberInTopic": 6,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "c09c91b1-2b81-475f-9062-971a2d5187cf"
+      },
+      {
+        "NumberInTopic": 7,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "170048ef-2a9e-474b-856f-1acbb2867f34"
+      },
+      {
+        "NumberInTopic": 8,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "b8e5b75d-0863-44b7-adb8-bc0600db2e16"
+      },
+      {
+        "NumberInTopic": 9,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "0649a48b-8a78-439e-a9fe-dce1e6f08bf8"
+      },
+      {
+        "NumberInTopic": 10,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "c1cd4f11-8bc1-4b28-9737-15dadfa0f766"
+      },
+      {
+        "NumberInTopic": 11,
+        "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
+        "VideoGuid": "7e8208f2-37b3-4511-bd96-7f3512b4bda5"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
+        "VideoGuid": "16f8af66-41f6-4582-92e3-cb873b3b06df"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
+        "VideoGuid": "7e35622e-81da-4c1a-bd5b-ee5a578355a1"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
+        "VideoGuid": "3a03a896-cca6-4c3f-8318-8efe584d4cc1"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
+        "VideoGuid": "263f495c-0104-432a-977f-21170b560e78"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
+        "VideoGuid": "cb5e1b36-2c1e-4e55-8793-2b80e0416205"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
+        "VideoGuid": "a651577a-7bf9-400c-811b-e1d7e44aae34"
+      },
+      {
+        "NumberInTopic": 6,
+        "TopicGuid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
+        "VideoGuid": "f95758e9-5b46-4f2a-ad9b-bb077e73d57e"
+      },
+      {
+        "NumberInTopic": 7,
+        "TopicGuid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
+        "VideoGuid": "502350ad-0950-4ddc-8388-e734c8adc117"
+      },
+      {
+        "NumberInTopic": 8,
+        "TopicGuid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
+        "VideoGuid": "8bee9bd4-1acc-483b-aa01-973c35c25517"
+      },
+      {
+        "NumberInTopic": 9,
+        "TopicGuid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
+        "VideoGuid": "eb664e9f-5d20-45f4-aa39-fcab13cb4b79"
       }
     ]
   },
@@ -575,6 +735,162 @@ PublishingModel Tuto file Version 1
       "Guid": "2ba0d223-183d-49f2-9d3d-7ce8c6deeaaf",
       "Name": "Single Responsibility Principle",
       "OrdinalSuffix": "CS2-Lecture05-4.mm-2"
+    },
+    {
+      "Duration": "PT6M37.763S",
+      "Guid": "b9e8727a-09c5-4f92-9b58-a167a5e2b531",
+      "Name": "Generic-классы",
+      "OrdinalSuffix": "CS2\\Lecture04\\3-0"
+    },
+    {
+      "Duration": "PT4M40.856S",
+      "Guid": "b473b8b2-e988-4b87-b263-85c801426306",
+      "Name": "Generic-методы",
+      "OrdinalSuffix": "CS2\\Lecture04\\3-1"
+    },
+    {
+      "Duration": "PT6M11.475S",
+      "Guid": "5070f6a8-4f67-473d-aa74-5fc611de5ff5",
+      "Name": "Ковариация и контравариация",
+      "OrdinalSuffix": "CS2\\Lecture04\\3-2"
+    },
+    {
+      "Duration": "PT2M55.902S",
+      "Guid": "37abdc4f-47f6-4d30-b336-2e5e7edb0430",
+      "Name": "Дженерики - задача",
+      "OrdinalSuffix": "CS2\\Lecture05\\4-3"
+    },
+    {
+      "Duration": "PT1M45.035S",
+      "Guid": "f8cb42f7-9353-4263-9625-5184d1d732a0",
+      "Name": "Простое делегирование, задача",
+      "OrdinalSuffix": "CS2-Lecture06-1.mm-0"
+    },
+    {
+      "Duration": "PT6M22.828S",
+      "Guid": "f0211376-0739-4fe6-bc77-3957d80c93fb",
+      "Name": "Простое делегирование, решение",
+      "OrdinalSuffix": "CS2-Lecture06-1.mm-1"
+    },
+    {
+      "Duration": "PT1M22.434S",
+      "Guid": "0da86f55-fd69-45f9-81b5-0e9db0f9131b",
+      "Name": "Более сложное делегирование, задача",
+      "OrdinalSuffix": "CS2-Lecture06-1.mm-2"
+    },
+    {
+      "Duration": "PT6M13.455S",
+      "Guid": "404fd639-aefe-4a5f-9da7-2f23b96c6313",
+      "Name": "Более сложное делегирование, решение",
+      "OrdinalSuffix": "CS2-Lecture06-1.mm-3"
+    },
+    {
+      "Duration": "PT1M49.362S",
+      "Guid": "2ecc1e80-69b4-401a-8f33-ca8c80cbeb48",
+      "Name": "Сложное делегирование - задание",
+      "OrdinalSuffix": "CS2-Lecture06-2.mm-0"
+    },
+    {
+      "Duration": "PT7M9.308S",
+      "Guid": "400dd085-8ac0-4f38-b5e4-e6d0c697a637",
+      "Name": "Сложное делегирование - решение",
+      "OrdinalSuffix": "CS2-Lecture06-2.mm-1"
+    },
+    {
+      "Duration": "PT2M6.12S",
+      "Guid": "c09c91b1-2b81-475f-9062-971a2d5187cf",
+      "Name": "Делегирование без делегатов - задание",
+      "OrdinalSuffix": "CS2-Lecture06-2.mm-2"
+    },
+    {
+      "Duration": "PT6M22.202S",
+      "Guid": "170048ef-2a9e-474b-856f-1acbb2867f34",
+      "Name": "Делегирование без делегатов - решение",
+      "OrdinalSuffix": "CS2-Lecture06-2.mm-3"
+    },
+    {
+      "Duration": "PT3M7.331S",
+      "Guid": "b8e5b75d-0863-44b7-adb8-bc0600db2e16",
+      "Name": "Делегирование без делегатов - обсуждение",
+      "OrdinalSuffix": "CS2-Lecture06-2.mm-4"
+    },
+    {
+      "Duration": "PT52.038S",
+      "Guid": "0649a48b-8a78-439e-a9fe-dce1e6f08bf8",
+      "Name": "Обратное совместимость - задача",
+      "OrdinalSuffix": "CS2-Lecture06-2.mm-5"
+    },
+    {
+      "Duration": "PT4M24.594S",
+      "Guid": "c1cd4f11-8bc1-4b28-9737-15dadfa0f766",
+      "Name": "Обратная совместимость - решение",
+      "OrdinalSuffix": "CS2-Lecture06-2.mm-6"
+    },
+    {
+      "Duration": "PT1M25.107S",
+      "Guid": "7e8208f2-37b3-4511-bd96-7f3512b4bda5",
+      "Name": "Декораторы",
+      "OrdinalSuffix": "CS2-Lecture06-2.mm-7"
+    },
+    {
+      "Duration": "PT2M24.349S",
+      "Guid": "16f8af66-41f6-4582-92e3-cb873b3b06df",
+      "Name": "Рефлексия типов - задача",
+      "OrdinalSuffix": "CS2-Lecture06-3.mm-0"
+    },
+    {
+      "Duration": "PT6M35.556S",
+      "Guid": "7e35622e-81da-4c1a-bd5b-ee5a578355a1",
+      "Name": "Рефлексия типов - решение",
+      "OrdinalSuffix": "CS2-Lecture06-3.mm-1"
+    },
+    {
+      "Duration": "PT1M43S",
+      "Guid": "3a03a896-cca6-4c3f-8318-8efe584d4cc1",
+      "Name": "Профайлинг рефлексии - задача",
+      "OrdinalSuffix": "CS2-Lecture06-3.mm-2"
+    },
+    {
+      "Duration": "PT4M1.172S",
+      "Guid": "263f495c-0104-432a-977f-21170b560e78",
+      "Name": "Профайлинг рефлексии - решение",
+      "OrdinalSuffix": "CS2-Lecture06-3.mm-3"
+    },
+    {
+      "Duration": "PT1M41.596S",
+      "Guid": "cb5e1b36-2c1e-4e55-8793-2b80e0416205",
+      "Name": "Рефакторинг рефлексии - задача",
+      "OrdinalSuffix": "CS2-Lecture06-4.mm-0"
+    },
+    {
+      "Duration": "PT5M8.564S",
+      "Guid": "a651577a-7bf9-400c-811b-e1d7e44aae34",
+      "Name": "Рефакторинг рефлексии - решение",
+      "OrdinalSuffix": "CS2-Lecture06-4.mm-1"
+    },
+    {
+      "Duration": "PT48.773S",
+      "Guid": "f95758e9-5b46-4f2a-ad9b-bb077e73d57e",
+      "Name": "Оптимизация рефлекции - задача",
+      "OrdinalSuffix": "CS2-Lecture06-4.mm-2"
+    },
+    {
+      "Duration": "PT3M38.582S",
+      "Guid": "502350ad-0950-4ddc-8388-e734c8adc117",
+      "Name": "Оптимизация рефлексии - решение",
+      "OrdinalSuffix": "CS2-Lecture06-4.mm-3"
+    },
+    {
+      "Duration": "PT49.205S",
+      "Guid": "8bee9bd4-1acc-483b-aa01-973c35c25517",
+      "Name": "Expressions - задача",
+      "OrdinalSuffix": "CS2-Lecture06-4.mm-4"
+    },
+    {
+      "Duration": "PT9M19.948S",
+      "Guid": "eb664e9f-5d20-45f4-aa39-fcab13cb4b79",
+      "Name": "Expressions - решение",
+      "OrdinalSuffix": "CS2-Lecture06-4.mm-5"
     }
   ],
   "YoutubeClipData": {
@@ -661,7 +977,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: 672a6d5f-4cd7-4662-b415-4c85352dcfd8]",
+          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция (лекция)\r\n\n\n[GUID: 672a6d5f-4cd7-4662-b415-4c85352dcfd8]",
           "Id": "EXmVrpre-ko",
           "Name": "CS2-1-2-1 public, private, static"
         },
@@ -669,7 +985,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: 5dc7075a-23dd-464a-b867-c525b181ba93]",
+          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция (лекция)\r\n\n\n[GUID: 5dc7075a-23dd-464a-b867-c525b181ba93]",
           "Id": "VaqFmubBCmQ",
           "Name": "CS2-1-2-2 Модификатор internal"
         },
@@ -677,7 +993,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: 00d26cfa-3fba-44f9-b06d-8f0486d5f47a]",
+          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция (лекция)\r\n\n\n[GUID: 00d26cfa-3fba-44f9-b06d-8f0486d5f47a]",
           "Id": "kz3zS1mioxs",
           "Name": "CS2-1-2-3 Конструкторы"
         },
@@ -685,7 +1001,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: a530d860-f05b-485d-b20b-7733573faea8]",
+          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция (лекция)\r\n\n\n[GUID: a530d860-f05b-485d-b20b-7733573faea8]",
           "Id": "s3NGfHJLLZ8",
           "Name": "CS2-1-2-4 Порядок инициализации"
         },
@@ -693,7 +1009,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: bc9440c2-0cfa-4c84-b9a7-6a1709858b85]",
+          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция (лекция)\r\n\n\n[GUID: bc9440c2-0cfa-4c84-b9a7-6a1709858b85]",
           "Id": "SMvzG3oTSyA",
           "Name": "CS2-1-2-5 Перегруженные методы и параметры по умолчанию"
         },
@@ -701,7 +1017,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: fbe9bfa4-e8ad-4612-8297-63e90a799b49]",
+          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция (лекция)\r\n\n\n[GUID: fbe9bfa4-e8ad-4612-8297-63e90a799b49]",
           "Id": "FoIAgf6usqo",
           "Name": "CS2-1-2-6 Операторы"
         },
@@ -709,7 +1025,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: 76ec7986-01b1-43ef-9022-8228ce25a9ed]",
+          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция (лекция)\r\n\n\n[GUID: 76ec7986-01b1-43ef-9022-8228ce25a9ed]",
           "Id": "UHpavsWYwR4",
           "Name": "CS2-1-2-7 Свойства"
         },
@@ -717,7 +1033,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: ed912b8f-edca-4513-9813-68d07463eaf9]",
+          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция (лекция)\r\n\n\n[GUID: ed912b8f-edca-4513-9813-68d07463eaf9]",
           "Id": "ssM4Rzv6fZo",
           "Name": "CS2-1-2-8 Индексаторы"
         },
@@ -725,7 +1041,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: 9a54a05b-bb6f-4600-b27f-1b518824b96f]",
+          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция (лекция)\r\n\n\n[GUID: 9a54a05b-bb6f-4600-b27f-1b518824b96f]",
           "Id": "NmnoZsI4EIQ",
           "Name": "CS2-1-2-9 Структуры"
         },
@@ -733,235 +1049,443 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: 0d599304-cd2a-4bbd-8610-e6f2f3d204e6]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: 0d599304-cd2a-4bbd-8610-e6f2f3d204e6]",
           "Id": "T2-5KGp4q_0",
-          "Name": "CS2-1-2-10 Выделение класса - задача"
+          "Name": "CS2-1-3-1 Выделение класса - задача"
         },
         "Guid": "0d599304-cd2a-4bbd-8610-e6f2f3d204e6"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: 2f6c9fc2-5ac4-4025-9d35-c9ece5b7f381]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: 2f6c9fc2-5ac4-4025-9d35-c9ece5b7f381]",
           "Id": "jM7pX_TJt7Q",
-          "Name": "CS2-1-2-11 Выделение класса - решение"
+          "Name": "CS2-1-3-2 Выделение класса - решение"
         },
         "Guid": "2f6c9fc2-5ac4-4025-9d35-c9ece5b7f381"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: c9d642e4-ca66-418f-a9eb-ec1ff902f015]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: c9d642e4-ca66-418f-a9eb-ec1ff902f015]",
           "Id": "xtykqo2X-0Q",
-          "Name": "CS2-1-2-12 Свойства - задача"
+          "Name": "CS2-1-3-3 Свойства - задача"
         },
         "Guid": "c9d642e4-ca66-418f-a9eb-ec1ff902f015"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: 96aa88e4-c17a-40c8-aa9c-a876d6f23cc6]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: 96aa88e4-c17a-40c8-aa9c-a876d6f23cc6]",
           "Id": "WPhsEGOrL5o",
-          "Name": "CS2-1-2-13 Свойства - решение"
+          "Name": "CS2-1-3-4 Свойства - решение"
         },
         "Guid": "96aa88e4-c17a-40c8-aa9c-a876d6f23cc6"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: cbaf4ab3-f892-416a-b8d4-18846aa4ed8f]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: cbaf4ab3-f892-416a-b8d4-18846aa4ed8f]",
           "Id": "H63-3RLpEWE",
-          "Name": "CS2-1-2-14 Маскировка ошибок vs решение проблем"
+          "Name": "CS2-1-3-5 Маскировка ошибок vs решение проблем"
         },
         "Guid": "cbaf4ab3-f892-416a-b8d4-18846aa4ed8f"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: dbe74b6c-9ce5-4815-a64f-b6d17d7b0272]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: dbe74b6c-9ce5-4815-a64f-b6d17d7b0272]",
           "Id": "vpT9x2bLcuM",
-          "Name": "CS2-1-2-15 Конструкторы - задача"
+          "Name": "CS2-1-3-6 Конструкторы - задача"
         },
         "Guid": "dbe74b6c-9ce5-4815-a64f-b6d17d7b0272"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: d9c9eb7f-165d-47ba-92cb-66f2b7da262d]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: d9c9eb7f-165d-47ba-92cb-66f2b7da262d]",
           "Id": "zu-xc5dAvsQ",
-          "Name": "CS2-1-2-16 Конструкторы - решение"
+          "Name": "CS2-1-3-7 Конструкторы - решение"
         },
         "Guid": "d9c9eb7f-165d-47ba-92cb-66f2b7da262d"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: 120f2a91-2c41-429e-8325-dcb6e9dff16a]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: 120f2a91-2c41-429e-8325-dcb6e9dff16a]",
           "Id": "NfnUrkFlezw",
-          "Name": "CS2-1-2-17 Индексаторы - задача"
+          "Name": "CS2-1-3-8 Индексаторы - задача"
         },
         "Guid": "120f2a91-2c41-429e-8325-dcb6e9dff16a"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: a5011945-da28-4dd7-9e07-5146ce89e2d9]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: a5011945-da28-4dd7-9e07-5146ce89e2d9]",
           "Id": "uIw_z9bY5yc",
-          "Name": "CS2-1-2-18 Индексаторы - решение"
+          "Name": "CS2-1-3-9 Индексаторы - решение"
         },
         "Guid": "a5011945-da28-4dd7-9e07-5146ce89e2d9"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: 8f302ff9-8e35-4864-9051-6c8e717b787d]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: 8f302ff9-8e35-4864-9051-6c8e717b787d]",
           "Id": "hpJKc2SLBJA",
-          "Name": "CS2-1-2-19 Структуры - задача"
+          "Name": "CS2-1-3-10 Структуры - задача"
         },
         "Guid": "8f302ff9-8e35-4864-9051-6c8e717b787d"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: de09778b-36f9-4126-9587-dac89d941d5b]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: de09778b-36f9-4126-9587-dac89d941d5b]",
           "Id": "SzSjUDUxuLA",
-          "Name": "CS2-1-2-20 Структуры - решение"
+          "Name": "CS2-1-3-11 Структуры - решение"
         },
         "Guid": "de09778b-36f9-4126-9587-dac89d941d5b"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: da610f9e-0b39-42e9-896c-feec632f1542]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: da610f9e-0b39-42e9-896c-feec632f1542]",
           "Id": "nFU8QkbVDSo",
-          "Name": "CS2-1-2-21 Операторы - задача"
+          "Name": "CS2-1-3-12 Операторы - задача"
         },
         "Guid": "da610f9e-0b39-42e9-896c-feec632f1542"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 2. Инкапсуляция\r\n\n\n[GUID: 2a500d60-6281-43c8-bb70-fd650907de9a]",
+          "Description": " 1. Основы проектирования\r\n 3. Инкапсуляция (тренинг)\r\n\n\n[GUID: 2a500d60-6281-43c8-bb70-fd650907de9a]",
           "Id": "VqrndE0kSmI",
-          "Name": "CS2-1-2-22 Операторы - решение"
+          "Name": "CS2-1-3-13 Операторы - решение"
         },
         "Guid": "2a500d60-6281-43c8-bb70-fd650907de9a"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: 14b5c0cc-8d6e-464c-91b4-45e91839a2ef]",
+          "Description": " 1. Основы проектирования\r\n 4. Наследование и полиморфизм (лекция)\r\n\n\n[GUID: 14b5c0cc-8d6e-464c-91b4-45e91839a2ef]",
           "Id": "0OHrlYoV1UE",
-          "Name": "CS2-1-3-1 Наследование"
+          "Name": "CS2-1-4-1 Наследование"
         },
         "Guid": "14b5c0cc-8d6e-464c-91b4-45e91839a2ef"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: 8e4e1a71-728b-4daa-9081-f3088d477c7a]",
+          "Description": " 1. Основы проектирования\r\n 4. Наследование и полиморфизм (лекция)\r\n\n\n[GUID: 8e4e1a71-728b-4daa-9081-f3088d477c7a]",
           "Id": "bIxM4KD-Lao",
-          "Name": "CS2-1-3-2 Интерфейсы"
+          "Name": "CS2-1-4-2 Интерфейсы"
         },
         "Guid": "8e4e1a71-728b-4daa-9081-f3088d477c7a"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: 55c33085-1691-4f52-abe5-8971f203ad09]",
+          "Description": " 1. Основы проектирования\r\n 4. Наследование и полиморфизм (лекция)\r\n\n\n[GUID: 55c33085-1691-4f52-abe5-8971f203ad09]",
           "Id": "lsbpCxcOikA",
-          "Name": "CS2-1-3-3 Дополнение к явной реализации"
+          "Name": "CS2-1-4-3 Дополнение к явной реализации"
         },
         "Guid": "55c33085-1691-4f52-abe5-8971f203ad09"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: 3dea5dd7-6b3d-4aa7-a115-48ff02ee0f23]",
+          "Description": " 1. Основы проектирования\r\n 4. Наследование и полиморфизм (лекция)\r\n\n\n[GUID: 3dea5dd7-6b3d-4aa7-a115-48ff02ee0f23]",
           "Id": "E0ombjiW-Yk",
-          "Name": "CS2-1-3-4 Полиморфизм и абстрактные базовые классы"
+          "Name": "CS2-1-4-4 Полиморфизм и абстрактные базовые классы"
         },
         "Guid": "3dea5dd7-6b3d-4aa7-a115-48ff02ee0f23"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: 75965a9f-2bc4-4a82-b7c3-de5085d48cd1]",
+          "Description": " 1. Основы проектирования\r\n 4. Наследование и полиморфизм (лекция)\r\n\n\n[GUID: 75965a9f-2bc4-4a82-b7c3-de5085d48cd1]",
           "Id": "CXIre0DJY80",
-          "Name": "CS2-1-3-5 Ключевые слова new и sealed"
+          "Name": "CS2-1-4-5 Ключевые слова new и sealed"
         },
         "Guid": "75965a9f-2bc4-4a82-b7c3-de5085d48cd1"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: 0b9e9452-55c9-4612-9ed7-ea7c5c1f93e1]",
+          "Description": " 1. Основы проектирования\r\n 5. Наследование и полиморфизм (тренинг)\r\n\n\n[GUID: 0b9e9452-55c9-4612-9ed7-ea7c5c1f93e1]",
           "Id": "MsGTBYxYid4",
-          "Name": "CS2-1-3-6 Реализация интерфейса - задача"
+          "Name": "CS2-1-5-1 Реализация интерфейса - задача"
         },
         "Guid": "0b9e9452-55c9-4612-9ed7-ea7c5c1f93e1"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: e68b0a07-5586-4b39-9c45-15ddc697b6be]",
+          "Description": " 1. Основы проектирования\r\n 5. Наследование и полиморфизм (тренинг)\r\n\n\n[GUID: e68b0a07-5586-4b39-9c45-15ddc697b6be]",
           "Id": "Q0caGBmpOAg",
-          "Name": "CS2-1-3-7 Реализация интерфейса - решение"
+          "Name": "CS2-1-5-2 Реализация интерфейса - решение"
         },
         "Guid": "e68b0a07-5586-4b39-9c45-15ddc697b6be"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: cb9fb619-e6ef-42a6-9ca7-a71e81cadd28]",
+          "Description": " 1. Основы проектирования\r\n 5. Наследование и полиморфизм (тренинг)\r\n\n\n[GUID: cb9fb619-e6ef-42a6-9ca7-a71e81cadd28]",
           "Id": "008slFq5xwg",
-          "Name": "CS2-1-3-8 Выделение метода - задача"
+          "Name": "CS2-1-5-3 Выделение метода - задача"
         },
         "Guid": "cb9fb619-e6ef-42a6-9ca7-a71e81cadd28"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: 09f140a8-fda0-4134-bb29-e473923bf678]",
+          "Description": " 1. Основы проектирования\r\n 5. Наследование и полиморфизм (тренинг)\r\n\n\n[GUID: 09f140a8-fda0-4134-bb29-e473923bf678]",
           "Id": "xwSiuSKQ7jw",
-          "Name": "CS2-1-3-9 Выделение метода - решение"
+          "Name": "CS2-1-5-4 Выделение метода - решение"
         },
         "Guid": "09f140a8-fda0-4134-bb29-e473923bf678"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: c16ecf93-7972-48df-9cd8-fd4c10108f27]",
+          "Description": " 1. Основы проектирования\r\n 5. Наследование и полиморфизм (тренинг)\r\n\n\n[GUID: c16ecf93-7972-48df-9cd8-fd4c10108f27]",
           "Id": "dOF5uN3eWGg",
-          "Name": "CS2-1-3-10 Чистые и грязные методы"
+          "Name": "CS2-1-5-5 Чистые и грязные методы"
         },
         "Guid": "c16ecf93-7972-48df-9cd8-fd4c10108f27"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: f44db8b4-54b7-4ccc-a9ff-2b7244b50880]",
+          "Description": " 1. Основы проектирования\r\n 5. Наследование и полиморфизм (тренинг)\r\n\n\n[GUID: f44db8b4-54b7-4ccc-a9ff-2b7244b50880]",
           "Id": "3csXEO9Clvo",
-          "Name": "CS2-1-3-11 Наследование - задача"
+          "Name": "CS2-1-5-6 Наследование - задача"
         },
         "Guid": "f44db8b4-54b7-4ccc-a9ff-2b7244b50880"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: fabc5944-8832-406a-9969-48400ca42a80]",
+          "Description": " 1. Основы проектирования\r\n 5. Наследование и полиморфизм (тренинг)\r\n\n\n[GUID: fabc5944-8832-406a-9969-48400ca42a80]",
           "Id": "7VMFl0L18Q0",
-          "Name": "CS2-1-3-12 Наследование - решение"
+          "Name": "CS2-1-5-7 Наследование - решение"
         },
         "Guid": "fabc5944-8832-406a-9969-48400ca42a80"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: cf5f50f1-e4ac-415e-8d54-b9c17eb7654d]",
+          "Description": " 1. Основы проектирования\r\n 5. Наследование и полиморфизм (тренинг)\r\n\n\n[GUID: cf5f50f1-e4ac-415e-8d54-b9c17eb7654d]",
           "Id": "Imm6V4tTcCY",
-          "Name": "CS2-1-3-13 Роль архитектуры в приложении"
+          "Name": "CS2-1-5-8 Роль архитектуры в приложении"
         },
         "Guid": "cf5f50f1-e4ac-415e-8d54-b9c17eb7654d"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: 01460132-df59-486b-adf1-bd5c8288e40b]",
+          "Description": " 1. Основы проектирования\r\n 5. Наследование и полиморфизм (тренинг)\r\n\n\n[GUID: 01460132-df59-486b-adf1-bd5c8288e40b]",
           "Id": "leBjV-KlOmc",
-          "Name": "CS2-1-3-14 Большой рефакторинг - задача"
+          "Name": "CS2-1-5-9 Большой рефакторинг - задача"
         },
         "Guid": "01460132-df59-486b-adf1-bd5c8288e40b"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: 01502e03-43ac-498c-9f81-a24140267a21]",
+          "Description": " 1. Основы проектирования\r\n 5. Наследование и полиморфизм (тренинг)\r\n\n\n[GUID: 01502e03-43ac-498c-9f81-a24140267a21]",
           "Id": "QpfuNeNluJw",
-          "Name": "CS2-1-3-15 Большой рефакторинг - решение"
+          "Name": "CS2-1-5-10 Большой рефакторинг - решение"
         },
         "Guid": "01502e03-43ac-498c-9f81-a24140267a21"
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 3. Наследование и полиморфизм\r\n\n\n[GUID: 2ba0d223-183d-49f2-9d3d-7ce8c6deeaaf]",
+          "Description": " 1. Основы проектирования\r\n 5. Наследование и полиморфизм (тренинг)\r\n\n\n[GUID: 2ba0d223-183d-49f2-9d3d-7ce8c6deeaaf]",
           "Id": "Sxa42a9Pn1A",
-          "Name": "CS2-1-3-16 Single Responsibility Principle"
+          "Name": "CS2-1-5-11 Single Responsibility Principle"
         },
         "Guid": "2ba0d223-183d-49f2-9d3d-7ce8c6deeaaf"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 6. Дженерики\r\n\n\n[GUID: b9e8727a-09c5-4f92-9b58-a167a5e2b531]",
+          "Id": "kDRMApBIS4I",
+          "Name": "CS2-1-6-1 Generic-классы"
+        },
+        "Guid": "b9e8727a-09c5-4f92-9b58-a167a5e2b531"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 6. Дженерики\r\n\n\n[GUID: b473b8b2-e988-4b87-b263-85c801426306]",
+          "Id": "0pWkHh3szaM",
+          "Name": "CS2-1-6-2 Generic-методы"
+        },
+        "Guid": "b473b8b2-e988-4b87-b263-85c801426306"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 6. Дженерики\r\n\n\n[GUID: 5070f6a8-4f67-473d-aa74-5fc611de5ff5]",
+          "Id": "PDYOJdBMLlc",
+          "Name": "CS2-1-6-3 Ковариация и контравариация"
+        },
+        "Guid": "5070f6a8-4f67-473d-aa74-5fc611de5ff5"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 6. Дженерики\r\n\n\n[GUID: 37abdc4f-47f6-4d30-b336-2e5e7edb0430]",
+          "Id": "nvQNqiFsc-Y",
+          "Name": "CS2-1-6-4 Дженерики - задача"
+        },
+        "Guid": "37abdc4f-47f6-4d30-b336-2e5e7edb0430"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: f8cb42f7-9353-4263-9625-5184d1d732a0]",
+          "Id": "gbZOaUMe8rE",
+          "Name": "CS2-1-7-1 Простое делегирование, задача"
+        },
+        "Guid": "f8cb42f7-9353-4263-9625-5184d1d732a0"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: f0211376-0739-4fe6-bc77-3957d80c93fb]",
+          "Id": "iTJEnqbVOZk",
+          "Name": "CS2-1-7-2 Простое делегирование, решение"
+        },
+        "Guid": "f0211376-0739-4fe6-bc77-3957d80c93fb"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: 0da86f55-fd69-45f9-81b5-0e9db0f9131b]",
+          "Id": "UTYURVhEixk",
+          "Name": "CS2-1-7-3 Более сложное делегирование, задача"
+        },
+        "Guid": "0da86f55-fd69-45f9-81b5-0e9db0f9131b"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: 404fd639-aefe-4a5f-9da7-2f23b96c6313]",
+          "Id": "CwCgGeHu750",
+          "Name": "CS2-1-7-4 Более сложное делегирование, решение"
+        },
+        "Guid": "404fd639-aefe-4a5f-9da7-2f23b96c6313"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: 2ecc1e80-69b4-401a-8f33-ca8c80cbeb48]",
+          "Id": "E_NF8OWFols",
+          "Name": "CS2-1-7-5 Сложное делегирование - задание"
+        },
+        "Guid": "2ecc1e80-69b4-401a-8f33-ca8c80cbeb48"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: 400dd085-8ac0-4f38-b5e4-e6d0c697a637]",
+          "Id": "r1gIaNi2hzY",
+          "Name": "CS2-1-7-6 Сложное делегирование - решение"
+        },
+        "Guid": "400dd085-8ac0-4f38-b5e4-e6d0c697a637"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: c09c91b1-2b81-475f-9062-971a2d5187cf]",
+          "Id": "sVj0NONzIeI",
+          "Name": "CS2-1-7-7 Делегирование без делегатов - задание"
+        },
+        "Guid": "c09c91b1-2b81-475f-9062-971a2d5187cf"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: 170048ef-2a9e-474b-856f-1acbb2867f34]",
+          "Id": "O9tS35X7prs",
+          "Name": "CS2-1-7-8 Делегирование без делегатов - решение"
+        },
+        "Guid": "170048ef-2a9e-474b-856f-1acbb2867f34"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: b8e5b75d-0863-44b7-adb8-bc0600db2e16]",
+          "Id": "afgAR8kZ5ZQ",
+          "Name": "CS2-1-7-9 Делегирование без делегатов - обсуждение"
+        },
+        "Guid": "b8e5b75d-0863-44b7-adb8-bc0600db2e16"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: 0649a48b-8a78-439e-a9fe-dce1e6f08bf8]",
+          "Id": "1iNxRrBKWjc",
+          "Name": "CS2-1-7-10 Обратное совместимость - задача"
+        },
+        "Guid": "0649a48b-8a78-439e-a9fe-dce1e6f08bf8"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: c1cd4f11-8bc1-4b28-9737-15dadfa0f766]",
+          "Id": "ml_eNOUt7Wo",
+          "Name": "CS2-1-7-11 Обратная совместимость - решение"
+        },
+        "Guid": "c1cd4f11-8bc1-4b28-9737-15dadfa0f766"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: 7e8208f2-37b3-4511-bd96-7f3512b4bda5]",
+          "Id": "0O5Frs3ubCc",
+          "Name": "CS2-1-7-12 Декораторы"
+        },
+        "Guid": "7e8208f2-37b3-4511-bd96-7f3512b4bda5"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 8. Рефлексия\r\n\n\n[GUID: 16f8af66-41f6-4582-92e3-cb873b3b06df]",
+          "Id": "01K9NgO3WgE",
+          "Name": "CS2-1-8-1 Рефлексия типов - задача"
+        },
+        "Guid": "16f8af66-41f6-4582-92e3-cb873b3b06df"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 8. Рефлексия\r\n\n\n[GUID: 7e35622e-81da-4c1a-bd5b-ee5a578355a1]",
+          "Id": "uQTgZ6ZF_AY",
+          "Name": "CS2-1-8-2 Рефлексия типов - решение"
+        },
+        "Guid": "7e35622e-81da-4c1a-bd5b-ee5a578355a1"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 8. Рефлексия\r\n\n\n[GUID: 3a03a896-cca6-4c3f-8318-8efe584d4cc1]",
+          "Id": "RTjOdDKTn_s",
+          "Name": "CS2-1-8-3 Профайлинг рефлексии - задача"
+        },
+        "Guid": "3a03a896-cca6-4c3f-8318-8efe584d4cc1"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 8. Рефлексия\r\n\n\n[GUID: 263f495c-0104-432a-977f-21170b560e78]",
+          "Id": "rova6S4usGk",
+          "Name": "CS2-1-8-4 Профайлинг рефлексии - решение"
+        },
+        "Guid": "263f495c-0104-432a-977f-21170b560e78"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 8. Рефлексия\r\n\n\n[GUID: cb5e1b36-2c1e-4e55-8793-2b80e0416205]",
+          "Id": "39vb1Y0QWlM",
+          "Name": "CS2-1-8-5 Рефакторинг рефлексии - задача"
+        },
+        "Guid": "cb5e1b36-2c1e-4e55-8793-2b80e0416205"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 8. Рефлексия\r\n\n\n[GUID: a651577a-7bf9-400c-811b-e1d7e44aae34]",
+          "Id": "PsV-nRlaU3Q",
+          "Name": "CS2-1-8-6 Рефакторинг рефлексии - решение"
+        },
+        "Guid": "a651577a-7bf9-400c-811b-e1d7e44aae34"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 8. Рефлексия\r\n\n\n[GUID: f95758e9-5b46-4f2a-ad9b-bb077e73d57e]",
+          "Id": "luxwDWIbiG8",
+          "Name": "CS2-1-8-7 Оптимизация рефлекции - задача"
+        },
+        "Guid": "f95758e9-5b46-4f2a-ad9b-bb077e73d57e"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 8. Рефлексия\r\n\n\n[GUID: 502350ad-0950-4ddc-8388-e734c8adc117]",
+          "Id": "1TrrqYprST0",
+          "Name": "CS2-1-8-8 Оптимизация рефлексии - решение"
+        },
+        "Guid": "502350ad-0950-4ddc-8388-e734c8adc117"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 8. Рефлексия\r\n\n\n[GUID: 8bee9bd4-1acc-483b-aa01-973c35c25517]",
+          "Id": "yQMhEE64_GQ",
+          "Name": "CS2-1-8-9 Expressions - задача"
+        },
+        "Guid": "8bee9bd4-1acc-483b-aa01-973c35c25517"
+      },
+      {
+        "Data": {
+          "Description": " 1. Основы проектирования\r\n 8. Рефлексия\r\n\n\n[GUID: eb664e9f-5d20-45f4-aa39-fcab13cb4b79]",
+          "Id": "stKoaU0qZSA",
+          "Name": "CS2-1-8-10 Expressions - решение"
+        },
+        "Guid": "eb664e9f-5d20-45f4-aa39-fcab13cb4b79"
       }
     ]
   },
@@ -983,10 +1507,45 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
+          "PlaylistId": "PLU-TUGRFxOHjFEtQIiG9zDjRKBZJiiF_d",
+          "PlaylistTitle": "CS2-1-3 Инкапсуляция (тренинг)"
+        },
+        "Guid": "48998b38-092e-448e-a252-9ebc1cb441e2"
+      },
+      {
+        "Data": {
           "PlaylistId": "PLU-TUGRFxOHhnzGz9HCOLaDMrmEydCjBn",
           "PlaylistTitle": "CS2-1-3 Наследование и полиморфизм"
         },
         "Guid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHjNkEPX7x7oNNfldV_DCLYb",
+          "PlaylistTitle": "CS2-1-5 Наследование и полиморфизм (тренинг)"
+        },
+        "Guid": "5195b358-d295-4e30-9cb4-c08bab2863f4"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHi6OWBlEUEmsFOlmptw2kDc",
+          "PlaylistTitle": "CS2-1-6 Дженерики"
+        },
+        "Guid": "183a9a63-92b3-49cb-8298-4a9b5557bef0"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHi-KbY-BS2NWBl-jD7E0kSj",
+          "PlaylistTitle": "CS2-1-7 Делегаты"
+        },
+        "Guid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHjYeU8ZwgPfLfspj6Q7PQ-w",
+          "PlaylistTitle": "CS2-1-8 Рефлексия"
+        },
+        "Guid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4"
       }
     ]
   }
