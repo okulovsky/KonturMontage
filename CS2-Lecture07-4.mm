@@ -848,12 +848,23 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "CS2\\Lecture07\\4",
     "Information": {
       "CreationTimeTicks": 635919919548468480,
-      "Episodes": [],
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT3M49.826S",
+          "Guid": "4659a514-a9c3-4e45-b390-2d790622895f",
+          "Name": "Нетипичное использование using",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
       "LastModificationTimeTicks": 635923487304127760
     },
     "PreparedChunks": null,
     "RawVideoHash": "A8-38-1C-F3-79-2B-B6-5B-AE-30-B8-B7-F2-23-70-E3",
     "ReadyToEdit": false,
+    "Signs": [],
     "SoundIntervals": [
       {
         "EndTime": 8980,
@@ -1924,7 +1935,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 299755,
+    "currentPosition": 299749,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,

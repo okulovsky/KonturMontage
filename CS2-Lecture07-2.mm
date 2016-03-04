@@ -417,7 +417,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 255872
+          "Time": 256272
         },
         {
           "Defined": true,
@@ -494,11 +494,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 309248
+          "Time": 309037
         },
         {
           "Defined": true,
@@ -507,7 +507,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 317100
+          "Time": 317245
         },
         {
           "Defined": true,
@@ -886,6 +886,24 @@ FileContainer Tuto file Version 1
           ],
           "StartsNewEpisode": false,
           "Time": 511976
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 515451
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 521051
         },
         {
           "Defined": true,
@@ -1785,7 +1803,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 898621
+          "Time": 898821
         },
         {
           "Defined": true,
@@ -2487,7 +2505,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1146725
+          "Time": 1146925
         },
         {
           "Defined": true,
@@ -2525,16 +2543,16 @@ FileContainer Tuto file Version 1
       "Episodes": [
         {
           "Dirty": false,
-          "Duration": "PT6M33.715S",
+          "Duration": "PT6M28.615S",
           "Guid": "2bc5d86b-867c-48e8-af54-4e08f4b2b69c",
-          "Name": null,
+          "Name": "Потоки",
           "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         },
         {
           "Dirty": false,
-          "Duration": "PT0S",
+          "Duration": "PT10M41.316S",
           "Guid": "08e330f6-9d55-4553-9823-0f5a8d7920b7",
           "Name": "Исключения",
           "OutputType": 1,
@@ -2542,11 +2560,12 @@ FileContainer Tuto file Version 1
           "YoutubeId": null
         }
       ],
-      "LastModificationTimeTicks": 635923153471773878
+      "LastModificationTimeTicks": 635925304541585974
     },
     "PreparedChunks": null,
     "RawVideoHash": "B1-68-39-80-10-A5-ED-BA-78-E4-FE-40-12-CF-14-B4",
     "ReadyToEdit": false,
+    "Signs": [],
     "SoundIntervals": [
       {
         "EndTime": 9089,
@@ -7769,7 +7788,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 1154616,
+    "currentPosition": 1154610,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,

@@ -534,7 +534,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 234106
+          "Time": 233956
         },
         {
           "Defined": true,
@@ -903,7 +903,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 378631
+          "Time": 378831
         },
         {
           "Defined": true,
@@ -977,19 +977,20 @@ FileContainer Tuto file Version 1
       "Episodes": [
         {
           "Dirty": false,
-          "Duration": "PT5M31.684S",
+          "Duration": "PT5M31.734S",
           "Guid": "79fa0ccc-4bff-444b-b38c-6fb175ae1cb4",
-          "Name": null,
+          "Name": "Дженерики - решение",
           "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }
       ],
-      "LastModificationTimeTicks": 635922042835505431
+      "LastModificationTimeTicks": 635925281850298107
     },
     "PreparedChunks": null,
     "RawVideoHash": "AF-46-EC-44-F1-4E-76-AB-38-B1-85-39-DA-DA-DC-C3",
     "ReadyToEdit": false,
+    "Signs": [],
     "SoundIntervals": [
       {
         "EndTime": 23785,
@@ -2216,10 +2217,10 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 395710,
+    "currentPosition": 402241,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": true,
-    "faceVideoIsVisible": false,
+    "desktopVideoIsVisible": false,
+    "faceVideoIsVisible": true,
     "paused": true,
     "speedRatio": 1
   }
