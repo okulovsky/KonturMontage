@@ -990,7 +990,6 @@ FileContainer Tuto file Version 1
     "PreparedChunks": null,
     "RawVideoHash": "AF-46-EC-44-F1-4E-76-AB-38-B1-85-39-DA-DA-DC-C3",
     "ReadyToEdit": false,
-    "Signs": [],
     "SoundIntervals": [
       {
         "EndTime": 23785,
