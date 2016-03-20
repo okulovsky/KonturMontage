@@ -1232,7 +1232,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "WEB-1-02.mm",
+    "DisplayedRawLocation": "WEB\\1\\02",
     "Information": {
       "CreationTimeTicks": 635906224870372433,
       "Episodes": [
