@@ -2339,7 +2339,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2\\Lecture06\\3",
+    "DisplayedRawLocation": "CS2-Lecture06-3.mm",
     "Information": {
       "CreationTimeTicks": 635885497601581515,
       "Episodes": [
@@ -2385,7 +2385,6 @@ FileContainer Tuto file Version 1
     "PreparedChunks": null,
     "RawVideoHash": "B4-F8-B8-8F-3F-DA-C3-BF-A7-ED-58-51-96-58-8F-52",
     "ReadyToEdit": false,
-    "Signs": [],
     "SoundIntervals": [
       {
         "EndTime": 17160,
