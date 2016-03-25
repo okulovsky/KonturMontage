@@ -120,7 +120,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 56639
+          "Time": 56839
         },
         {
           "Defined": true,
@@ -453,7 +453,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 180383
+          "Time": 180533
         },
         {
           "Defined": true,
@@ -650,7 +650,7 @@ FileContainer Tuto file Version 1
             false,
             true
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 261252
         },
         {
@@ -1029,7 +1029,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 421670
+          "Time": 421770
         },
         {
           "Defined": true,
@@ -1109,7 +1109,7 @@ FileContainer Tuto file Version 1
             false,
             true
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 458419
         },
         {
@@ -1529,11 +1529,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            false,
-            true
+            true,
+            false
           ],
-          "StartsNewEpisode": false,
-          "Time": 702944
+          "StartsNewEpisode": true,
+          "Time": 702848
         },
         {
           "Defined": true,
@@ -2108,8 +2108,45 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "CS2\\Lecture08\\02",
     "Information": {
       "CreationTimeTicks": 635933412066863647,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635935659265961835
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT3M31.891S",
+          "Guid": "796bf37b-dacc-44d3-b3d9-655c0e655151",
+          "Name": "Архитектура потоков",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT2M35.111S",
+          "Guid": "6b50ff7f-f0ed-48d3-9320-5d9bbadec2c8",
+          "Name": "MemoryStream и NetworkStream",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT2M57.251S",
+          "Guid": "7fa4402c-734f-4f76-b954-aa512691d53d",
+          "Name": "GZipStream",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT2M49.672S",
+          "Guid": "9dfd9f58-aac3-4ecf-957a-0df75d0b7913",
+          "Name": "Написание собственного Stream",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635943402489866912
     },
     "PreparedChunks": null,
     "RawVideoHash": "56-F0-E5-C8-F8-D4-D1-0E-F1-10-07-81-B7-B2-42-4A",
@@ -5140,7 +5177,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 968388,
+    "currentPosition": 968391,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": false,

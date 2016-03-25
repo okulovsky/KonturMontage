@@ -219,7 +219,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 107044
+          "Time": 107244
         },
         {
           "Defined": true,
@@ -314,8 +314,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            false,
-            true
+            true,
+            false
           ],
           "StartsNewEpisode": false,
           "Time": 125237
@@ -570,7 +570,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 224543
+          "Time": 224943
         },
         {
           "Defined": true,
@@ -1020,7 +1020,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 412686
+          "Time": 412286
         },
         {
           "Defined": true,
@@ -1038,7 +1038,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 416797
+          "Time": 416997
         },
         {
           "Defined": true,
@@ -1083,7 +1083,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 432393
+          "Time": 432493
         },
         {
           "Defined": true,
@@ -1172,7 +1172,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 494973
         },
         {
@@ -2180,8 +2180,27 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "CS2\\Lecture08\\01",
     "Information": {
       "CreationTimeTicks": 635933412066863647,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635935573914683787
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT6M6.242S",
+          "Guid": "0f165860-5d89-4d77-8334-c136b93469dc",
+          "Name": "Текстовые и бинарные потоки",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT4M57.474S",
+          "Guid": "07f8918d-c1e4-4893-b064-b555e97ad867",
+          "Name": "Метод ReadLines",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635943356648824954
     },
     "PreparedChunks": null,
     "RawVideoHash": "C8-79-0C-26-E4-C7-06-4D-04-24-4E-C8-B0-B6-B1-97",
@@ -4912,7 +4931,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 836558,
+    "currentPosition": 872758,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
