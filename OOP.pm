@@ -60,6 +60,25 @@ PublishingModel Tuto file Version 1
             }
           ],
           "PlaylistId": "[Enter PlaylistIdHere]"
+        },
+        {
+          "Caption": "Дополнительные главы языка C#",
+          "Guid": "151e498b-e370-40ea-b8f3-9e67550be888",
+          "Items": [
+            {
+              "Caption": "Управление памятью",
+              "Guid": "c494b78d-f2d6-402c-ac17-12c2a3c1f778",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            },
+            {
+              "Caption": "Файлы",
+              "Guid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            }
+          ],
+          "PlaylistId": "[Enter PlaylistIdHere]"
         }
       ],
       "PlaylistId": "[Enter PlaylistIdHere]"
@@ -326,6 +345,11 @@ PublishingModel Tuto file Version 1
         "VideoGuid": "37abdc4f-47f6-4d30-b336-2e5e7edb0430"
       },
       {
+        "NumberInTopic": 4,
+        "TopicGuid": "183a9a63-92b3-49cb-8298-4a9b5557bef0",
+        "VideoGuid": "79fa0ccc-4bff-444b-b38c-6fb175ae1cb4"
+      },
+      {
         "NumberInTopic": 0,
         "TopicGuid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
         "VideoGuid": "f8cb42f7-9353-4263-9625-5184d1d732a0"
@@ -434,6 +458,71 @@ PublishingModel Tuto file Version 1
         "NumberInTopic": 9,
         "TopicGuid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
         "VideoGuid": "eb664e9f-5d20-45f4-aa39-fcab13cb4b79"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "c494b78d-f2d6-402c-ac17-12c2a3c1f778",
+        "VideoGuid": "2bc5d86b-867c-48e8-af54-4e08f4b2b69c"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "c494b78d-f2d6-402c-ac17-12c2a3c1f778",
+        "VideoGuid": "08e330f6-9d55-4553-9823-0f5a8d7920b7"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "c494b78d-f2d6-402c-ac17-12c2a3c1f778",
+        "VideoGuid": "75c0963b-827e-4185-aff9-9089d9c0e6c7"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "c494b78d-f2d6-402c-ac17-12c2a3c1f778",
+        "VideoGuid": "2cc1bbed-3ed2-4b1f-abd9-0d0c1bf1fde2"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "c494b78d-f2d6-402c-ac17-12c2a3c1f778",
+        "VideoGuid": "a966a0b6-ca95-4383-8dc1-0fc257dbe9cd"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "c494b78d-f2d6-402c-ac17-12c2a3c1f778",
+        "VideoGuid": "3eb686f4-2662-4394-ac3d-c0c91f5510c5"
+      },
+      {
+        "NumberInTopic": 6,
+        "TopicGuid": "c494b78d-f2d6-402c-ac17-12c2a3c1f778",
+        "VideoGuid": "4659a514-a9c3-4e45-b390-2d790622895f"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6",
+        "VideoGuid": "0f165860-5d89-4d77-8334-c136b93469dc"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6",
+        "VideoGuid": "07f8918d-c1e4-4893-b064-b555e97ad867"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6",
+        "VideoGuid": "796bf37b-dacc-44d3-b3d9-655c0e655151"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6",
+        "VideoGuid": "6b50ff7f-f0ed-48d3-9320-5d9bbadec2c8"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6",
+        "VideoGuid": "7fa4402c-734f-4f76-b954-aa512691d53d"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6",
+        "VideoGuid": "9dfd9f58-aac3-4ecf-957a-0df75d0b7913"
       }
     ]
   },
@@ -761,6 +850,12 @@ PublishingModel Tuto file Version 1
       "OrdinalSuffix": "CS2\\Lecture05\\4-3"
     },
     {
+      "Duration": "PT5M31.734S",
+      "Guid": "79fa0ccc-4bff-444b-b38c-6fb175ae1cb4",
+      "Name": "Дженерики - решение",
+      "OrdinalSuffix": "CS2-Lecture07-1.mm-0"
+    },
+    {
       "Duration": "PT1M45.035S",
       "Guid": "f8cb42f7-9353-4263-9625-5184d1d732a0",
       "Name": "Простое делегирование, задача",
@@ -891,6 +986,84 @@ PublishingModel Tuto file Version 1
       "Guid": "eb664e9f-5d20-45f4-aa39-fcab13cb4b79",
       "Name": "Expressions - решение",
       "OrdinalSuffix": "CS2-Lecture06-4.mm-5"
+    },
+    {
+      "Duration": "PT6M28.615S",
+      "Guid": "2bc5d86b-867c-48e8-af54-4e08f4b2b69c",
+      "Name": "Потоки",
+      "OrdinalSuffix": "CS2-Lecture07-2.mm-0"
+    },
+    {
+      "Duration": "PT10M41.316S",
+      "Guid": "08e330f6-9d55-4553-9823-0f5a8d7920b7",
+      "Name": "Исключения",
+      "OrdinalSuffix": "CS2-Lecture07-2.mm-1"
+    },
+    {
+      "Duration": "PT2M8.388S",
+      "Guid": "75c0963b-827e-4185-aff9-9089d9c0e6c7",
+      "Name": "Управляемая память",
+      "OrdinalSuffix": "CS2-Lecture07-3.mm-0"
+    },
+    {
+      "Duration": "PT2M38.129S",
+      "Guid": "2cc1bbed-3ed2-4b1f-abd9-0d0c1bf1fde2",
+      "Name": "Финализаторы",
+      "OrdinalSuffix": "CS2-Lecture07-3.mm-1"
+    },
+    {
+      "Duration": "PT6M40.989S",
+      "Guid": "a966a0b6-ca95-4383-8dc1-0fc257dbe9cd",
+      "Name": "Паттерн Disposable",
+      "OrdinalSuffix": "CS2-Lecture07-3.mm-2"
+    },
+    {
+      "Duration": "PT4M30.019S",
+      "Guid": "3eb686f4-2662-4394-ac3d-c0c91f5510c5",
+      "Name": "Оператор using",
+      "OrdinalSuffix": "CS2-Lecture07-3.mm-3"
+    },
+    {
+      "Duration": "PT3M49.826S",
+      "Guid": "4659a514-a9c3-4e45-b390-2d790622895f",
+      "Name": "Нетипичное использование using",
+      "OrdinalSuffix": "CS2-Lecture07-4.mm-0"
+    },
+    {
+      "Duration": "PT6M6.242S",
+      "Guid": "0f165860-5d89-4d77-8334-c136b93469dc",
+      "Name": "Текстовые и бинарные потоки",
+      "OrdinalSuffix": "CS2-Lecture08-01.mm-0"
+    },
+    {
+      "Duration": "PT4M57.474S",
+      "Guid": "07f8918d-c1e4-4893-b064-b555e97ad867",
+      "Name": "Метод ReadLines",
+      "OrdinalSuffix": "CS2-Lecture08-01.mm-1"
+    },
+    {
+      "Duration": "PT3M31.891S",
+      "Guid": "796bf37b-dacc-44d3-b3d9-655c0e655151",
+      "Name": "Архитектура потоков",
+      "OrdinalSuffix": "CS2-Lecture08-02.mm-0"
+    },
+    {
+      "Duration": "PT2M35.111S",
+      "Guid": "6b50ff7f-f0ed-48d3-9320-5d9bbadec2c8",
+      "Name": "MemoryStream и NetworkStream",
+      "OrdinalSuffix": "CS2-Lecture08-02.mm-1"
+    },
+    {
+      "Duration": "PT2M57.251S",
+      "Guid": "7fa4402c-734f-4f76-b954-aa512691d53d",
+      "Name": "GZipStream",
+      "OrdinalSuffix": "CS2-Lecture08-02.mm-2"
+    },
+    {
+      "Duration": "PT2M49.672S",
+      "Guid": "9dfd9f58-aac3-4ecf-957a-0df75d0b7913",
+      "Name": "Написание собственного Stream",
+      "OrdinalSuffix": "CS2-Lecture08-02.mm-3"
     }
   ],
   "YoutubeClipData": {
@@ -1313,6 +1486,14 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
+          "Description": "1. Основы проектирования\r\n 6. Дженерики\r\n\n\n[GUID: 79fa0ccc-4bff-444b-b38c-6fb175ae1cb4]",
+          "Id": "nvuB7Tz66XM",
+          "Name": "CS2-1-6-5 Дженерики - решение"
+        },
+        "Guid": "79fa0ccc-4bff-444b-b38c-6fb175ae1cb4"
+      },
+      {
+        "Data": {
           "Description": " 1. Основы проектирования\r\n 7. Делегаты\r\n\n\n[GUID: f8cb42f7-9353-4263-9625-5184d1d732a0]",
           "Id": "gbZOaUMe8rE",
           "Name": "CS2-1-7-1 Простое делегирование, задача"
@@ -1486,6 +1667,110 @@ PublishingModel Tuto file Version 1
           "Name": "CS2-1-8-10 Expressions - решение"
         },
         "Guid": "eb664e9f-5d20-45f4-aa39-fcab13cb4b79"
+      },
+      {
+        "Data": {
+          "Description": "2. Дополнительные главы C#\r\n 1. Управление памятью\r\n\n\n[GUID: 2bc5d86b-867c-48e8-af54-4e08f4b2b69c]",
+          "Id": "nTKpQ2gvudM",
+          "Name": "CS2-2-1-1 Потоки"
+        },
+        "Guid": "2bc5d86b-867c-48e8-af54-4e08f4b2b69c"
+      },
+      {
+        "Data": {
+          "Description": "2. Дополнительные главы C#\r\n 1. Управление памятью\r\n\n\n[GUID: 08e330f6-9d55-4553-9823-0f5a8d7920b7]",
+          "Id": "FPWIA9AH3vc",
+          "Name": "CS2-2-1-2 Исключения"
+        },
+        "Guid": "08e330f6-9d55-4553-9823-0f5a8d7920b7"
+      },
+      {
+        "Data": {
+          "Description": "2. Дополнительные главы C#\r\n 1. Управление памятью\r\n\n\n[GUID: 75c0963b-827e-4185-aff9-9089d9c0e6c7]",
+          "Id": "gJ3SyZpLD_0",
+          "Name": "CS2-2-1-3 Управляемая память"
+        },
+        "Guid": "75c0963b-827e-4185-aff9-9089d9c0e6c7"
+      },
+      {
+        "Data": {
+          "Description": "2. Дополнительные главы C#\r\n 1. Управление памятью\r\n\n\n[GUID: 2cc1bbed-3ed2-4b1f-abd9-0d0c1bf1fde2]",
+          "Id": "-rzYH5DelXw",
+          "Name": "CS2-2-1-4 Финализаторы"
+        },
+        "Guid": "2cc1bbed-3ed2-4b1f-abd9-0d0c1bf1fde2"
+      },
+      {
+        "Data": {
+          "Description": "2. Дополнительные главы C#\r\n 1. Управление памятью\r\n\n\n[GUID: a966a0b6-ca95-4383-8dc1-0fc257dbe9cd]",
+          "Id": "PWnwgRtewxs",
+          "Name": "CS2-2-1-5 Паттерн Disposable"
+        },
+        "Guid": "a966a0b6-ca95-4383-8dc1-0fc257dbe9cd"
+      },
+      {
+        "Data": {
+          "Description": "2. Дополнительные главы C#\r\n 1. Управление памятью\r\n\n\n[GUID: 3eb686f4-2662-4394-ac3d-c0c91f5510c5]",
+          "Id": "8FtlYh9-DZY",
+          "Name": "CS2-2-1-6 Оператор using"
+        },
+        "Guid": "3eb686f4-2662-4394-ac3d-c0c91f5510c5"
+      },
+      {
+        "Data": {
+          "Description": "2. Дополнительные главы C#\r\n 1. Управление памятью\r\n\n\n[GUID: 4659a514-a9c3-4e45-b390-2d790622895f]",
+          "Id": "1vfrATWokCM",
+          "Name": "CS2-2-1-7 Нетипичное использование using"
+        },
+        "Guid": "4659a514-a9c3-4e45-b390-2d790622895f"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 2. Файлы\r\n\n\n[GUID: 0f165860-5d89-4d77-8334-c136b93469dc]",
+          "Id": "24OiDINMMZ8",
+          "Name": "CS2-2-2-1 Текстовые и бинарные потоки"
+        },
+        "Guid": "0f165860-5d89-4d77-8334-c136b93469dc"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 2. Файлы\r\n\n\n[GUID: 07f8918d-c1e4-4893-b064-b555e97ad867]",
+          "Id": "Zmyzn-N132Q",
+          "Name": "CS2-2-2-2 Метод ReadLines"
+        },
+        "Guid": "07f8918d-c1e4-4893-b064-b555e97ad867"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 2. Файлы\r\n\n\n[GUID: 796bf37b-dacc-44d3-b3d9-655c0e655151]",
+          "Id": "IMZghwooUTQ",
+          "Name": "CS2-2-2-3 Архитектура потоков"
+        },
+        "Guid": "796bf37b-dacc-44d3-b3d9-655c0e655151"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 2. Файлы\r\n\n\n[GUID: 6b50ff7f-f0ed-48d3-9320-5d9bbadec2c8]",
+          "Id": "Fn4jBXGcCjQ",
+          "Name": "CS2-2-2-4 MemoryStream и NetworkStream"
+        },
+        "Guid": "6b50ff7f-f0ed-48d3-9320-5d9bbadec2c8"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 2. Файлы\r\n\n\n[GUID: 7fa4402c-734f-4f76-b954-aa512691d53d]",
+          "Id": "kFfBknQiIic",
+          "Name": "CS2-2-2-5 GZipStream"
+        },
+        "Guid": "7fa4402c-734f-4f76-b954-aa512691d53d"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 2. Файлы\r\n\n\n[GUID: 9dfd9f58-aac3-4ecf-957a-0df75d0b7913]",
+          "Id": "QRri_5DIyrA",
+          "Name": "CS2-2-2-6 Написание собственного Stream"
+        },
+        "Guid": "9dfd9f58-aac3-4ecf-957a-0df75d0b7913"
       }
     ]
   },
@@ -1546,6 +1831,13 @@ PublishingModel Tuto file Version 1
           "PlaylistTitle": "CS2-1-8 Рефлексия"
         },
         "Guid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHiCgO52aO68a_xbAdM2x5I8",
+          "PlaylistTitle": "CS2-2-2 Файлы"
+        },
+        "Guid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6"
       }
     ]
   }
