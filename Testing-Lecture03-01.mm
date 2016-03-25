@@ -21,7 +21,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 12728
+          "Time": 10756
         },
         {
           "Defined": true,
@@ -30,25 +30,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 17442
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 19535
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 21797
+          "Time": 13982
         },
         {
           "Defined": true,
@@ -57,7 +39,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 23255
+          "Time": 17006
         },
         {
           "Defined": true,
@@ -66,97 +48,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 28915
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 34797
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 38609
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 45218
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 52763
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 60328
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 63368
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 72392
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 74066
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 79934
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 84850
+          "Time": 19501
         },
         {
           "Defined": true,
@@ -165,7 +57,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 87097
+          "Time": 21111
         },
         {
           "Defined": true,
@@ -174,7 +66,16 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 93380
+          "Time": 22376
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 23134
         },
         {
           "Defined": true,
@@ -183,7 +84,34 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 98513
+          "Time": 23683
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 26117
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 31485
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 34053
         },
         {
           "Defined": true,
@@ -192,7 +120,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 103898
+          "Time": 37771
         },
         {
           "Defined": true,
@@ -201,7 +129,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 109367
+          "Time": 39502
         },
         {
           "Defined": true,
@@ -210,7 +138,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 120210
+          "Time": 41472
         },
         {
           "Defined": true,
@@ -219,7 +147,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 124761
+          "Time": 43771
         },
         {
           "Defined": true,
@@ -228,7 +156,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 132185
+          "Time": 45381
         },
         {
           "Defined": true,
@@ -237,7 +165,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 139287
+          "Time": 47034
         },
         {
           "Defined": true,
@@ -246,7 +174,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 142184
+          "Time": 48911
         },
         {
           "Defined": true,
@@ -255,133 +183,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 147102
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 149934
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 153640
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 157115
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 160617
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 162148
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 167294
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 170798
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 177492
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 183707
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 188586
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 193389
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 200695
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 204474
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 210146
+          "Time": 50831
         },
         {
           "Defined": true,
@@ -390,7 +192,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 218319
+          "Time": 52710
         },
         {
           "Defined": true,
@@ -399,7 +201,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 224069
+          "Time": 57066
         },
         {
           "Defined": true,
@@ -408,7 +210,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 231417
+          "Time": 58751
         },
         {
           "Defined": true,
@@ -417,7 +219,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 246534
+          "Time": 61533
         },
         {
           "Defined": true,
@@ -426,7 +228,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 254915
+          "Time": 63221
         },
         {
           "Defined": true,
@@ -435,196 +237,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 266039
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 269369
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 273917
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 280617
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 284858
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 288109
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 292021
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 299239
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 301869
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 312283
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 321709
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 329960
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 345579
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 350683
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 361452
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 366642
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 375978
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 380829
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 387291
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 393028
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 399942
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 404085
+          "Time": 68512
         },
         {
           "Defined": true,
@@ -633,7 +246,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 407194
+          "Time": 72283
         },
         {
           "Defined": true,
@@ -642,7 +255,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 423880
+          "Time": 74843
         },
         {
           "Defined": true,
@@ -651,7 +264,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 431172
+          "Time": 77046
         },
         {
           "Defined": true,
@@ -660,16 +273,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 440782
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 448252
+          "Time": 79717
         },
         {
           "Defined": true,
@@ -678,7 +282,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 458230
+          "Time": 83434
         },
         {
           "Defined": true,
@@ -687,7 +291,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 465962
+          "Time": 87359
         },
         {
           "Defined": true,
@@ -696,7 +300,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 470305
+          "Time": 90372
         },
         {
           "Defined": true,
@@ -705,25 +309,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 478380
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 485815
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 494950
+          "Time": 94155
         },
         {
           "Defined": true,
@@ -732,7 +318,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 497840
+          "Time": 101843
         },
         {
           "Defined": true,
@@ -741,7 +327,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 503154
+          "Time": 104935
         },
         {
           "Defined": true,
@@ -750,115 +336,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 510442
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            true
-          ],
-          "StartsNewEpisode": false,
-          "Time": 516588
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            true
-          ],
-          "StartsNewEpisode": false,
-          "Time": 523547
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            true
-          ],
-          "StartsNewEpisode": false,
-          "Time": 531750
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            true
-          ],
-          "StartsNewEpisode": false,
-          "Time": 539572
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            true
-          ],
-          "StartsNewEpisode": false,
-          "Time": 545287
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 555877
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 568734
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 574726
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 578327
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 584001
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 586771
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 591531
+          "Time": 111030
         },
         {
           "Defined": true,
@@ -867,7 +345,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 595914
+          "Time": 112737
         },
         {
           "Defined": true,
@@ -876,7 +354,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 601476
+          "Time": 115987
         },
         {
           "Defined": true,
@@ -885,7 +363,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 608763
+          "Time": 119404
         },
         {
           "Defined": true,
@@ -894,16 +372,187 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 613825
+          "Time": 124372
         },
         {
           "Defined": true,
           "FromStream": [
-            false,
+            true,
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 617649
+          "Time": 128219
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 131123
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 133299
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 136654
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 138175
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 139623
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 143374
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 146486
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 151444
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 155433
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 159617
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 162499
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 167869
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 172226
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 176634
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 180276
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 183167
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 191152
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 198086
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 201288
         },
         {
           "Defined": true,
@@ -912,7 +561,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 626368
+          "Time": 206350
         },
         {
           "Defined": true,
@@ -921,7 +570,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 641780
+          "Time": 209646
         },
         {
           "Defined": true,
@@ -930,133 +579,16 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 662578
+          "Time": 215430
         },
         {
           "Defined": true,
           "FromStream": [
             false,
-            false
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 672809
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 679601
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 679601
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 683588
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 686469
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 723153
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 728882
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 730353
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 731733
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 733376
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 740848
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 743663
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 746150
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 748022
+          "Time": 216617
         },
         {
           "Defined": true,
@@ -1065,7 +597,16 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 752088
+          "Time": 220650
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 223983
         },
         {
           "Defined": true,
@@ -1074,7 +615,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 758158
+          "Time": 227102
         },
         {
           "Defined": true,
@@ -1083,7 +624,79 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 764766
+          "Time": 231566
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 236187
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 239968
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 242520
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 250226
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 256349
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 259493
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 265804
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 268330
         },
         {
           "Defined": true,
@@ -1092,7 +705,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 769407
+          "Time": 269478
         },
         {
           "Defined": true,
@@ -1101,160 +714,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 773675
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 782200
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 787595
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 789653
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 791531
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 793597
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 795731
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 798688
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 801328
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 802783
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 805879
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 807278
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 809465
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 819260
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 835716
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 846191
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 852260
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            false,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 855655
+          "Time": 272862
         },
         {
           "Defined": true,
@@ -1263,7 +723,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 858068
+          "Time": 277493
         },
         {
           "Defined": true,
@@ -1272,7 +732,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 867632
+          "Time": 280263
         },
         {
           "Defined": true,
@@ -1281,7 +741,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 886383
+          "Time": 287808
         },
         {
           "Defined": true,
@@ -1290,34 +750,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 899837
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 919511
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 929466
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 936900
+          "Time": 291273
         },
         {
           "Defined": true,
@@ -1326,7 +759,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 949064
+          "Time": 292397
         },
         {
           "Defined": false,
@@ -1335,1689 +768,1977 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 954000
+          "Time": 296000
         }
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "WEB-1-04.mm",
+    "DisplayedRawLocation": "Testing\\Lecture03\\01",
     "Information": {
-      "CreationTimeTicks": 635906224870372433,
+      "CreationTimeTicks": 635941107672659093,
       "Episodes": [
         {
           "Dirty": false,
-          "Duration": "PT10M45.034S",
-          "Guid": "441658d2-7153-476e-a1b8-bf7fbcb551a2",
-          "Name": "Родословная языков разметки",
+          "Duration": "PT0S",
+          "Guid": "e18ca48e-0961-41a0-a7d9-875bf469d356",
+          "Name": "Введение",
           "OutputType": 1,
           "PatchModel": null,
           "YoutubeId": null
         }
       ],
-      "LastModificationTimeTicks": 635906600424047199
+      "LastModificationTimeTicks": 635943309310750257
     },
     "PreparedChunks": null,
-    "RawVideoHash": "5F-26-45-4E-90-03-D4-F0-4E-29-42-34-DA-CA-3B-15",
+    "RawVideoHash": "2C-4E-91-09-EB-EA-F3-15-0A-AB-53-6B-04-A4-6C-E2",
     "ReadyToEdit": false,
     "SoundIntervals": [
       {
-        "EndTime": 26960,
+        "EndTime": 4442,
         "HasVoice": false,
         "StartTime": 0,
         "Volume": 0
       },
       {
-        "EndTime": 27080,
+        "EndTime": 4578,
         "HasVoice": true,
-        "StartTime": 26960,
+        "StartTime": 4442,
         "Volume": 0
       },
       {
-        "EndTime": 39896,
+        "EndTime": 14714,
         "HasVoice": false,
-        "StartTime": 27080,
+        "StartTime": 4578,
         "Volume": 0
       },
       {
-        "EndTime": 40000,
+        "EndTime": 14866,
         "HasVoice": true,
-        "StartTime": 39896,
+        "StartTime": 14714,
         "Volume": 0
       },
       {
-        "EndTime": 61488,
+        "EndTime": 18914,
         "HasVoice": false,
-        "StartTime": 40000,
+        "StartTime": 14866,
         "Volume": 0
       },
       {
-        "EndTime": 61600,
+        "EndTime": 19098,
         "HasVoice": true,
-        "StartTime": 61488,
+        "StartTime": 18914,
         "Volume": 0
       },
       {
-        "EndTime": 83240,
+        "EndTime": 24202,
         "HasVoice": false,
-        "StartTime": 61600,
+        "StartTime": 19098,
         "Volume": 0
       },
       {
-        "EndTime": 83384,
+        "EndTime": 24306,
         "HasVoice": true,
-        "StartTime": 83240,
+        "StartTime": 24202,
         "Volume": 0
       },
       {
-        "EndTime": 87664,
+        "EndTime": 25074,
         "HasVoice": false,
-        "StartTime": 83384,
+        "StartTime": 24306,
         "Volume": 0
       },
       {
-        "EndTime": 88360,
+        "EndTime": 25194,
         "HasVoice": true,
-        "StartTime": 87664,
+        "StartTime": 25074,
         "Volume": 0
       },
       {
-        "EndTime": 96120,
+        "EndTime": 28346,
         "HasVoice": false,
-        "StartTime": 88360,
+        "StartTime": 25194,
         "Volume": 0
       },
       {
-        "EndTime": 97208,
+        "EndTime": 28546,
         "HasVoice": true,
-        "StartTime": 96120,
+        "StartTime": 28346,
         "Volume": 0
       },
       {
-        "EndTime": 98008,
+        "EndTime": 30266,
         "HasVoice": false,
-        "StartTime": 97208,
+        "StartTime": 28546,
         "Volume": 0
       },
       {
-        "EndTime": 98144,
+        "EndTime": 30458,
         "HasVoice": true,
-        "StartTime": 98008,
+        "StartTime": 30266,
         "Volume": 0
       },
       {
-        "EndTime": 100168,
+        "EndTime": 32866,
         "HasVoice": false,
-        "StartTime": 98144,
+        "StartTime": 30458,
         "Volume": 0
       },
       {
-        "EndTime": 100312,
+        "EndTime": 33882,
         "HasVoice": true,
-        "StartTime": 100168,
+        "StartTime": 32866,
         "Volume": 0
       },
       {
-        "EndTime": 100752,
+        "EndTime": 34458,
         "HasVoice": false,
-        "StartTime": 100312,
+        "StartTime": 33882,
         "Volume": 0
       },
       {
-        "EndTime": 100936,
+        "EndTime": 34618,
         "HasVoice": true,
-        "StartTime": 100752,
+        "StartTime": 34458,
         "Volume": 0
       },
       {
-        "EndTime": 103096,
+        "EndTime": 35786,
         "HasVoice": false,
-        "StartTime": 100936,
+        "StartTime": 34618,
         "Volume": 0
       },
       {
-        "EndTime": 103264,
+        "EndTime": 35906,
         "HasVoice": true,
-        "StartTime": 103096,
+        "StartTime": 35786,
         "Volume": 0
       },
       {
-        "EndTime": 104384,
+        "EndTime": 37834,
         "HasVoice": false,
-        "StartTime": 103264,
+        "StartTime": 35906,
         "Volume": 0
       },
       {
-        "EndTime": 104600,
+        "EndTime": 37946,
         "HasVoice": true,
-        "StartTime": 104384,
+        "StartTime": 37834,
         "Volume": 0
       },
       {
-        "EndTime": 120000,
+        "EndTime": 38658,
         "HasVoice": false,
-        "StartTime": 104600,
+        "StartTime": 37946,
         "Volume": 0
       },
       {
-        "EndTime": 120152,
+        "EndTime": 38778,
         "HasVoice": true,
-        "StartTime": 120000,
+        "StartTime": 38658,
         "Volume": 0
       },
       {
-        "EndTime": 122016,
+        "EndTime": 41498,
         "HasVoice": false,
-        "StartTime": 120152,
+        "StartTime": 38778,
         "Volume": 0
       },
       {
-        "EndTime": 122168,
+        "EndTime": 41842,
         "HasVoice": true,
-        "StartTime": 122016,
+        "StartTime": 41498,
         "Volume": 0
       },
       {
-        "EndTime": 122616,
+        "EndTime": 43754,
         "HasVoice": false,
-        "StartTime": 122168,
+        "StartTime": 41842,
         "Volume": 0
       },
       {
-        "EndTime": 122736,
+        "EndTime": 43914,
         "HasVoice": true,
-        "StartTime": 122616,
+        "StartTime": 43754,
         "Volume": 0
       },
       {
-        "EndTime": 127928,
+        "EndTime": 44578,
         "HasVoice": false,
-        "StartTime": 122736,
+        "StartTime": 43914,
         "Volume": 0
       },
       {
-        "EndTime": 128104,
+        "EndTime": 44690,
         "HasVoice": true,
-        "StartTime": 127928,
+        "StartTime": 44578,
         "Volume": 0
       },
       {
-        "EndTime": 128592,
+        "EndTime": 47018,
         "HasVoice": false,
-        "StartTime": 128104,
+        "StartTime": 44690,
         "Volume": 0
       },
       {
-        "EndTime": 128984,
+        "EndTime": 47834,
         "HasVoice": true,
-        "StartTime": 128592,
+        "StartTime": 47018,
         "Volume": 0
       },
       {
-        "EndTime": 129824,
+        "EndTime": 48914,
         "HasVoice": false,
-        "StartTime": 128984,
+        "StartTime": 47834,
         "Volume": 0
       },
       {
-        "EndTime": 130224,
+        "EndTime": 49514,
         "HasVoice": true,
-        "StartTime": 129824,
+        "StartTime": 48914,
         "Volume": 0
       },
       {
-        "EndTime": 130832,
+        "EndTime": 50378,
         "HasVoice": false,
-        "StartTime": 130224,
+        "StartTime": 49514,
         "Volume": 0
       },
       {
-        "EndTime": 131168,
+        "EndTime": 50722,
         "HasVoice": true,
-        "StartTime": 130832,
+        "StartTime": 50378,
         "Volume": 0
       },
       {
-        "EndTime": 135344,
+        "EndTime": 52050,
         "HasVoice": false,
-        "StartTime": 131168,
+        "StartTime": 50722,
         "Volume": 0
       },
       {
-        "EndTime": 135472,
+        "EndTime": 52162,
         "HasVoice": true,
-        "StartTime": 135344,
+        "StartTime": 52050,
         "Volume": 0
       },
       {
-        "EndTime": 136336,
+        "EndTime": 52970,
         "HasVoice": false,
-        "StartTime": 135472,
+        "StartTime": 52162,
         "Volume": 0
       },
       {
-        "EndTime": 136456,
+        "EndTime": 53130,
         "HasVoice": true,
-        "StartTime": 136336,
+        "StartTime": 52970,
         "Volume": 0
       },
       {
-        "EndTime": 137496,
+        "EndTime": 53594,
         "HasVoice": false,
-        "StartTime": 136456,
+        "StartTime": 53130,
         "Volume": 0
       },
       {
-        "EndTime": 138024,
+        "EndTime": 53954,
         "HasVoice": true,
-        "StartTime": 137496,
+        "StartTime": 53594,
         "Volume": 0
       },
       {
-        "EndTime": 138848,
+        "EndTime": 55290,
         "HasVoice": false,
-        "StartTime": 138024,
+        "StartTime": 53954,
         "Volume": 0
       },
       {
-        "EndTime": 139048,
+        "EndTime": 56290,
         "HasVoice": true,
-        "StartTime": 138848,
+        "StartTime": 55290,
         "Volume": 0
       },
       {
-        "EndTime": 141760,
+        "EndTime": 58370,
         "HasVoice": false,
-        "StartTime": 139048,
+        "StartTime": 56290,
         "Volume": 0
       },
       {
-        "EndTime": 141880,
+        "EndTime": 58482,
         "HasVoice": true,
-        "StartTime": 141760,
+        "StartTime": 58370,
         "Volume": 0
       },
       {
-        "EndTime": 143176,
+        "EndTime": 59498,
         "HasVoice": false,
-        "StartTime": 141880,
+        "StartTime": 58482,
         "Volume": 0
       },
       {
-        "EndTime": 143432,
+        "EndTime": 59610,
         "HasVoice": true,
-        "StartTime": 143176,
+        "StartTime": 59498,
         "Volume": 0
       },
       {
-        "EndTime": 146768,
+        "EndTime": 60346,
         "HasVoice": false,
-        "StartTime": 143432,
+        "StartTime": 59610,
         "Volume": 0
       },
       {
-        "EndTime": 147464,
+        "EndTime": 60450,
         "HasVoice": true,
-        "StartTime": 146768,
+        "StartTime": 60346,
         "Volume": 0
       },
       {
-        "EndTime": 148632,
+        "EndTime": 61234,
         "HasVoice": false,
-        "StartTime": 147464,
+        "StartTime": 60450,
         "Volume": 0
       },
       {
-        "EndTime": 148784,
+        "EndTime": 61506,
         "HasVoice": true,
-        "StartTime": 148632,
+        "StartTime": 61234,
         "Volume": 0
       },
       {
-        "EndTime": 158048,
+        "EndTime": 62090,
         "HasVoice": false,
-        "StartTime": 148784,
+        "StartTime": 61506,
         "Volume": 0
       },
       {
-        "EndTime": 158208,
+        "EndTime": 62218,
         "HasVoice": true,
-        "StartTime": 158048,
+        "StartTime": 62090,
         "Volume": 0
       },
       {
-        "EndTime": 173056,
+        "EndTime": 63890,
         "HasVoice": false,
-        "StartTime": 158208,
+        "StartTime": 62218,
         "Volume": 0
       },
       {
-        "EndTime": 173224,
+        "EndTime": 64450,
         "HasVoice": true,
-        "StartTime": 173056,
+        "StartTime": 63890,
         "Volume": 0
       },
       {
-        "EndTime": 177128,
+        "EndTime": 65434,
         "HasVoice": false,
-        "StartTime": 173224,
+        "StartTime": 64450,
         "Volume": 0
       },
       {
-        "EndTime": 177232,
+        "EndTime": 65586,
         "HasVoice": true,
-        "StartTime": 177128,
+        "StartTime": 65434,
         "Volume": 0
       },
       {
-        "EndTime": 178128,
+        "EndTime": 66306,
         "HasVoice": false,
-        "StartTime": 177232,
+        "StartTime": 65586,
         "Volume": 0
       },
       {
-        "EndTime": 178272,
+        "EndTime": 66754,
         "HasVoice": true,
-        "StartTime": 178128,
+        "StartTime": 66306,
         "Volume": 0
       },
       {
-        "EndTime": 185056,
+        "EndTime": 70522,
         "HasVoice": false,
-        "StartTime": 178272,
+        "StartTime": 66754,
         "Volume": 0
       },
       {
-        "EndTime": 185176,
+        "EndTime": 70706,
         "HasVoice": true,
-        "StartTime": 185056,
+        "StartTime": 70522,
         "Volume": 0
       },
       {
-        "EndTime": 190928,
+        "EndTime": 73506,
         "HasVoice": false,
-        "StartTime": 185176,
+        "StartTime": 70706,
         "Volume": 0
       },
       {
-        "EndTime": 191088,
+        "EndTime": 73610,
         "HasVoice": true,
-        "StartTime": 190928,
+        "StartTime": 73506,
         "Volume": 0
       },
       {
-        "EndTime": 200232,
+        "EndTime": 76978,
         "HasVoice": false,
-        "StartTime": 191088,
+        "StartTime": 73610,
         "Volume": 0
       },
       {
-        "EndTime": 200504,
+        "EndTime": 77098,
         "HasVoice": true,
-        "StartTime": 200232,
+        "StartTime": 76978,
         "Volume": 0
       },
       {
-        "EndTime": 205656,
+        "EndTime": 79466,
         "HasVoice": false,
-        "StartTime": 200504,
+        "StartTime": 77098,
         "Volume": 0
       },
       {
-        "EndTime": 205848,
+        "EndTime": 79762,
         "HasVoice": true,
-        "StartTime": 205656,
+        "StartTime": 79466,
         "Volume": 0
       },
       {
-        "EndTime": 212544,
+        "EndTime": 80986,
         "HasVoice": false,
-        "StartTime": 205848,
+        "StartTime": 79762,
         "Volume": 0
       },
       {
-        "EndTime": 212648,
+        "EndTime": 81618,
         "HasVoice": true,
-        "StartTime": 212544,
+        "StartTime": 80986,
         "Volume": 0
       },
       {
-        "EndTime": 215488,
+        "EndTime": 85066,
         "HasVoice": false,
-        "StartTime": 212648,
+        "StartTime": 81618,
         "Volume": 0
       },
       {
-        "EndTime": 215592,
+        "EndTime": 85186,
         "HasVoice": true,
-        "StartTime": 215488,
+        "StartTime": 85066,
         "Volume": 0
       },
       {
-        "EndTime": 223912,
+        "EndTime": 85674,
         "HasVoice": false,
-        "StartTime": 215592,
+        "StartTime": 85186,
         "Volume": 0
       },
       {
-        "EndTime": 224592,
+        "EndTime": 86770,
         "HasVoice": true,
-        "StartTime": 223912,
+        "StartTime": 85674,
         "Volume": 0
       },
       {
-        "EndTime": 226816,
+        "EndTime": 87210,
         "HasVoice": false,
-        "StartTime": 224592,
+        "StartTime": 86770,
         "Volume": 0
       },
       {
-        "EndTime": 226920,
+        "EndTime": 87738,
         "HasVoice": true,
-        "StartTime": 226816,
+        "StartTime": 87210,
         "Volume": 0
       },
       {
-        "EndTime": 228656,
+        "EndTime": 88394,
         "HasVoice": false,
-        "StartTime": 226920,
+        "StartTime": 87738,
         "Volume": 0
       },
       {
-        "EndTime": 228760,
+        "EndTime": 88658,
         "HasVoice": true,
-        "StartTime": 228656,
+        "StartTime": 88394,
         "Volume": 0
       },
       {
-        "EndTime": 229416,
+        "EndTime": 89154,
         "HasVoice": false,
-        "StartTime": 228760,
+        "StartTime": 88658,
         "Volume": 0
       },
       {
-        "EndTime": 229584,
+        "EndTime": 89378,
         "HasVoice": true,
-        "StartTime": 229416,
+        "StartTime": 89154,
         "Volume": 0
       },
       {
-        "EndTime": 233480,
+        "EndTime": 92010,
         "HasVoice": false,
-        "StartTime": 229584,
+        "StartTime": 89378,
         "Volume": 0
       },
       {
-        "EndTime": 233800,
+        "EndTime": 92682,
         "HasVoice": true,
-        "StartTime": 233480,
+        "StartTime": 92010,
         "Volume": 0
       },
       {
-        "EndTime": 235744,
+        "EndTime": 93138,
         "HasVoice": false,
-        "StartTime": 233800,
+        "StartTime": 92682,
         "Volume": 0
       },
       {
-        "EndTime": 235880,
+        "EndTime": 93410,
         "HasVoice": true,
-        "StartTime": 235744,
+        "StartTime": 93138,
         "Volume": 0
       },
       {
-        "EndTime": 242016,
+        "EndTime": 94282,
         "HasVoice": false,
-        "StartTime": 235880,
+        "StartTime": 93410,
         "Volume": 0
       },
       {
-        "EndTime": 242168,
+        "EndTime": 94386,
         "HasVoice": true,
-        "StartTime": 242016,
+        "StartTime": 94282,
         "Volume": 0
       },
       {
-        "EndTime": 246816,
+        "EndTime": 95482,
         "HasVoice": false,
-        "StartTime": 242168,
+        "StartTime": 94386,
         "Volume": 0
       },
       {
-        "EndTime": 246952,
+        "EndTime": 95938,
         "HasVoice": true,
-        "StartTime": 246816,
+        "StartTime": 95482,
         "Volume": 0
       },
       {
-        "EndTime": 255728,
+        "EndTime": 97290,
         "HasVoice": false,
-        "StartTime": 246952,
+        "StartTime": 95938,
         "Volume": 0
       },
       {
-        "EndTime": 255840,
+        "EndTime": 97954,
         "HasVoice": true,
-        "StartTime": 255728,
+        "StartTime": 97290,
         "Volume": 0
       },
       {
-        "EndTime": 259912,
+        "EndTime": 99770,
         "HasVoice": false,
-        "StartTime": 255840,
+        "StartTime": 97954,
         "Volume": 0
       },
       {
-        "EndTime": 260120,
+        "EndTime": 99954,
         "HasVoice": true,
-        "StartTime": 259912,
+        "StartTime": 99770,
         "Volume": 0
       },
       {
-        "EndTime": 270840,
+        "EndTime": 100882,
         "HasVoice": false,
-        "StartTime": 260120,
+        "StartTime": 99954,
         "Volume": 0
       },
       {
-        "EndTime": 270944,
+        "EndTime": 101042,
         "HasVoice": true,
-        "StartTime": 270840,
+        "StartTime": 100882,
         "Volume": 0
       },
       {
-        "EndTime": 271352,
+        "EndTime": 101546,
         "HasVoice": false,
-        "StartTime": 270944,
+        "StartTime": 101042,
         "Volume": 0
       },
       {
-        "EndTime": 271512,
+        "EndTime": 101650,
         "HasVoice": true,
-        "StartTime": 271352,
+        "StartTime": 101546,
         "Volume": 0
       },
       {
-        "EndTime": 274232,
+        "EndTime": 103122,
         "HasVoice": false,
-        "StartTime": 271512,
+        "StartTime": 101650,
         "Volume": 0
       },
       {
-        "EndTime": 274392,
+        "EndTime": 103282,
         "HasVoice": true,
-        "StartTime": 274232,
+        "StartTime": 103122,
         "Volume": 0
       },
       {
-        "EndTime": 275568,
+        "EndTime": 103722,
         "HasVoice": false,
-        "StartTime": 274392,
+        "StartTime": 103282,
         "Volume": 0
       },
       {
-        "EndTime": 275704,
+        "EndTime": 103962,
         "HasVoice": true,
-        "StartTime": 275568,
+        "StartTime": 103722,
         "Volume": 0
       },
       {
-        "EndTime": 277632,
+        "EndTime": 105042,
         "HasVoice": false,
-        "StartTime": 275704,
+        "StartTime": 103962,
         "Volume": 0
       },
       {
-        "EndTime": 278208,
+        "EndTime": 105202,
         "HasVoice": true,
-        "StartTime": 277632,
+        "StartTime": 105042,
         "Volume": 0
       },
       {
-        "EndTime": 292192,
+        "EndTime": 105834,
         "HasVoice": false,
-        "StartTime": 278208,
+        "StartTime": 105202,
         "Volume": 0
       },
       {
-        "EndTime": 292304,
+        "EndTime": 106282,
         "HasVoice": true,
-        "StartTime": 292192,
+        "StartTime": 105834,
         "Volume": 0
       },
       {
-        "EndTime": 299688,
+        "EndTime": 107754,
         "HasVoice": false,
-        "StartTime": 292304,
+        "StartTime": 106282,
         "Volume": 0
       },
       {
-        "EndTime": 299824,
+        "EndTime": 108610,
         "HasVoice": true,
-        "StartTime": 299688,
+        "StartTime": 107754,
         "Volume": 0
       },
       {
-        "EndTime": 301608,
+        "EndTime": 109834,
         "HasVoice": false,
-        "StartTime": 299824,
+        "StartTime": 108610,
         "Volume": 0
       },
       {
-        "EndTime": 301728,
+        "EndTime": 110658,
         "HasVoice": true,
-        "StartTime": 301608,
+        "StartTime": 109834,
         "Volume": 0
       },
       {
-        "EndTime": 321864,
+        "EndTime": 113562,
         "HasVoice": false,
-        "StartTime": 301728,
+        "StartTime": 110658,
         "Volume": 0
       },
       {
-        "EndTime": 321968,
+        "EndTime": 114226,
         "HasVoice": true,
-        "StartTime": 321864,
+        "StartTime": 113562,
         "Volume": 0
       },
       {
-        "EndTime": 326336,
+        "EndTime": 114634,
         "HasVoice": false,
-        "StartTime": 321968,
+        "StartTime": 114226,
         "Volume": 0
       },
       {
-        "EndTime": 326504,
+        "EndTime": 114738,
         "HasVoice": true,
-        "StartTime": 326336,
+        "StartTime": 114634,
         "Volume": 0
       },
       {
-        "EndTime": 330600,
+        "EndTime": 115314,
         "HasVoice": false,
-        "StartTime": 326504,
+        "StartTime": 114738,
         "Volume": 0
       },
       {
-        "EndTime": 330960,
+        "EndTime": 115570,
         "HasVoice": true,
-        "StartTime": 330600,
+        "StartTime": 115314,
         "Volume": 0
       },
       {
-        "EndTime": 331848,
+        "EndTime": 115978,
         "HasVoice": false,
-        "StartTime": 330960,
+        "StartTime": 115570,
         "Volume": 0
       },
       {
-        "EndTime": 331984,
+        "EndTime": 116090,
         "HasVoice": true,
-        "StartTime": 331848,
+        "StartTime": 115978,
         "Volume": 0
       },
       {
-        "EndTime": 336240,
+        "EndTime": 116770,
         "HasVoice": false,
-        "StartTime": 331984,
+        "StartTime": 116090,
         "Volume": 0
       },
       {
-        "EndTime": 336920,
+        "EndTime": 117418,
         "HasVoice": true,
-        "StartTime": 336240,
+        "StartTime": 116770,
         "Volume": 0
       },
       {
-        "EndTime": 359776,
+        "EndTime": 118010,
         "HasVoice": false,
-        "StartTime": 336920,
+        "StartTime": 117418,
         "Volume": 0
       },
       {
-        "EndTime": 359896,
+        "EndTime": 118146,
         "HasVoice": true,
-        "StartTime": 359776,
+        "StartTime": 118010,
         "Volume": 0
       },
       {
-        "EndTime": 369976,
+        "EndTime": 118706,
         "HasVoice": false,
-        "StartTime": 359896,
+        "StartTime": 118146,
         "Volume": 0
       },
       {
-        "EndTime": 370144,
+        "EndTime": 118810,
         "HasVoice": true,
-        "StartTime": 369976,
+        "StartTime": 118706,
         "Volume": 0
       },
       {
-        "EndTime": 390440,
+        "EndTime": 119706,
         "HasVoice": false,
-        "StartTime": 370144,
+        "StartTime": 118810,
         "Volume": 0
       },
       {
-        "EndTime": 390544,
+        "EndTime": 119818,
         "HasVoice": true,
-        "StartTime": 390440,
+        "StartTime": 119706,
         "Volume": 0
       },
       {
-        "EndTime": 404376,
+        "EndTime": 120978,
         "HasVoice": false,
-        "StartTime": 390544,
+        "StartTime": 119818,
         "Volume": 0
       },
       {
-        "EndTime": 404512,
+        "EndTime": 121138,
         "HasVoice": true,
-        "StartTime": 404376,
+        "StartTime": 120978,
         "Volume": 0
       },
       {
-        "EndTime": 408544,
+        "EndTime": 122210,
         "HasVoice": false,
-        "StartTime": 404512,
+        "StartTime": 121138,
         "Volume": 0
       },
       {
-        "EndTime": 408656,
+        "EndTime": 122354,
         "HasVoice": true,
-        "StartTime": 408544,
+        "StartTime": 122210,
         "Volume": 0
       },
       {
-        "EndTime": 409880,
+        "EndTime": 122786,
         "HasVoice": false,
-        "StartTime": 408656,
+        "StartTime": 122354,
         "Volume": 0
       },
       {
-        "EndTime": 410008,
+        "EndTime": 123010,
         "HasVoice": true,
-        "StartTime": 409880,
+        "StartTime": 122786,
         "Volume": 0
       },
       {
-        "EndTime": 419816,
+        "EndTime": 124314,
         "HasVoice": false,
-        "StartTime": 410008,
+        "StartTime": 123010,
         "Volume": 0
       },
       {
-        "EndTime": 419952,
+        "EndTime": 124418,
         "HasVoice": true,
-        "StartTime": 419816,
+        "StartTime": 124314,
         "Volume": 0
       },
       {
-        "EndTime": 426008,
+        "EndTime": 124826,
         "HasVoice": false,
-        "StartTime": 419952,
+        "StartTime": 124418,
         "Volume": 0
       },
       {
-        "EndTime": 426176,
+        "EndTime": 125066,
         "HasVoice": true,
-        "StartTime": 426008,
+        "StartTime": 124826,
         "Volume": 0
       },
       {
-        "EndTime": 429320,
+        "EndTime": 126394,
         "HasVoice": false,
-        "StartTime": 426176,
+        "StartTime": 125066,
         "Volume": 0
       },
       {
-        "EndTime": 429640,
+        "EndTime": 126602,
         "HasVoice": true,
-        "StartTime": 429320,
+        "StartTime": 126394,
         "Volume": 0
       },
       {
-        "EndTime": 431424,
+        "EndTime": 127778,
         "HasVoice": false,
-        "StartTime": 429640,
+        "StartTime": 126602,
         "Volume": 0
       },
       {
-        "EndTime": 431568,
+        "EndTime": 127930,
         "HasVoice": true,
-        "StartTime": 431424,
+        "StartTime": 127778,
         "Volume": 0
       },
       {
-        "EndTime": 434168,
+        "EndTime": 129850,
         "HasVoice": false,
-        "StartTime": 431568,
+        "StartTime": 127930,
         "Volume": 0
       },
       {
-        "EndTime": 434752,
+        "EndTime": 129978,
         "HasVoice": true,
-        "StartTime": 434168,
+        "StartTime": 129850,
         "Volume": 0
       },
       {
-        "EndTime": 446672,
+        "EndTime": 132466,
         "HasVoice": false,
-        "StartTime": 434752,
+        "StartTime": 129978,
         "Volume": 0
       },
       {
-        "EndTime": 446784,
+        "EndTime": 132594,
         "HasVoice": true,
-        "StartTime": 446672,
+        "StartTime": 132466,
         "Volume": 0
       },
       {
-        "EndTime": 458888,
+        "EndTime": 133330,
         "HasVoice": false,
-        "StartTime": 446784,
+        "StartTime": 132594,
         "Volume": 0
       },
       {
-        "EndTime": 459056,
+        "EndTime": 135138,
         "HasVoice": true,
-        "StartTime": 458888,
+        "StartTime": 133330,
         "Volume": 0
       },
       {
-        "EndTime": 460720,
+        "EndTime": 136138,
         "HasVoice": false,
-        "StartTime": 459056,
+        "StartTime": 135138,
         "Volume": 0
       },
       {
-        "EndTime": 460824,
+        "EndTime": 136242,
         "HasVoice": true,
-        "StartTime": 460720,
+        "StartTime": 136138,
         "Volume": 0
       },
       {
-        "EndTime": 467928,
+        "EndTime": 139746,
         "HasVoice": false,
-        "StartTime": 460824,
+        "StartTime": 136242,
         "Volume": 0
       },
       {
-        "EndTime": 468064,
+        "EndTime": 140050,
         "HasVoice": true,
-        "StartTime": 467928,
+        "StartTime": 139746,
         "Volume": 0
       },
       {
-        "EndTime": 468760,
+        "EndTime": 140642,
         "HasVoice": false,
-        "StartTime": 468064,
+        "StartTime": 140050,
         "Volume": 0
       },
       {
-        "EndTime": 468896,
+        "EndTime": 141274,
         "HasVoice": true,
-        "StartTime": 468760,
+        "StartTime": 140642,
         "Volume": 0
       },
       {
-        "EndTime": 469896,
+        "EndTime": 141810,
         "HasVoice": false,
-        "StartTime": 468896,
+        "StartTime": 141274,
         "Volume": 0
       },
       {
-        "EndTime": 470536,
+        "EndTime": 142530,
         "HasVoice": true,
-        "StartTime": 469896,
+        "StartTime": 141810,
         "Volume": 0
       },
       {
-        "EndTime": 473128,
+        "EndTime": 143130,
         "HasVoice": false,
-        "StartTime": 470536,
+        "StartTime": 142530,
         "Volume": 0
       },
       {
-        "EndTime": 473408,
+        "EndTime": 143298,
         "HasVoice": true,
-        "StartTime": 473128,
+        "StartTime": 143130,
         "Volume": 0
       },
       {
-        "EndTime": 478800,
+        "EndTime": 144210,
         "HasVoice": false,
-        "StartTime": 473408,
+        "StartTime": 143298,
         "Volume": 0
       },
       {
-        "EndTime": 478912,
+        "EndTime": 144370,
         "HasVoice": true,
-        "StartTime": 478800,
+        "StartTime": 144210,
         "Volume": 0
       },
       {
-        "EndTime": 480680,
+        "EndTime": 144802,
         "HasVoice": false,
-        "StartTime": 478912,
+        "StartTime": 144370,
         "Volume": 0
       },
       {
-        "EndTime": 480792,
+        "EndTime": 144930,
         "HasVoice": true,
-        "StartTime": 480680,
+        "StartTime": 144802,
         "Volume": 0
       },
       {
-        "EndTime": 498168,
+        "EndTime": 145714,
         "HasVoice": false,
-        "StartTime": 480792,
+        "StartTime": 144930,
         "Volume": 0
       },
       {
-        "EndTime": 498280,
+        "EndTime": 147370,
         "HasVoice": true,
-        "StartTime": 498168,
+        "StartTime": 145714,
         "Volume": 0
       },
       {
-        "EndTime": 499040,
+        "EndTime": 147962,
         "HasVoice": false,
-        "StartTime": 498280,
+        "StartTime": 147370,
         "Volume": 0
       },
       {
-        "EndTime": 499232,
+        "EndTime": 148122,
         "HasVoice": true,
-        "StartTime": 499040,
+        "StartTime": 147962,
         "Volume": 0
       },
       {
-        "EndTime": 502008,
+        "EndTime": 148794,
         "HasVoice": false,
-        "StartTime": 499232,
+        "StartTime": 148122,
         "Volume": 0
       },
       {
-        "EndTime": 502112,
+        "EndTime": 148946,
         "HasVoice": true,
-        "StartTime": 502008,
+        "StartTime": 148794,
         "Volume": 0
       },
       {
-        "EndTime": 504672,
+        "EndTime": 151594,
         "HasVoice": false,
-        "StartTime": 502112,
+        "StartTime": 148946,
         "Volume": 0
       },
       {
-        "EndTime": 505256,
+        "EndTime": 151930,
         "HasVoice": true,
-        "StartTime": 504672,
+        "StartTime": 151594,
         "Volume": 0
       },
       {
-        "EndTime": 506320,
+        "EndTime": 152410,
         "HasVoice": false,
-        "StartTime": 505256,
+        "StartTime": 151930,
         "Volume": 0
       },
       {
-        "EndTime": 506520,
+        "EndTime": 152714,
         "HasVoice": true,
-        "StartTime": 506320,
+        "StartTime": 152410,
         "Volume": 0
       },
       {
-        "EndTime": 509096,
+        "EndTime": 153354,
         "HasVoice": false,
-        "StartTime": 506520,
+        "StartTime": 152714,
         "Volume": 0
       },
       {
-        "EndTime": 509696,
+        "EndTime": 153538,
         "HasVoice": true,
-        "StartTime": 509096,
+        "StartTime": 153354,
         "Volume": 0
       },
       {
-        "EndTime": 514072,
+        "EndTime": 154290,
         "HasVoice": false,
-        "StartTime": 509696,
+        "StartTime": 153538,
         "Volume": 0
       },
       {
-        "EndTime": 514632,
+        "EndTime": 154410,
         "HasVoice": true,
-        "StartTime": 514072,
+        "StartTime": 154290,
         "Volume": 0
       },
       {
-        "EndTime": 515064,
+        "EndTime": 155074,
         "HasVoice": false,
-        "StartTime": 514632,
+        "StartTime": 154410,
         "Volume": 0
       },
       {
-        "EndTime": 515368,
+        "EndTime": 155250,
         "HasVoice": true,
-        "StartTime": 515064,
+        "StartTime": 155074,
         "Volume": 0
       },
       {
-        "EndTime": 515936,
+        "EndTime": 156514,
         "HasVoice": false,
-        "StartTime": 515368,
+        "StartTime": 155250,
         "Volume": 0
       },
       {
-        "EndTime": 516056,
+        "EndTime": 156618,
         "HasVoice": true,
-        "StartTime": 515936,
+        "StartTime": 156514,
         "Volume": 0
       },
       {
-        "EndTime": 520640,
+        "EndTime": 158434,
         "HasVoice": false,
-        "StartTime": 516056,
+        "StartTime": 156618,
         "Volume": 0
       },
       {
-        "EndTime": 520960,
+        "EndTime": 158562,
         "HasVoice": true,
-        "StartTime": 520640,
+        "StartTime": 158434,
         "Volume": 0
       },
       {
-        "EndTime": 521632,
+        "EndTime": 159122,
         "HasVoice": false,
-        "StartTime": 520960,
+        "StartTime": 158562,
         "Volume": 0
       },
       {
-        "EndTime": 521840,
+        "EndTime": 159466,
         "HasVoice": true,
-        "StartTime": 521632,
+        "StartTime": 159122,
         "Volume": 0
       },
       {
-        "EndTime": 523888,
+        "EndTime": 160898,
         "HasVoice": false,
-        "StartTime": 521840,
+        "StartTime": 159466,
         "Volume": 0
       },
       {
-        "EndTime": 524160,
+        "EndTime": 161218,
         "HasVoice": true,
-        "StartTime": 523888,
+        "StartTime": 160898,
         "Volume": 0
       },
       {
-        "EndTime": 525112,
+        "EndTime": 162394,
         "HasVoice": false,
-        "StartTime": 524160,
+        "StartTime": 161218,
         "Volume": 0
       },
       {
-        "EndTime": 525224,
+        "EndTime": 162586,
         "HasVoice": true,
-        "StartTime": 525112,
+        "StartTime": 162394,
         "Volume": 0
       },
       {
-        "EndTime": 529008,
+        "EndTime": 165482,
         "HasVoice": false,
-        "StartTime": 525224,
+        "StartTime": 162586,
         "Volume": 0
       },
       {
-        "EndTime": 529552,
+        "EndTime": 165770,
         "HasVoice": true,
-        "StartTime": 529008,
+        "StartTime": 165482,
         "Volume": 0
       },
       {
-        "EndTime": 531720,
+        "EndTime": 166770,
         "HasVoice": false,
-        "StartTime": 529552,
+        "StartTime": 165770,
         "Volume": 0
       },
       {
-        "EndTime": 531824,
+        "EndTime": 166906,
         "HasVoice": true,
-        "StartTime": 531720,
+        "StartTime": 166770,
         "Volume": 0
       },
       {
-        "EndTime": 536896,
+        "EndTime": 168034,
         "HasVoice": false,
-        "StartTime": 531824,
+        "StartTime": 166906,
         "Volume": 0
       },
       {
-        "EndTime": 537008,
+        "EndTime": 168226,
         "HasVoice": true,
-        "StartTime": 536896,
+        "StartTime": 168034,
         "Volume": 0
       },
       {
-        "EndTime": 537560,
+        "EndTime": 168954,
         "HasVoice": false,
-        "StartTime": 537008,
+        "StartTime": 168226,
         "Volume": 0
       },
       {
-        "EndTime": 537736,
+        "EndTime": 169098,
         "HasVoice": true,
-        "StartTime": 537560,
+        "StartTime": 168954,
         "Volume": 0
       },
       {
-        "EndTime": 541392,
+        "EndTime": 170610,
         "HasVoice": false,
-        "StartTime": 537736,
+        "StartTime": 169098,
         "Volume": 0
       },
       {
-        "EndTime": 541536,
+        "EndTime": 171154,
         "HasVoice": true,
-        "StartTime": 541392,
+        "StartTime": 170610,
         "Volume": 0
       },
       {
-        "EndTime": 542704,
+        "EndTime": 173178,
         "HasVoice": false,
-        "StartTime": 541536,
+        "StartTime": 171154,
         "Volume": 0
       },
       {
-        "EndTime": 542816,
+        "EndTime": 173506,
         "HasVoice": true,
-        "StartTime": 542704,
+        "StartTime": 173178,
         "Volume": 0
       },
       {
-        "EndTime": 553592,
+        "EndTime": 174434,
         "HasVoice": false,
-        "StartTime": 542816,
+        "StartTime": 173506,
         "Volume": 0
       },
       {
-        "EndTime": 553768,
+        "EndTime": 174978,
         "HasVoice": true,
-        "StartTime": 553592,
+        "StartTime": 174434,
         "Volume": 0
       },
       {
-        "EndTime": 554216,
+        "EndTime": 175778,
         "HasVoice": false,
-        "StartTime": 553768,
+        "StartTime": 174978,
         "Volume": 0
       },
       {
-        "EndTime": 554344,
+        "EndTime": 176938,
         "HasVoice": true,
-        "StartTime": 554216,
+        "StartTime": 175778,
         "Volume": 0
       },
       {
-        "EndTime": 588576,
+        "EndTime": 177562,
         "HasVoice": false,
-        "StartTime": 554344,
+        "StartTime": 176938,
         "Volume": 0
       },
       {
-        "EndTime": 588736,
+        "EndTime": 177778,
         "HasVoice": true,
-        "StartTime": 588576,
+        "StartTime": 177562,
         "Volume": 0
       },
       {
-        "EndTime": 642808,
+        "EndTime": 179514,
         "HasVoice": false,
-        "StartTime": 588736,
+        "StartTime": 177778,
         "Volume": 0
       },
       {
-        "EndTime": 642944,
+        "EndTime": 179882,
         "HasVoice": true,
-        "StartTime": 642808,
+        "StartTime": 179514,
         "Volume": 0
       },
       {
-        "EndTime": 644784,
+        "EndTime": 180298,
         "HasVoice": false,
-        "StartTime": 642944,
+        "StartTime": 179882,
         "Volume": 0
       },
       {
-        "EndTime": 644888,
+        "EndTime": 180418,
         "HasVoice": true,
-        "StartTime": 644784,
+        "StartTime": 180298,
         "Volume": 0
       },
       {
-        "EndTime": 645856,
+        "EndTime": 183314,
         "HasVoice": false,
-        "StartTime": 644888,
+        "StartTime": 180418,
         "Volume": 0
       },
       {
-        "EndTime": 645984,
+        "EndTime": 183874,
         "HasVoice": true,
-        "StartTime": 645856,
+        "StartTime": 183314,
         "Volume": 0
       },
       {
-        "EndTime": 662672,
+        "EndTime": 185682,
         "HasVoice": false,
-        "StartTime": 645984,
+        "StartTime": 183874,
         "Volume": 0
       },
       {
-        "EndTime": 662784,
+        "EndTime": 185818,
         "HasVoice": true,
-        "StartTime": 662672,
+        "StartTime": 185682,
         "Volume": 0
       },
       {
-        "EndTime": 683888,
+        "EndTime": 186370,
         "HasVoice": false,
-        "StartTime": 662784,
+        "StartTime": 185818,
         "Volume": 0
       },
       {
-        "EndTime": 684008,
+        "EndTime": 186562,
         "HasVoice": true,
-        "StartTime": 683888,
+        "StartTime": 186370,
         "Volume": 0
       },
       {
-        "EndTime": 687800,
+        "EndTime": 187098,
         "HasVoice": false,
-        "StartTime": 684008,
+        "StartTime": 186562,
         "Volume": 0
       },
       {
-        "EndTime": 687912,
+        "EndTime": 187506,
         "HasVoice": true,
-        "StartTime": 687800,
+        "StartTime": 187098,
         "Volume": 0
       },
       {
-        "EndTime": 688784,
+        "EndTime": 188554,
         "HasVoice": false,
-        "StartTime": 687912,
+        "StartTime": 187506,
         "Volume": 0
       },
       {
-        "EndTime": 688888,
+        "EndTime": 188754,
         "HasVoice": true,
-        "StartTime": 688784,
+        "StartTime": 188554,
         "Volume": 0
       },
       {
-        "EndTime": 692616,
+        "EndTime": 191226,
         "HasVoice": false,
-        "StartTime": 688888,
+        "StartTime": 188754,
         "Volume": 0
       },
       {
-        "EndTime": 692728,
+        "EndTime": 191514,
         "HasVoice": true,
-        "StartTime": 692616,
+        "StartTime": 191226,
         "Volume": 0
       },
       {
-        "EndTime": 696128,
+        "EndTime": 192514,
         "HasVoice": false,
-        "StartTime": 692728,
+        "StartTime": 191514,
         "Volume": 0
       },
       {
-        "EndTime": 696248,
+        "EndTime": 192658,
         "HasVoice": true,
-        "StartTime": 696128,
+        "StartTime": 192514,
         "Volume": 0
       },
       {
-        "EndTime": 700272,
+        "EndTime": 196018,
         "HasVoice": false,
-        "StartTime": 696248,
+        "StartTime": 192658,
         "Volume": 0
       },
       {
-        "EndTime": 700384,
+        "EndTime": 196202,
         "HasVoice": true,
-        "StartTime": 700272,
+        "StartTime": 196018,
         "Volume": 0
       },
       {
-        "EndTime": 710784,
+        "EndTime": 196802,
         "HasVoice": false,
-        "StartTime": 700384,
+        "StartTime": 196202,
         "Volume": 0
       },
       {
-        "EndTime": 711016,
+        "EndTime": 197418,
         "HasVoice": true,
-        "StartTime": 710784,
+        "StartTime": 196802,
         "Volume": 0
       },
       {
-        "EndTime": 711672,
+        "EndTime": 199674,
         "HasVoice": false,
-        "StartTime": 711016,
+        "StartTime": 197418,
         "Volume": 0
       },
       {
-        "EndTime": 711776,
+        "EndTime": 201210,
         "HasVoice": true,
-        "StartTime": 711672,
+        "StartTime": 199674,
         "Volume": 0
       },
       {
-        "EndTime": 734232,
+        "EndTime": 201650,
         "HasVoice": false,
-        "StartTime": 711776,
+        "StartTime": 201210,
         "Volume": 0
       },
       {
-        "EndTime": 734760,
+        "EndTime": 201794,
         "HasVoice": true,
-        "StartTime": 734232,
+        "StartTime": 201650,
         "Volume": 0
       },
       {
-        "EndTime": 752576,
+        "EndTime": 203930,
         "HasVoice": false,
-        "StartTime": 734760,
+        "StartTime": 201794,
         "Volume": 0
       },
       {
-        "EndTime": 752712,
+        "EndTime": 204058,
         "HasVoice": true,
-        "StartTime": 752576,
+        "StartTime": 203930,
         "Volume": 0
       },
       {
-        "EndTime": 759312,
+        "EndTime": 206650,
         "HasVoice": false,
-        "StartTime": 752712,
+        "StartTime": 204058,
         "Volume": 0
       },
       {
-        "EndTime": 759448,
+        "EndTime": 207242,
         "HasVoice": true,
-        "StartTime": 759312,
+        "StartTime": 206650,
         "Volume": 0
       },
       {
-        "EndTime": 813632,
+        "EndTime": 208690,
         "HasVoice": false,
-        "StartTime": 759448,
+        "StartTime": 207242,
         "Volume": 0
       },
       {
-        "EndTime": 814136,
+        "EndTime": 209066,
         "HasVoice": true,
-        "StartTime": 813632,
+        "StartTime": 208690,
         "Volume": 0
       },
       {
-        "EndTime": 819560,
+        "EndTime": 210226,
         "HasVoice": false,
-        "StartTime": 814136,
+        "StartTime": 209066,
         "Volume": 0
       },
       {
-        "EndTime": 819688,
+        "EndTime": 210418,
         "HasVoice": true,
-        "StartTime": 819560,
+        "StartTime": 210226,
         "Volume": 0
       },
       {
-        "EndTime": 823288,
+        "EndTime": 210826,
         "HasVoice": false,
-        "StartTime": 819688,
+        "StartTime": 210418,
         "Volume": 0
       },
       {
-        "EndTime": 823416,
+        "EndTime": 211034,
         "HasVoice": true,
-        "StartTime": 823288,
+        "StartTime": 210826,
         "Volume": 0
       },
       {
-        "EndTime": 826392,
+        "EndTime": 211546,
         "HasVoice": false,
-        "StartTime": 823416,
+        "StartTime": 211034,
         "Volume": 0
       },
       {
-        "EndTime": 826520,
+        "EndTime": 211650,
         "HasVoice": true,
-        "StartTime": 826392,
+        "StartTime": 211546,
         "Volume": 0
       },
       {
-        "EndTime": 834280,
+        "EndTime": 213402,
         "HasVoice": false,
-        "StartTime": 826520,
+        "StartTime": 211650,
         "Volume": 0
       },
       {
-        "EndTime": 834392,
+        "EndTime": 213922,
         "HasVoice": true,
-        "StartTime": 834280,
+        "StartTime": 213402,
         "Volume": 0
       },
       {
-        "EndTime": 867896,
+        "EndTime": 214442,
         "HasVoice": false,
-        "StartTime": 834392,
+        "StartTime": 213922,
         "Volume": 0
       },
       {
-        "EndTime": 868072,
+        "EndTime": 214610,
         "HasVoice": true,
-        "StartTime": 867896,
+        "StartTime": 214442,
         "Volume": 0
       },
       {
-        "EndTime": 874488,
+        "EndTime": 215762,
         "HasVoice": false,
-        "StartTime": 868072,
+        "StartTime": 214610,
         "Volume": 0
       },
       {
-        "EndTime": 874632,
+        "EndTime": 215930,
         "HasVoice": true,
-        "StartTime": 874488,
+        "StartTime": 215762,
         "Volume": 0
       },
       {
-        "EndTime": 885752,
+        "EndTime": 216386,
         "HasVoice": false,
-        "StartTime": 874632,
+        "StartTime": 215930,
         "Volume": 0
       },
       {
-        "EndTime": 885992,
+        "EndTime": 217402,
         "HasVoice": true,
-        "StartTime": 885752,
+        "StartTime": 216386,
         "Volume": 0
       },
       {
-        "EndTime": 890472,
+        "EndTime": 218106,
         "HasVoice": false,
-        "StartTime": 885992,
+        "StartTime": 217402,
         "Volume": 0
       },
       {
-        "EndTime": 890576,
+        "EndTime": 218658,
         "HasVoice": true,
-        "StartTime": 890472,
+        "StartTime": 218106,
         "Volume": 0
       },
       {
-        "EndTime": 896416,
+        "EndTime": 219210,
         "HasVoice": false,
-        "StartTime": 890576,
+        "StartTime": 218658,
         "Volume": 0
       },
       {
-        "EndTime": 896568,
+        "EndTime": 219698,
         "HasVoice": true,
-        "StartTime": 896416,
+        "StartTime": 219210,
         "Volume": 0
       },
       {
-        "EndTime": 904632,
+        "EndTime": 228002,
         "HasVoice": false,
-        "StartTime": 896568,
+        "StartTime": 219698,
         "Volume": 0
       },
       {
-        "EndTime": 904744,
+        "EndTime": 228706,
         "HasVoice": true,
-        "StartTime": 904632,
+        "StartTime": 228002,
         "Volume": 0
       },
       {
-        "EndTime": 909400,
+        "EndTime": 229218,
         "HasVoice": false,
-        "StartTime": 904744,
+        "StartTime": 228706,
         "Volume": 0
       },
       {
-        "EndTime": 909512,
+        "EndTime": 229514,
         "HasVoice": true,
-        "StartTime": 909400,
+        "StartTime": 229218,
         "Volume": 0
       },
       {
-        "EndTime": 910384,
+        "EndTime": 231866,
         "HasVoice": false,
-        "StartTime": 909512,
+        "StartTime": 229514,
         "Volume": 0
       },
       {
-        "EndTime": 910496,
+        "EndTime": 232706,
         "HasVoice": true,
-        "StartTime": 910384,
+        "StartTime": 231866,
         "Volume": 0
       },
       {
-        "EndTime": 914296,
+        "EndTime": 234058,
         "HasVoice": false,
-        "StartTime": 910496,
+        "StartTime": 232706,
         "Volume": 0
       },
       {
-        "EndTime": 914512,
+        "EndTime": 234226,
         "HasVoice": true,
-        "StartTime": 914296,
+        "StartTime": 234058,
         "Volume": 0
       },
       {
-        "EndTime": 918976,
+        "EndTime": 235530,
         "HasVoice": false,
-        "StartTime": 914512,
+        "StartTime": 234226,
         "Volume": 0
       },
       {
-        "EndTime": 919120,
+        "EndTime": 235674,
         "HasVoice": true,
-        "StartTime": 918976,
+        "StartTime": 235530,
         "Volume": 0
       },
       {
-        "EndTime": 919816,
+        "EndTime": 238418,
         "HasVoice": false,
-        "StartTime": 919120,
+        "StartTime": 235674,
         "Volume": 0
       },
       {
-        "EndTime": 919928,
+        "EndTime": 238834,
         "HasVoice": true,
-        "StartTime": 919816,
+        "StartTime": 238418,
         "Volume": 0
       },
       {
-        "EndTime": 920944,
+        "EndTime": 240058,
         "HasVoice": false,
-        "StartTime": 919928,
+        "StartTime": 238834,
         "Volume": 0
       },
       {
-        "EndTime": 921048,
+        "EndTime": 240290,
         "HasVoice": true,
-        "StartTime": 920944,
+        "StartTime": 240058,
         "Volume": 0
       },
       {
-        "EndTime": 926672,
+        "EndTime": 240882,
         "HasVoice": false,
-        "StartTime": 921048,
+        "StartTime": 240290,
         "Volume": 0
       },
       {
-        "EndTime": 926856,
+        "EndTime": 241018,
         "HasVoice": true,
-        "StartTime": 926672,
+        "StartTime": 240882,
         "Volume": 0
       },
       {
-        "EndTime": 928976,
+        "EndTime": 242146,
         "HasVoice": false,
-        "StartTime": 926856,
+        "StartTime": 241018,
         "Volume": 0
       },
       {
-        "EndTime": 929080,
+        "EndTime": 242250,
         "HasVoice": true,
-        "StartTime": 928976,
+        "StartTime": 242146,
         "Volume": 0
       },
       {
-        "EndTime": 937024,
+        "EndTime": 243970,
         "HasVoice": false,
-        "StartTime": 929080,
+        "StartTime": 242250,
         "Volume": 0
       },
       {
-        "EndTime": 937680,
+        "EndTime": 244122,
         "HasVoice": true,
-        "StartTime": 937024,
+        "StartTime": 243970,
         "Volume": 0
       },
       {
-        "EndTime": 940224,
+        "EndTime": 245002,
         "HasVoice": false,
-        "StartTime": 937680,
+        "StartTime": 244122,
         "Volume": 0
       },
       {
-        "EndTime": 940368,
+        "EndTime": 245130,
         "HasVoice": true,
-        "StartTime": 940224,
+        "StartTime": 245002,
         "Volume": 0
       },
       {
-        "EndTime": 954161,
+        "EndTime": 246026,
         "HasVoice": false,
-        "StartTime": 940368,
+        "StartTime": 245130,
+        "Volume": 0
+      },
+      {
+        "EndTime": 246346,
+        "HasVoice": true,
+        "StartTime": 246026,
+        "Volume": 0
+      },
+      {
+        "EndTime": 248442,
+        "HasVoice": false,
+        "StartTime": 246346,
+        "Volume": 0
+      },
+      {
+        "EndTime": 248658,
+        "HasVoice": true,
+        "StartTime": 248442,
+        "Volume": 0
+      },
+      {
+        "EndTime": 249954,
+        "HasVoice": false,
+        "StartTime": 248658,
+        "Volume": 0
+      },
+      {
+        "EndTime": 250122,
+        "HasVoice": true,
+        "StartTime": 249954,
+        "Volume": 0
+      },
+      {
+        "EndTime": 251682,
+        "HasVoice": false,
+        "StartTime": 250122,
+        "Volume": 0
+      },
+      {
+        "EndTime": 251802,
+        "HasVoice": true,
+        "StartTime": 251682,
+        "Volume": 0
+      },
+      {
+        "EndTime": 252346,
+        "HasVoice": false,
+        "StartTime": 251802,
+        "Volume": 0
+      },
+      {
+        "EndTime": 252642,
+        "HasVoice": true,
+        "StartTime": 252346,
+        "Volume": 0
+      },
+      {
+        "EndTime": 254402,
+        "HasVoice": false,
+        "StartTime": 252642,
+        "Volume": 0
+      },
+      {
+        "EndTime": 254602,
+        "HasVoice": true,
+        "StartTime": 254402,
+        "Volume": 0
+      },
+      {
+        "EndTime": 255770,
+        "HasVoice": false,
+        "StartTime": 254602,
+        "Volume": 0
+      },
+      {
+        "EndTime": 256402,
+        "HasVoice": true,
+        "StartTime": 255770,
+        "Volume": 0
+      },
+      {
+        "EndTime": 257298,
+        "HasVoice": false,
+        "StartTime": 256402,
+        "Volume": 0
+      },
+      {
+        "EndTime": 257474,
+        "HasVoice": true,
+        "StartTime": 257298,
+        "Volume": 0
+      },
+      {
+        "EndTime": 258042,
+        "HasVoice": false,
+        "StartTime": 257474,
+        "Volume": 0
+      },
+      {
+        "EndTime": 258282,
+        "HasVoice": true,
+        "StartTime": 258042,
+        "Volume": 0
+      },
+      {
+        "EndTime": 260050,
+        "HasVoice": false,
+        "StartTime": 258282,
+        "Volume": 0
+      },
+      {
+        "EndTime": 260170,
+        "HasVoice": true,
+        "StartTime": 260050,
+        "Volume": 0
+      },
+      {
+        "EndTime": 262818,
+        "HasVoice": false,
+        "StartTime": 260170,
+        "Volume": 0
+      },
+      {
+        "EndTime": 263418,
+        "HasVoice": true,
+        "StartTime": 262818,
+        "Volume": 0
+      },
+      {
+        "EndTime": 265082,
+        "HasVoice": false,
+        "StartTime": 263418,
+        "Volume": 0
+      },
+      {
+        "EndTime": 265354,
+        "HasVoice": true,
+        "StartTime": 265082,
+        "Volume": 0
+      },
+      {
+        "EndTime": 266314,
+        "HasVoice": false,
+        "StartTime": 265354,
+        "Volume": 0
+      },
+      {
+        "EndTime": 266946,
+        "HasVoice": true,
+        "StartTime": 266314,
+        "Volume": 0
+      },
+      {
+        "EndTime": 269778,
+        "HasVoice": false,
+        "StartTime": 266946,
+        "Volume": 0
+      },
+      {
+        "EndTime": 271506,
+        "HasVoice": true,
+        "StartTime": 269778,
+        "Volume": 0
+      },
+      {
+        "EndTime": 272114,
+        "HasVoice": false,
+        "StartTime": 271506,
+        "Volume": 0
+      },
+      {
+        "EndTime": 272442,
+        "HasVoice": true,
+        "StartTime": 272114,
+        "Volume": 0
+      },
+      {
+        "EndTime": 273162,
+        "HasVoice": false,
+        "StartTime": 272442,
+        "Volume": 0
+      },
+      {
+        "EndTime": 273754,
+        "HasVoice": true,
+        "StartTime": 273162,
+        "Volume": 0
+      },
+      {
+        "EndTime": 275002,
+        "HasVoice": false,
+        "StartTime": 273754,
+        "Volume": 0
+      },
+      {
+        "EndTime": 275138,
+        "HasVoice": true,
+        "StartTime": 275002,
+        "Volume": 0
+      },
+      {
+        "EndTime": 277450,
+        "HasVoice": false,
+        "StartTime": 275138,
+        "Volume": 0
+      },
+      {
+        "EndTime": 277746,
+        "HasVoice": true,
+        "StartTime": 277450,
+        "Volume": 0
+      },
+      {
+        "EndTime": 280186,
+        "HasVoice": false,
+        "StartTime": 277746,
+        "Volume": 0
+      },
+      {
+        "EndTime": 280498,
+        "HasVoice": true,
+        "StartTime": 280186,
+        "Volume": 0
+      },
+      {
+        "EndTime": 280994,
+        "HasVoice": false,
+        "StartTime": 280498,
+        "Volume": 0
+      },
+      {
+        "EndTime": 282010,
+        "HasVoice": true,
+        "StartTime": 280994,
+        "Volume": 0
+      },
+      {
+        "EndTime": 285138,
+        "HasVoice": false,
+        "StartTime": 282010,
+        "Volume": 0
+      },
+      {
+        "EndTime": 285242,
+        "HasVoice": true,
+        "StartTime": 285138,
+        "Volume": 0
+      },
+      {
+        "EndTime": 287402,
+        "HasVoice": false,
+        "StartTime": 285242,
+        "Volume": 0
+      },
+      {
+        "EndTime": 287970,
+        "HasVoice": true,
+        "StartTime": 287402,
+        "Volume": 0
+      },
+      {
+        "EndTime": 288554,
+        "HasVoice": false,
+        "StartTime": 287970,
+        "Volume": 0
+      },
+      {
+        "EndTime": 289370,
+        "HasVoice": true,
+        "StartTime": 288554,
+        "Volume": 0
+      },
+      {
+        "EndTime": 290906,
+        "HasVoice": false,
+        "StartTime": 289370,
+        "Volume": 0
+      },
+      {
+        "EndTime": 291018,
+        "HasVoice": true,
+        "StartTime": 290906,
+        "Volume": 0
+      },
+      {
+        "EndTime": 296084,
+        "HasVoice": false,
+        "StartTime": 291018,
         "Volume": 0
       }
     ],
     "SubtitleFixes": [],
-    "SynchronizationShift": 8484
+    "SynchronizationShift": 4585
   },
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 949081,
+    "currentPosition": 292424,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
