@@ -3923,7 +3923,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "Webinar-1-02",
+    "DisplayedRawLocation": "Webinar\\1\\02",
     "Information": {
       "CreationTimeTicks": 635948985819646845,
       "Episodes": [

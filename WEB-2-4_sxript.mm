@@ -17,7 +17,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "WEB\\2\\4_sxript",
+    "DisplayedRawLocation": "WEB-2-4_sxript.mm",
     "Information": {
       "CreationTimeTicks": 635933412066863647,
       "Episodes": [],
