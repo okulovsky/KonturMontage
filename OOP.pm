@@ -76,6 +76,12 @@ PublishingModel Tuto file Version 1
               "Guid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6",
               "Items": [],
               "PlaylistId": "[Enter PlaylistIdHere]"
+            },
+            {
+              "Caption": "Исключения",
+              "Guid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
             }
           ],
           "PlaylistId": "[Enter PlaylistIdHere]"
@@ -523,6 +529,41 @@ PublishingModel Tuto file Version 1
         "NumberInTopic": 5,
         "TopicGuid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6",
         "VideoGuid": "9dfd9f58-aac3-4ecf-957a-0df75d0b7913"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0",
+        "VideoGuid": "89d2f895-fe58-4730-a563-eebb8c03ad9c"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0",
+        "VideoGuid": "4c74f161-1abc-41f1-a8e6-33902670e015"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0",
+        "VideoGuid": "728b9178-b843-49d8-b2d9-4bd6c9e9233c"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0",
+        "VideoGuid": "275acefb-ab87-46f5-8720-05cd717b9bda"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0",
+        "VideoGuid": "426d00ee-8b80-42b2-9279-5e4f620bda31"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0",
+        "VideoGuid": "148b769b-797c-4f2f-8934-c9236e6492b4"
+      },
+      {
+        "NumberInTopic": 6,
+        "TopicGuid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0",
+        "VideoGuid": "ca661b51-1c5e-4f85-9da3-d93177c225b3"
       }
     ]
   },
@@ -1064,6 +1105,48 @@ PublishingModel Tuto file Version 1
       "Guid": "9dfd9f58-aac3-4ecf-957a-0df75d0b7913",
       "Name": "Написание собственного Stream",
       "OrdinalSuffix": "CS2-Lecture08-02.mm-3"
+    },
+    {
+      "Duration": "PT5M3.66S",
+      "Guid": "89d2f895-fe58-4730-a563-eebb8c03ad9c",
+      "Name": "Exception и его поля",
+      "OrdinalSuffix": "CS2\\Lecture09\\1-0"
+    },
+    {
+      "Duration": "PT2M32.267S",
+      "Guid": "4c74f161-1abc-41f1-a8e6-33902670e015",
+      "Name": "InnerException",
+      "OrdinalSuffix": "CS2\\Lecture09\\1-1"
+    },
+    {
+      "Duration": "PT7M18.005S",
+      "Guid": "728b9178-b843-49d8-b2d9-4bd6c9e9233c",
+      "Name": "Перевыброс исключения",
+      "OrdinalSuffix": "CS2\\Lecture09\\1-2"
+    },
+    {
+      "Duration": "PT3M16.183S",
+      "Guid": "275acefb-ab87-46f5-8720-05cd717b9bda",
+      "Name": "Первый паттерн - глобальная обработка",
+      "OrdinalSuffix": "CS2\\Lecture09\\2-0"
+    },
+    {
+      "Duration": "PT2M5.053S",
+      "Guid": "426d00ee-8b80-42b2-9279-5e4f620bda31",
+      "Name": "Второй паттерн - однострочный try",
+      "OrdinalSuffix": "CS2\\Lecture09\\2-1"
+    },
+    {
+      "Duration": "PT58.769S",
+      "Guid": "148b769b-797c-4f2f-8934-c9236e6492b4",
+      "Name": "Третий паттерн - перевыброс исключения",
+      "OrdinalSuffix": "CS2\\Lecture09\\2-2"
+    },
+    {
+      "Duration": "PT6M16.653S",
+      "Guid": "ca661b51-1c5e-4f85-9da3-d93177c225b3",
+      "Name": "Антипаттерны",
+      "OrdinalSuffix": "CS2\\Lecture09\\2-3"
     }
   ],
   "YoutubeClipData": {
@@ -1771,6 +1854,62 @@ PublishingModel Tuto file Version 1
           "Name": "CS2-2-2-6 Написание собственного Stream"
         },
         "Guid": "9dfd9f58-aac3-4ecf-957a-0df75d0b7913"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 3. Исключения\r\n\n\n[GUID: 89d2f895-fe58-4730-a563-eebb8c03ad9c]",
+          "Id": "RV0W-8Q6PUk",
+          "Name": "CS2-2-3-1 Exception и его поля"
+        },
+        "Guid": "89d2f895-fe58-4730-a563-eebb8c03ad9c"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 3. Исключения\r\n\n\n[GUID: 4c74f161-1abc-41f1-a8e6-33902670e015]",
+          "Id": "TfRQcpWtAEo",
+          "Name": "CS2-2-3-2 InnerException"
+        },
+        "Guid": "4c74f161-1abc-41f1-a8e6-33902670e015"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 3. Исключения\r\n\n\n[GUID: 728b9178-b843-49d8-b2d9-4bd6c9e9233c]",
+          "Id": "crVJBDCgINQ",
+          "Name": "CS2-2-3-3 Перевыброс исключения"
+        },
+        "Guid": "728b9178-b843-49d8-b2d9-4bd6c9e9233c"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 3. Исключения\r\n\n\n[GUID: 275acefb-ab87-46f5-8720-05cd717b9bda]",
+          "Id": "RU_nuh9XiO4",
+          "Name": "CS2-2-3-4 Первый паттерн - глобальная обработка"
+        },
+        "Guid": "275acefb-ab87-46f5-8720-05cd717b9bda"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 3. Исключения\r\n\n\n[GUID: 426d00ee-8b80-42b2-9279-5e4f620bda31]",
+          "Id": "XyTtEmBiZjA",
+          "Name": "CS2-2-3-5 Второй паттерн - однострочный try"
+        },
+        "Guid": "426d00ee-8b80-42b2-9279-5e4f620bda31"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 3. Исключения\r\n\n\n[GUID: 148b769b-797c-4f2f-8934-c9236e6492b4]",
+          "Id": "kqOup8ewI2I",
+          "Name": "CS2-2-3-6 Третий паттерн - перевыброс исключения"
+        },
+        "Guid": "148b769b-797c-4f2f-8934-c9236e6492b4"
+      },
+      {
+        "Data": {
+          "Description": " 2. Дополнительные главы языка C#\r\n 3. Исключения\r\n\n\n[GUID: ca661b51-1c5e-4f85-9da3-d93177c225b3]",
+          "Id": "HBeKDrC3Zl0",
+          "Name": "CS2-2-3-7 Антипаттерны"
+        },
+        "Guid": "ca661b51-1c5e-4f85-9da3-d93177c225b3"
       }
     ]
   },
@@ -1838,6 +1977,13 @@ PublishingModel Tuto file Version 1
           "PlaylistTitle": "CS2-2-2 Файлы"
         },
         "Guid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHhfIiCWjvpkhy8eBOSfDYTe",
+          "PlaylistTitle": "CS2-2-3 Исключения"
+        },
+        "Guid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0"
       }
     ]
   }

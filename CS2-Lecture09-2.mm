@@ -183,7 +183,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 99089
+          "Time": 99289
         },
         {
           "Defined": true,
@@ -569,7 +569,7 @@ FileContainer Tuto file Version 1
             false,
             true
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 257219
         },
         {
@@ -983,7 +983,7 @@ FileContainer Tuto file Version 1
             false,
             true
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 392144
         },
         {
@@ -1191,7 +1191,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 500633
+          "Time": 500833
         },
         {
           "Defined": true,
@@ -1217,7 +1217,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 519455
         },
         {
@@ -1272,7 +1272,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 537384
+          "Time": 537584
         },
         {
           "Defined": true,
@@ -1488,7 +1488,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 607617
+          "Time": 607817
         },
         {
           "Defined": true,
@@ -1641,7 +1641,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 667363
+          "Time": 667563
         },
         {
           "Defined": true,
@@ -1749,7 +1749,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 705652
+          "Time": 705852
         },
         {
           "Defined": true,
@@ -2253,7 +2253,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 893371
+          "Time": 893571
         },
         {
           "Defined": true,
@@ -2441,8 +2441,45 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "CS2\\Lecture09\\2",
     "Information": {
       "CreationTimeTicks": 635935676098142881,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635941101500508959
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT3M16.183S",
+          "Guid": "275acefb-ab87-46f5-8720-05cd717b9bda",
+          "Name": "Первый паттерн - глобальная обработка",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "RU_nuh9XiO4"
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT2M5.053S",
+          "Guid": "426d00ee-8b80-42b2-9279-5e4f620bda31",
+          "Name": "Второй паттерн - однострочный try",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "XyTtEmBiZjA"
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT58.769S",
+          "Guid": "148b769b-797c-4f2f-8934-c9236e6492b4",
+          "Name": "Третий паттерн - перевыброс исключения",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "kqOup8ewI2I"
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT6M16.653S",
+          "Guid": "ca661b51-1c5e-4f85-9da3-d93177c225b3",
+          "Name": "Антипаттерны",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "HBeKDrC3Zl0"
+        }
+      ],
+      "LastModificationTimeTicks": 635951914806194556
     },
     "PreparedChunks": null,
     "RawVideoHash": "D1-AB-B3-CA-28-41-A9-D9-AE-B4-67-FC-14-8B-9D-D4",
@@ -5401,7 +5438,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 948533,
+    "currentPosition": 948525,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
