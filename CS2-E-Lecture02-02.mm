@@ -3347,7 +3347,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-E\\Lecture02\\02",
+    "DisplayedRawLocation": "CS2-E-Lecture02-02.mm",
     "Information": {
       "CreationTimeTicks": 635887314980944311,
       "Episodes": [
@@ -3358,7 +3358,7 @@ FileContainer Tuto file Version 1
           "Name": "Моделирование предметной области",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "rKA_c3pILmc"
         }
       ],
       "LastModificationTimeTicks": 635905799871831788

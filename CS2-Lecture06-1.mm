@@ -2971,7 +2971,7 @@ FileContainer Tuto file Version 1
           "Name": "Простое делегирование, задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "gbZOaUMe8rE"
         },
         {
           "Dirty": false,
@@ -2980,7 +2980,7 @@ FileContainer Tuto file Version 1
           "Name": "Простое делегирование, решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "iTJEnqbVOZk"
         },
         {
           "Dirty": false,
@@ -2989,7 +2989,7 @@ FileContainer Tuto file Version 1
           "Name": "Более сложное делегирование, задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "UTYURVhEixk"
         },
         {
           "Dirty": false,
@@ -2998,7 +2998,7 @@ FileContainer Tuto file Version 1
           "Name": "Более сложное делегирование, решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "CwCgGeHu750"
         }
       ],
       "LastModificationTimeTicks": 635907859243120461

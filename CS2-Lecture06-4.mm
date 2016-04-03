@@ -3853,7 +3853,7 @@ FileContainer Tuto file Version 1
           "Name": "Рефакторинг рефлексии - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "39vb1Y0QWlM"
         },
         {
           "Dirty": false,
@@ -3862,7 +3862,7 @@ FileContainer Tuto file Version 1
           "Name": "Рефакторинг рефлексии - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "PsV-nRlaU3Q"
         },
         {
           "Dirty": false,
@@ -3871,7 +3871,7 @@ FileContainer Tuto file Version 1
           "Name": "Оптимизация рефлекции - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "luxwDWIbiG8"
         },
         {
           "Dirty": false,
@@ -3880,7 +3880,7 @@ FileContainer Tuto file Version 1
           "Name": "Оптимизация рефлексии - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "1TrrqYprST0"
         },
         {
           "Dirty": false,
@@ -3889,7 +3889,7 @@ FileContainer Tuto file Version 1
           "Name": "Expressions - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "yQMhEE64_GQ"
         },
         {
           "Dirty": false,
@@ -3898,7 +3898,7 @@ FileContainer Tuto file Version 1
           "Name": "Expressions - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "stKoaU0qZSA"
         }
       ],
       "LastModificationTimeTicks": 635907891749420658

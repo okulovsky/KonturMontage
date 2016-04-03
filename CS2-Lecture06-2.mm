@@ -5671,7 +5671,7 @@ FileContainer Tuto file Version 1
           "Name": "Сложное делегирование - задание",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "E_NF8OWFols"
         },
         {
           "Dirty": false,
@@ -5680,7 +5680,7 @@ FileContainer Tuto file Version 1
           "Name": "Сложное делегирование - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "r1gIaNi2hzY"
         },
         {
           "Dirty": false,
@@ -5689,7 +5689,7 @@ FileContainer Tuto file Version 1
           "Name": "Делегирование без делегатов - задание",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "sVj0NONzIeI"
         },
         {
           "Dirty": false,
@@ -5698,7 +5698,7 @@ FileContainer Tuto file Version 1
           "Name": "Делегирование без делегатов - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "O9tS35X7prs"
         },
         {
           "Dirty": false,
@@ -5707,7 +5707,7 @@ FileContainer Tuto file Version 1
           "Name": "Делегирование без делегатов - обсуждение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "afgAR8kZ5ZQ"
         },
         {
           "Dirty": false,
@@ -5716,7 +5716,7 @@ FileContainer Tuto file Version 1
           "Name": "Обратное совместимость - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "1iNxRrBKWjc"
         },
         {
           "Dirty": false,
@@ -5725,7 +5725,7 @@ FileContainer Tuto file Version 1
           "Name": "Обратная совместимость - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "ml_eNOUt7Wo"
         },
         {
           "Dirty": false,
@@ -5734,7 +5734,7 @@ FileContainer Tuto file Version 1
           "Name": "Декораторы",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "0O5Frs3ubCc"
         }
       ],
       "LastModificationTimeTicks": 635907879063775080

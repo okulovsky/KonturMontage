@@ -85,6 +85,25 @@ PublishingModel Tuto file Version 1
             }
           ],
           "PlaylistId": "[Enter PlaylistIdHere]"
+        },
+        {
+          "Caption": "Продвинутое проектирование",
+          "Guid": "85f486b8-29ec-46d4-9fe3-f76d308b3d6a",
+          "Items": [
+            {
+              "Caption": "FluentAPI",
+              "Guid": "e748de76-e1d7-4f91-8dad-d7ae64c6e070",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            },
+            {
+              "Caption": "DDD",
+              "Guid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            }
+          ],
+          "PlaylistId": "[Enter PlaylistIdHere]"
         }
       ],
       "PlaylistId": "[Enter PlaylistIdHere]"
@@ -564,17 +583,99 @@ PublishingModel Tuto file Version 1
         "NumberInTopic": 6,
         "TopicGuid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0",
         "VideoGuid": "ca661b51-1c5e-4f85-9da3-d93177c225b3"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "e748de76-e1d7-4f91-8dad-d7ae64c6e070",
+        "VideoGuid": "f317d52a-3a74-4138-98bf-565a5d593465"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "e748de76-e1d7-4f91-8dad-d7ae64c6e070",
+        "VideoGuid": "36be4d57-5fc7-4f15-a8c5-a145bb583c43"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "e748de76-e1d7-4f91-8dad-d7ae64c6e070",
+        "VideoGuid": "6faa9804-7a0f-43da-a4c5-3229ce5585c0"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "e748de76-e1d7-4f91-8dad-d7ae64c6e070",
+        "VideoGuid": "df079b25-8952-4d6f-976b-f92b17c93005"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "e748de76-e1d7-4f91-8dad-d7ae64c6e070",
+        "VideoGuid": "31f68310-4412-405d-9fe1-6543b577825a"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "e748de76-e1d7-4f91-8dad-d7ae64c6e070",
+        "VideoGuid": "30c4a153-5510-4015-ab90-98e259b8da7f"
+      },
+      {
+        "NumberInTopic": 6,
+        "TopicGuid": "e748de76-e1d7-4f91-8dad-d7ae64c6e070",
+        "VideoGuid": "91b4a7a7-d670-4c9c-bedd-d10f8f669615"
+      },
+      {
+        "NumberInTopic": 7,
+        "TopicGuid": "e748de76-e1d7-4f91-8dad-d7ae64c6e070",
+        "VideoGuid": "ff29528a-89c2-43d7-b827-563b688dc66d"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
+        "VideoGuid": "41922668-4105-4ea0-a1c1-ef138e5441bb"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
+        "VideoGuid": "da07fc37-4e08-4dde-8b7b-ee830b5165e0"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
+        "VideoGuid": "840abaed-39e3-4ce1-bb84-6fd5c49caa0f"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
+        "VideoGuid": "15b2918f-705a-45d7-a284-556e0e13b230"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
+        "VideoGuid": "40c97cae-2d03-4ce4-a99b-5d886592d373"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
+        "VideoGuid": "5acbcf5d-ffa3-44ea-b473-213fdff9b162"
+      },
+      {
+        "NumberInTopic": 6,
+        "TopicGuid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
+        "VideoGuid": "c3e22e7e-4300-449d-98ad-a3590ad7b818"
+      },
+      {
+        "NumberInTopic": 7,
+        "TopicGuid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
+        "VideoGuid": "64027993-a316-4bcd-b12a-7fe038811c00"
       }
     ]
   },
   "Settings": {
     "CourseAbbreviation": "CS2",
-    "DescriptionPS": "",
-    "Keywords": "",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!",
+    "EnableDescriptionContents": false,
+    "Keywords": "C#, software development, software architecture, SOLID",
     "LatexCompiledSlidesSubdirectory": "LatexCompiledSlides",
     "LatexSourceSubdirectory": "Latex",
-    "ThumbnailImagePath": null,
+    "ThumbnailImagePath": "cs2-thumb.jpg",
     "TopicLevels": [],
+    "ULearnUrlPrefix": "https://ulearn.azurewebsites.net/Slide/",
     "UlearnCourseDirectory": "C:\\Users\\Yura\\Desktop\\oop\\OOP\\OOP\\Slides"
   },
   "Videos": [
@@ -1147,13 +1248,109 @@ PublishingModel Tuto file Version 1
       "Guid": "ca661b51-1c5e-4f85-9da3-d93177c225b3",
       "Name": "Антипаттерны",
       "OrdinalSuffix": "CS2\\Lecture09\\2-3"
+    },
+    {
+      "Duration": "PT8M12.52S",
+      "Guid": "f317d52a-3a74-4138-98bf-565a5d593465",
+      "Name": "Fluent API",
+      "OrdinalSuffix": "CS2-E-Lecture01-1.mm-0"
+    },
+    {
+      "Duration": "PT0S",
+      "Guid": "36be4d57-5fc7-4f15-a8c5-a145bb583c43",
+      "Name": "Примеры Fluet-Интерфейсов",
+      "OrdinalSuffix": "CS2-E-Lecture01-1.mm-1"
+    },
+    {
+      "Duration": "PT5M29.21S",
+      "Guid": "6faa9804-7a0f-43da-a4c5-3229ce5585c0",
+      "Name": "Реализация Fluent-Интерфейса",
+      "OrdinalSuffix": "CS2-E-Lecture01-2.mm-0"
+    },
+    {
+      "Duration": "PT3M0.787S",
+      "Guid": "df079b25-8952-4d6f-976b-f92b17c93005",
+      "Name": "Более сложный случай",
+      "OrdinalSuffix": "CS2-E-Lecture01-2.mm-1"
+    },
+    {
+      "Duration": "PT3M44.248S",
+      "Guid": "31f68310-4412-405d-9fe1-6543b577825a",
+      "Name": "Реализация UntilKeyPressed",
+      "OrdinalSuffix": "CS2-E-Lecture01-2.mm-2"
+    },
+    {
+      "Duration": "PT4M47.169S",
+      "Guid": "30c4a153-5510-4015-ab90-98e259b8da7f",
+      "Name": "Расширяемость Fluent-Интерфейсов",
+      "OrdinalSuffix": "CS2-E-Lecture01-2.mm-3"
+    },
+    {
+      "Duration": "PT5M45.778S",
+      "Guid": "91b4a7a7-d670-4c9c-bedd-d10f8f669615",
+      "Name": "Связь Fluent-Интерфейсов с неизменяемыми типами данных",
+      "OrdinalSuffix": "CS2-E-Lecture01-3.mm-0"
+    },
+    {
+      "Duration": "PT0S",
+      "Guid": "ff29528a-89c2-43d7-b827-563b688dc66d",
+      "Name": "Итог",
+      "OrdinalSuffix": "CS2-E-Lecture01-3.mm-1"
+    },
+    {
+      "Duration": "PT3M58.61S",
+      "Guid": "41922668-4105-4ea0-a1c1-ef138e5441bb",
+      "Name": "Что такое DDD",
+      "OrdinalSuffix": "CS2-E-Lecture02-01.mm-0"
+    },
+    {
+      "Duration": "PT7M26.051S",
+      "Guid": "da07fc37-4e08-4dde-8b7b-ee830b5165e0",
+      "Name": "Общий словарь терминов",
+      "OrdinalSuffix": "CS2-E-Lecture02-01.mm-1"
+    },
+    {
+      "Duration": "PT5M41.753S",
+      "Guid": "840abaed-39e3-4ce1-bb84-6fd5c49caa0f",
+      "Name": "Слоистая архитектура",
+      "OrdinalSuffix": "CS2-E-Lecture02-01.mm-2"
+    },
+    {
+      "Duration": "PT18M54.892S",
+      "Guid": "15b2918f-705a-45d7-a284-556e0e13b230",
+      "Name": "Моделирование предметной области",
+      "OrdinalSuffix": "CS2-E-Lecture02-02.mm-0"
+    },
+    {
+      "Duration": "PT15M40.281S",
+      "Guid": "40c97cae-2d03-4ce4-a99b-5d886592d373",
+      "Name": "Пример применения DDD",
+      "OrdinalSuffix": "CS2-E-Lecture02-03.mm-0"
+    },
+    {
+      "Duration": "PT19M58.333S",
+      "Guid": "5acbcf5d-ffa3-44ea-b473-213fdff9b162",
+      "Name": "Реализация",
+      "OrdinalSuffix": "CS2-E-Lecture02-04.mm-0"
+    },
+    {
+      "Duration": "PT5M54.204S",
+      "Guid": "c3e22e7e-4300-449d-98ad-a3590ad7b818",
+      "Name": "Инструменты для изучения кода",
+      "OrdinalSuffix": "CS2-E-Lecture02-04.mm-1"
+    },
+    {
+      "Duration": "PT0S",
+      "Guid": "64027993-a316-4bcd-b12a-7fe038811c00",
+      "Name": "Заключение",
+      "OrdinalSuffix": "CS2-E-Lecture02-04.mm-2"
     }
   ],
   "YoutubeClipData": {
     "Records": [
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 1. Введение в C#\r\n\n\n[GUID: 7df81bac-f52c-4219-8663-4d215bafbc7a]",
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/7df81bac-f52c-4219-8663-4d215bafbc7a\n\n[GUID: 7df81bac-f52c-4219-8663-4d215bafbc7a]",
           "Id": "ZSoifyky1Vo",
           "Name": "CS2-1-1-1 Введение"
         },
@@ -1161,7 +1358,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 1. Введение в C#\r\n\n\n[GUID: f85a480f-18be-4564-b21f-57281100e3ef]",
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/f85a480f-18be-4564-b21f-57281100e3ef\n\n[GUID: f85a480f-18be-4564-b21f-57281100e3ef]",
           "Id": "8Oh2vxrR_aM",
           "Name": "CS2-1-1-2 C# и Java"
         },
@@ -1169,7 +1366,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 1. Введение в C#\r\n\n\n[GUID: 4858db34-9490-4877-83a3-cdd70509406e]",
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/4858db34-9490-4877-83a3-cdd70509406e\n\n[GUID: 4858db34-9490-4877-83a3-cdd70509406e]",
           "Id": "bJ0kpVHPhco",
           "Name": "CS2-1-1-3 C# и C"
         },
@@ -1177,7 +1374,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 1. Введение в C#\r\n\n\n[GUID: 60871770-3d77-4d4c-b68f-ba9e3494d134]",
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/60871770-3d77-4d4c-b68f-ba9e3494d134\n\n[GUID: 60871770-3d77-4d4c-b68f-ba9e3494d134]",
           "Id": "G50y41c2Wvw",
           "Name": "CS2-1-1-4 C# и Python, PHP"
         },
@@ -1185,7 +1382,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 1. Введение в C#\r\n\n\n[GUID: 697057ce-1340-41cc-b718-dc6411c38279]",
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/697057ce-1340-41cc-b718-dc6411c38279\n\n[GUID: 697057ce-1340-41cc-b718-dc6411c38279]",
           "Id": "wcU7pQ4bfqs",
           "Name": "CS2-1-1-5 C# и другие языки"
         },
@@ -1193,7 +1390,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 1. Введение в C#\r\n\n\n[GUID: 43a2e58b-f96c-4f70-8ada-cc77b8173f55]",
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/43a2e58b-f96c-4f70-8ada-cc77b8173f55\n\n[GUID: 43a2e58b-f96c-4f70-8ada-cc77b8173f55]",
           "Id": "D7rAvLYc_MI",
           "Name": "CS2-1-1-6 Hello, world"
         },
@@ -1201,7 +1398,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 1. Введение в C#\r\n\n\n[GUID: c01e6951-6d51-4617-b4cf-59205b636d91]",
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/c01e6951-6d51-4617-b4cf-59205b636d91\n\n[GUID: c01e6951-6d51-4617-b4cf-59205b636d91]",
           "Id": "zso3ORIBvcQ",
           "Name": "CS2-1-1-7 Типы данных"
         },
@@ -1209,7 +1406,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 1. Введение в C#\r\n\n\n[GUID: d0d272ef-b4e9-4844-83c7-53c5e699904b]",
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/d0d272ef-b4e9-4844-83c7-53c5e699904b\n\n[GUID: d0d272ef-b4e9-4844-83c7-53c5e699904b]",
           "Id": "n48nTUiYiUg",
           "Name": "CS2-1-1-8 Основные программные конструкции"
         },
@@ -1217,7 +1414,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 1. Введение в C#\r\n\n\n[GUID: d037853c-5ce7-4cde-a8ec-91d1bf025c5d]",
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/d037853c-5ce7-4cde-a8ec-91d1bf025c5d\n\n[GUID: d037853c-5ce7-4cde-a8ec-91d1bf025c5d]",
           "Id": "_Ghkv4hueVo",
           "Name": "CS2-1-1-9 Массивы, коллекции, foreach"
         },
@@ -1225,7 +1422,7 @@ PublishingModel Tuto file Version 1
       },
       {
         "Data": {
-          "Description": " 1. Основы проектирования\r\n 1. Введение в C#\r\n\n\n[GUID: c37ea992-4ffd-4ea7-a5c9-f6b4da68fd68]",
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/c37ea992-4ffd-4ea7-a5c9-f6b4da68fd68\n\n[GUID: c37ea992-4ffd-4ea7-a5c9-f6b4da68fd68]",
           "Id": "rqEzeU5VIm8",
           "Name": "CS2-1-1-10 Ссылочные типы и типы-значения"
         },
@@ -1910,6 +2107,134 @@ PublishingModel Tuto file Version 1
           "Name": "CS2-2-3-7 Антипаттерны"
         },
         "Guid": "ca661b51-1c5e-4f85-9da3-d93177c225b3"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/f317d52a-3a74-4138-98bf-565a5d593465\n\n[GUID: f317d52a-3a74-4138-98bf-565a5d593465]",
+          "Id": "kbktPJ57ng0",
+          "Name": "CS2-3-1-1 Fluent API"
+        },
+        "Guid": "f317d52a-3a74-4138-98bf-565a5d593465"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/36be4d57-5fc7-4f15-a8c5-a145bb583c43\n\n[GUID: 36be4d57-5fc7-4f15-a8c5-a145bb583c43]",
+          "Id": "-GYYppm_g7E",
+          "Name": "CS2-3-1-2 Примеры Fluet-Интерфейсов"
+        },
+        "Guid": "36be4d57-5fc7-4f15-a8c5-a145bb583c43"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/6faa9804-7a0f-43da-a4c5-3229ce5585c0\n\n[GUID: 6faa9804-7a0f-43da-a4c5-3229ce5585c0]",
+          "Id": "gioPAmA9Bzo",
+          "Name": "CS2-3-1-3 Реализация Fluent-Интерфейса"
+        },
+        "Guid": "6faa9804-7a0f-43da-a4c5-3229ce5585c0"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/df079b25-8952-4d6f-976b-f92b17c93005\n\n[GUID: df079b25-8952-4d6f-976b-f92b17c93005]",
+          "Id": "G9RSNy__qzw",
+          "Name": "CS2-3-1-4 Более сложный случай"
+        },
+        "Guid": "df079b25-8952-4d6f-976b-f92b17c93005"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/31f68310-4412-405d-9fe1-6543b577825a\n\n[GUID: 31f68310-4412-405d-9fe1-6543b577825a]",
+          "Id": "u_8J37BVoJg",
+          "Name": "CS2-3-1-5 Реализация UntilKeyPressed"
+        },
+        "Guid": "31f68310-4412-405d-9fe1-6543b577825a"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/30c4a153-5510-4015-ab90-98e259b8da7f\n\n[GUID: 30c4a153-5510-4015-ab90-98e259b8da7f]",
+          "Id": "WpPri3iYBzM",
+          "Name": "CS2-3-1-6 Расширяемость Fluent-Интерфейсов"
+        },
+        "Guid": "30c4a153-5510-4015-ab90-98e259b8da7f"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/91b4a7a7-d670-4c9c-bedd-d10f8f669615\n\n[GUID: 91b4a7a7-d670-4c9c-bedd-d10f8f669615]",
+          "Id": "AscLESsRbF4",
+          "Name": "CS2-3-1-7 Связь Fluent-Интерфейсов с неизменяемыми типами данных"
+        },
+        "Guid": "91b4a7a7-d670-4c9c-bedd-d10f8f669615"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/ff29528a-89c2-43d7-b827-563b688dc66d\n\n[GUID: ff29528a-89c2-43d7-b827-563b688dc66d]",
+          "Id": "8YglnoJWInA",
+          "Name": "CS2-3-1-8 Итог"
+        },
+        "Guid": "ff29528a-89c2-43d7-b827-563b688dc66d"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/41922668-4105-4ea0-a1c1-ef138e5441bb\n\n[GUID: 41922668-4105-4ea0-a1c1-ef138e5441bb]",
+          "Id": "oFRXFi3X2MM",
+          "Name": "CS2-3-2-1 Что такое DDD"
+        },
+        "Guid": "41922668-4105-4ea0-a1c1-ef138e5441bb"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/da07fc37-4e08-4dde-8b7b-ee830b5165e0\n\n[GUID: da07fc37-4e08-4dde-8b7b-ee830b5165e0]",
+          "Id": "yj6yE68BBd8",
+          "Name": "CS2-3-2-2 Общий словарь терминов"
+        },
+        "Guid": "da07fc37-4e08-4dde-8b7b-ee830b5165e0"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/840abaed-39e3-4ce1-bb84-6fd5c49caa0f\n\n[GUID: 840abaed-39e3-4ce1-bb84-6fd5c49caa0f]",
+          "Id": "CioldB48Jug",
+          "Name": "CS2-3-2-3 Слоистая архитектура"
+        },
+        "Guid": "840abaed-39e3-4ce1-bb84-6fd5c49caa0f"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/15b2918f-705a-45d7-a284-556e0e13b230\n\n[GUID: 15b2918f-705a-45d7-a284-556e0e13b230]",
+          "Id": "rKA_c3pILmc",
+          "Name": "CS2-3-2-4 Моделирование предметной области"
+        },
+        "Guid": "15b2918f-705a-45d7-a284-556e0e13b230"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/40c97cae-2d03-4ce4-a99b-5d886592d373\n\n[GUID: 40c97cae-2d03-4ce4-a99b-5d886592d373]",
+          "Id": "IJ8QUlvpTV4",
+          "Name": "CS2-3-2-5 Пример применения DDD"
+        },
+        "Guid": "40c97cae-2d03-4ce4-a99b-5d886592d373"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/5acbcf5d-ffa3-44ea-b473-213fdff9b162\n\n[GUID: 5acbcf5d-ffa3-44ea-b473-213fdff9b162]",
+          "Id": "uUF3otBRVRY",
+          "Name": "CS2-3-2-6 Реализация"
+        },
+        "Guid": "5acbcf5d-ffa3-44ea-b473-213fdff9b162"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/c3e22e7e-4300-449d-98ad-a3590ad7b818\n\n[GUID: c3e22e7e-4300-449d-98ad-a3590ad7b818]",
+          "Id": "GKVHe8rTy24",
+          "Name": "CS2-3-2-7 Инструменты для изучения кода"
+        },
+        "Guid": "c3e22e7e-4300-449d-98ad-a3590ad7b818"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/64027993-a316-4bcd-b12a-7fe038811c00\n\n[GUID: 64027993-a316-4bcd-b12a-7fe038811c00]",
+          "Id": "VHrGxgVrnJM",
+          "Name": "CS2-3-2-8 Заключение"
+        },
+        "Guid": "64027993-a316-4bcd-b12a-7fe038811c00"
       }
     ]
   },
@@ -1984,6 +2309,20 @@ PublishingModel Tuto file Version 1
           "PlaylistTitle": "CS2-2-3 Исключения"
         },
         "Guid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHgu4HV2lqM9b56jfC9bLf7-",
+          "PlaylistTitle": "CS2-3-1 FluentAPI"
+        },
+        "Guid": "e748de76-e1d7-4f91-8dad-d7ae64c6e070"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHiPl1DIkZOTue7KXPGyrKrp",
+          "PlaylistTitle": "CS2-3-2 DDD"
+        },
+        "Guid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2"
       }
     ]
   }

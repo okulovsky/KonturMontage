@@ -2755,7 +2755,7 @@ FileContainer Tuto file Version 1
           "Name": "Fluent API",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "kbktPJ57ng0"
         },
         {
           "Dirty": false,
@@ -2764,7 +2764,7 @@ FileContainer Tuto file Version 1
           "Name": "Примеры Fluet-Интерфейсов",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "-GYYppm_g7E"
         }
       ],
       "LastModificationTimeTicks": 635885134766783951

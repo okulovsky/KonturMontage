@@ -2854,7 +2854,7 @@ FileContainer Tuto file Version 1
           "Name": "Управляемая память",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "gJ3SyZpLD_0"
         },
         {
           "Dirty": false,
@@ -2863,7 +2863,7 @@ FileContainer Tuto file Version 1
           "Name": "Финализаторы",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "-rzYH5DelXw"
         },
         {
           "Dirty": false,
@@ -2872,7 +2872,7 @@ FileContainer Tuto file Version 1
           "Name": "Паттерн Disposable",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "PWnwgRtewxs"
         },
         {
           "Dirty": false,
@@ -2881,7 +2881,7 @@ FileContainer Tuto file Version 1
           "Name": "Оператор using",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "8FtlYh9-DZY"
         }
       ],
       "LastModificationTimeTicks": 635925319342582543

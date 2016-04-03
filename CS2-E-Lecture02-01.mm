@@ -3365,7 +3365,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-E\\Lecture02\\01",
+    "DisplayedRawLocation": "CS2-E-Lecture02-01.mm",
     "Information": {
       "CreationTimeTicks": 635887314980944311,
       "Episodes": [
@@ -3376,7 +3376,7 @@ FileContainer Tuto file Version 1
           "Name": "Что такое DDD",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "oFRXFi3X2MM"
         },
         {
           "Dirty": false,
@@ -3385,7 +3385,7 @@ FileContainer Tuto file Version 1
           "Name": "Общий словарь терминов",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "yj6yE68BBd8"
         },
         {
           "Dirty": false,
@@ -3394,7 +3394,7 @@ FileContainer Tuto file Version 1
           "Name": "Слоистая архитектура",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "CioldB48Jug"
         }
       ],
       "LastModificationTimeTicks": 635905806114264306

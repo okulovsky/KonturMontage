@@ -5221,7 +5221,7 @@ FileContainer Tuto file Version 1
           "Name": "Дженерики - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "nvQNqiFsc-Y"
         }
       ],
       "LastModificationTimeTicks": 635894292725918083

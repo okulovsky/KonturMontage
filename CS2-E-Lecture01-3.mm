@@ -1153,7 +1153,7 @@ FileContainer Tuto file Version 1
           "Name": "Связь Fluent-Интерфейсов с неизменяемыми типами данных",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "AscLESsRbF4"
         },
         {
           "Dirty": false,
@@ -1162,7 +1162,7 @@ FileContainer Tuto file Version 1
           "Name": "Итог",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "8YglnoJWInA"
         }
       ],
       "LastModificationTimeTicks": 635874889090000000

@@ -2188,7 +2188,7 @@ FileContainer Tuto file Version 1
           "Name": "Текстовые и бинарные потоки",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "24OiDINMMZ8"
         },
         {
           "Dirty": false,
@@ -2197,7 +2197,7 @@ FileContainer Tuto file Version 1
           "Name": "Метод ReadLines",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "Zmyzn-N132Q"
         }
       ],
       "LastModificationTimeTicks": 635943356648824954

@@ -982,7 +982,7 @@ FileContainer Tuto file Version 1
           "Name": "Дженерики - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "nvuB7Tz66XM"
         }
       ],
       "LastModificationTimeTicks": 635925281850298107

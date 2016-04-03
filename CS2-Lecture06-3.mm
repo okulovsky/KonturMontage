@@ -2350,7 +2350,7 @@ FileContainer Tuto file Version 1
           "Name": "Рефлексия типов - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "01K9NgO3WgE"
         },
         {
           "Dirty": false,
@@ -2359,7 +2359,7 @@ FileContainer Tuto file Version 1
           "Name": "Рефлексия типов - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "uQTgZ6ZF_AY"
         },
         {
           "Dirty": false,
@@ -2368,7 +2368,7 @@ FileContainer Tuto file Version 1
           "Name": "Профайлинг рефлексии - задача",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "RTjOdDKTn_s"
         },
         {
           "Dirty": false,
@@ -2377,7 +2377,7 @@ FileContainer Tuto file Version 1
           "Name": "Профайлинг рефлексии - решение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "rova6S4usGk"
         }
       ],
       "LastModificationTimeTicks": 635907884846635841

@@ -4283,7 +4283,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-E\\Lecture02\\04",
+    "DisplayedRawLocation": "CS2-E-Lecture02-04.mm",
     "Information": {
       "CreationTimeTicks": 635887314980944311,
       "Episodes": [
@@ -4294,7 +4294,7 @@ FileContainer Tuto file Version 1
           "Name": "Реализация",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "uUF3otBRVRY"
         },
         {
           "Dirty": false,
@@ -4303,7 +4303,7 @@ FileContainer Tuto file Version 1
           "Name": "Инструменты для изучения кода",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "GKVHe8rTy24"
         },
         {
           "Dirty": false,
@@ -4312,7 +4312,7 @@ FileContainer Tuto file Version 1
           "Name": "Заключение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "VHrGxgVrnJM"
         }
       ],
       "LastModificationTimeTicks": 635905763483399401

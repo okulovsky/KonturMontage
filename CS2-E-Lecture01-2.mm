@@ -1801,7 +1801,7 @@ FileContainer Tuto file Version 1
           "Name": "Реализация Fluent-Интерфейса",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "gioPAmA9Bzo"
         },
         {
           "Dirty": false,
@@ -1810,7 +1810,7 @@ FileContainer Tuto file Version 1
           "Name": "Более сложный случай",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "G9RSNy__qzw"
         },
         {
           "Dirty": false,
@@ -1819,7 +1819,7 @@ FileContainer Tuto file Version 1
           "Name": "Реализация UntilKeyPressed",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "u_8J37BVoJg"
         },
         {
           "Dirty": false,
@@ -1828,7 +1828,7 @@ FileContainer Tuto file Version 1
           "Name": "Расширяемость Fluent-Интерфейсов",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "WpPri3iYBzM"
         }
       ],
       "LastModificationTimeTicks": 635885140551677915

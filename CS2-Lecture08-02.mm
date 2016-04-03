@@ -2116,7 +2116,7 @@ FileContainer Tuto file Version 1
           "Name": "Архитектура потоков",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "IMZghwooUTQ"
         },
         {
           "Dirty": false,
@@ -2125,7 +2125,7 @@ FileContainer Tuto file Version 1
           "Name": "MemoryStream и NetworkStream",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "Fn4jBXGcCjQ"
         },
         {
           "Dirty": false,
@@ -2134,7 +2134,7 @@ FileContainer Tuto file Version 1
           "Name": "GZipStream",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "kFfBknQiIic"
         },
         {
           "Dirty": false,
@@ -2143,7 +2143,7 @@ FileContainer Tuto file Version 1
           "Name": "Написание собственного Stream",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "QRri_5DIyrA"
         }
       ],
       "LastModificationTimeTicks": 635943402489866912

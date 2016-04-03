@@ -3736,7 +3736,7 @@ FileContainer Tuto file Version 1
           "Name": "Generic-классы",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "kDRMApBIS4I"
         },
         {
           "Dirty": false,
@@ -3745,7 +3745,7 @@ FileContainer Tuto file Version 1
           "Name": "Generic-методы",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "0pWkHh3szaM"
         },
         {
           "Dirty": false,
@@ -3754,7 +3754,7 @@ FileContainer Tuto file Version 1
           "Name": "Ковариация и контравариация",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "PDYOJdBMLlc"
         }
       ],
       "LastModificationTimeTicks": 635881265782163407
