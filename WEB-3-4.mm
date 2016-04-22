@@ -318,7 +318,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 211837
+          "Time": 211237
         },
         {
           "Defined": true,
@@ -2695,7 +2695,7 @@ FileContainer Tuto file Version 1
           "YoutubeId": null
         }
       ],
-      "LastModificationTimeTicks": 635957918744805292
+      "LastModificationTimeTicks": 635965286040243908
     },
     "PreparedChunks": null,
     "RawVideoHash": "5E-4F-02-B8-8D-59-44-1D-38-4A-3D-4D-7C-9A-2E-F4",
@@ -9193,12 +9193,12 @@ FileContainer Tuto file Version 1
   },
   "Version": 1,
   "WindowState": {
-    "currentMode": 0,
-    "currentPosition": 1963000,
+    "currentMode": 1,
+    "currentPosition": 557473,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
-    "faceVideoIsVisible": true,
-    "paused": false,
-    "speedRatio": 1.5
+    "faceVideoIsVisible": false,
+    "paused": true,
+    "speedRatio": 1
   }
 }

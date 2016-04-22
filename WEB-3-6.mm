@@ -1259,11 +1259,11 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 273883,
+    "currentPosition": 267106,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": false,
-    "paused": true,
+    "paused": false,
     "speedRatio": 1
   }
 }
