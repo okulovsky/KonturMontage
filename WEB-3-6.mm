@@ -6,13 +6,436 @@ FileContainer Tuto file Version 1
       "StreamLength": 3600000,
       "tokens": [
         {
-          "Defined": false,
+          "Defined": true,
           "FromStream": [
             false,
             false
           ],
           "StartsNewEpisode": false,
           "Time": 0
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 13977
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 16838
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 18606
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 28277
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 30533
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 36770
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 40353
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 44267
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 48737
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 53267
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 57651
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 67290
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 73557
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 90703
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 96527
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 98103
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 106311
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 114952
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 123030
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 128482
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 139316
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 144877
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 149713
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 154874
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 161908
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 166182
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 175059
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 178715
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 183849
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 187666
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 195447
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 200938
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 204669
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 207950
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 214231
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 219858
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 226610
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 235642
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 245426
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 249769
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 256861
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 258864
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 262623
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 264762
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 269492
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 273866
+        },
+        {
+          "Defined": false,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 277000
         }
       ]
     },
@@ -20,8 +443,18 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "WEB\\3\\6",
     "Information": {
       "CreationTimeTicks": 635944143166121282,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635944143166121282
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT0S",
+          "Guid": "df6f41d9-9215-44a4-afe4-1426546d8e66",
+          "Name": "Вычисление значения свойств",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635958920129773972
     },
     "PreparedChunks": null,
     "RawVideoHash": "CA-72-96-08-12-43-5B-93-66-BB-4E-5E-66-BA-9B-4A",
@@ -825,11 +1258,11 @@ FileContainer Tuto file Version 1
   },
   "Version": 1,
   "WindowState": {
-    "currentMode": 0,
-    "currentPosition": 0,
+    "currentMode": 1,
+    "currentPosition": 273883,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
-    "faceVideoIsVisible": true,
+    "faceVideoIsVisible": false,
     "paused": true,
     "speedRatio": 1
   }
