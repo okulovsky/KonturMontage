@@ -6,13 +6,49 @@ FileContainer Tuto file Version 1
       "StreamLength": 3600000,
       "tokens": [
         {
-          "Defined": false,
+          "Defined": true,
           "FromStream": [
             false,
             false
           ],
           "StartsNewEpisode": false,
           "Time": 0
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 22445
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 24542
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 27782
+        },
+        {
+          "Defined": false,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 30180
         }
       ]
     },
@@ -21,7 +57,7 @@ FileContainer Tuto file Version 1
     "Information": {
       "CreationTimeTicks": 635957191226060610,
       "Episodes": [],
-      "LastModificationTimeTicks": 635957191226060610
+      "LastModificationTimeTicks": 635965345605315920
     },
     "PreparedChunks": null,
     "RawVideoHash": "84-CB-2D-22-50-03-45-39-9D-86-79-92-BF-8A-E8-B1",
@@ -3515,16 +3551,16 @@ FileContainer Tuto file Version 1
       }
     ],
     "SubtitleFixes": [],
-    "SynchronizationShift": 0
+    "SynchronizationShift": 9752
   },
   "Version": 1,
   "WindowState": {
     "currentMode": 0,
-    "currentPosition": 0,
+    "currentPosition": 32777,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 1.5
   }
 }
