@@ -2494,7 +2494,7 @@ FileContainer Tuto file Version 1
           "Name": "Зигмунд Фрейд",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "zul9nRMJDtI"
         },
         {
           "Dirty": false,
@@ -2503,7 +2503,7 @@ FileContainer Tuto file Version 1
           "Name": "Первая мировая война",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "s0_r9VxK3xA"
         }
       ],
       "LastModificationTimeTicks": 635969440437119129

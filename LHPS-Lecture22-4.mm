@@ -1540,7 +1540,7 @@ FileContainer Tuto file Version 1
           "Name": "Послевоенное время",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "k6SRPID3CxI"
         }
       ],
       "LastModificationTimeTicks": 635969457523186396

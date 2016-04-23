@@ -1963,7 +1963,7 @@ FileContainer Tuto file Version 1
           "Name": "Как рациональность изменила мир",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "0dUkMUyDZOY"
         },
         {
           "Dirty": false,
@@ -1972,7 +1972,7 @@ FileContainer Tuto file Version 1
           "Name": "Средневековье",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "OdVLU7b6Vy4"
         }
       ],
       "LastModificationTimeTicks": 635969360099588767

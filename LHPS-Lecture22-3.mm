@@ -3223,7 +3223,7 @@ FileContainer Tuto file Version 1
           "Name": "Вторая мировая война",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "NXfv0swYz8U"
         }
       ],
       "LastModificationTimeTicks": 635969452314358468

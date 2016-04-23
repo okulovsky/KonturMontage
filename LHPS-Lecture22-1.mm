@@ -3277,7 +3277,7 @@ FileContainer Tuto file Version 1
           "Name": "Жан-Жак Руссо",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "hT3hS8eI28s"
         },
         {
           "Dirty": false,
@@ -3286,7 +3286,7 @@ FileContainer Tuto file Version 1
           "Name": "Иррациональная философия",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "F1nGzlrpyX0"
         }
       ],
       "LastModificationTimeTicks": 635969431067583222

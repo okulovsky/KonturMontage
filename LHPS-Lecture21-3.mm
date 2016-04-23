@@ -1954,7 +1954,7 @@ FileContainer Tuto file Version 1
           "Name": "Классическая картина мира",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "cilfpuDlI9E"
         },
         {
           "Dirty": false,
@@ -1963,7 +1963,7 @@ FileContainer Tuto file Version 1
           "Name": "Идея свободы",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "1AyS66v6Rls"
         }
       ],
       "LastModificationTimeTicks": 635969400757159565

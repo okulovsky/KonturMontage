@@ -91,6 +91,25 @@ PublishingModel Tuto file Version 1
             }
           ],
           "PlaylistId": "[Enter PlaylistIdHere]"
+        },
+        {
+          "Caption": "Модерн и постмодерн",
+          "Guid": "b550f48e-bef3-4bd6-88bf-971de50cc3bf",
+          "Items": [
+            {
+              "Caption": "Просвещение и модерн",
+              "Guid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            },
+            {
+              "Caption": "Критика и крах модерна",
+              "Guid": "51bf6a0b-794e-4be2-9bd5-6c209889e9fa",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            }
+          ],
+          "PlaylistId": "[Enter PlaylistIdHere]"
         }
       ],
       "PlaylistId": null
@@ -700,17 +719,94 @@ PublishingModel Tuto file Version 1
         "NumberInTopic": 4,
         "TopicGuid": "a846e73a-2f4f-4cff-9887-5a35c36b55c0",
         "VideoGuid": "42930549-ce4c-44bf-a81f-88f5f6af7152"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+        "VideoGuid": "43485f8d-60c0-432c-b485-b612bfb64662"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+        "VideoGuid": "4adffe21-7af7-42c9-8948-c965838fa80e"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+        "VideoGuid": "6d8a1710-eed0-4466-83d8-c6cb60860531"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+        "VideoGuid": "59946278-ff32-443f-9bd0-b42cd063706b"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+        "VideoGuid": "e5fb083a-ac00-4cd9-8a99-8b75b90a50a2"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+        "VideoGuid": "46633696-fe13-4de9-ba9d-089479479e1b"
+      },
+      {
+        "NumberInTopic": 6,
+        "TopicGuid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+        "VideoGuid": "280f61b6-7d15-4727-95c5-128718ae488b"
+      },
+      {
+        "NumberInTopic": 7,
+        "TopicGuid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+        "VideoGuid": "4e84d364-f806-47fb-a590-132c4e5d3fca"
+      },
+      {
+        "NumberInTopic": 8,
+        "TopicGuid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+        "VideoGuid": "8eee6112-60cd-442d-89af-25f720942fd8"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "51bf6a0b-794e-4be2-9bd5-6c209889e9fa",
+        "VideoGuid": "a19cca05-1b91-4df0-b02f-a494d060b7e7"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "51bf6a0b-794e-4be2-9bd5-6c209889e9fa",
+        "VideoGuid": "09fd1e14-3654-4097-b60e-5f1fcf12dda8"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "51bf6a0b-794e-4be2-9bd5-6c209889e9fa",
+        "VideoGuid": "af3a89b8-8ba1-44b0-9b59-2b0e5fd46366"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "51bf6a0b-794e-4be2-9bd5-6c209889e9fa",
+        "VideoGuid": "9b87543a-132b-4983-9b69-4c8fa5416b8d"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "51bf6a0b-794e-4be2-9bd5-6c209889e9fa",
+        "VideoGuid": "bc26cfdc-8be1-4b51-823f-934ca9265cbe"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "51bf6a0b-794e-4be2-9bd5-6c209889e9fa",
+        "VideoGuid": "8816681e-a877-4438-92fa-de0900d80537"
       }
     ]
   },
   "Settings": {
     "CourseAbbreviation": "LHPS",
-    "DescriptionPS": "",
+    "Description": null,
+    "EnableDescriptionContents": false,
     "Keywords": "",
     "LatexCompiledSlidesSubdirectory": "LatexCompiledSlides",
     "LatexSourceSubdirectory": "Latex",
     "ThumbnailImagePath": null,
     "TopicLevels": [],
+    "ULearnUrlPrefix": null,
     "UlearnCourseDirectory": ""
   },
   "Videos": [
@@ -1439,6 +1535,96 @@ PublishingModel Tuto file Version 1
       "Guid": "42930549-ce4c-44bf-a81f-88f5f6af7152",
       "Name": "Борьба со лженаукой",
       "OrdinalSuffix": "LHPS\\Lecture15\\153-1"
+    },
+    {
+      "Duration": "PT4M33.619S",
+      "Guid": "43485f8d-60c0-432c-b485-b612bfb64662",
+      "Name": "Как рациональность изменила мир",
+      "OrdinalSuffix": "LHPS\\Lecture21\\1-0"
+    },
+    {
+      "Duration": "PT9M10.946S",
+      "Guid": "4adffe21-7af7-42c9-8948-c965838fa80e",
+      "Name": "Средневековье",
+      "OrdinalSuffix": "LHPS\\Lecture21\\1-1"
+    },
+    {
+      "Duration": "PT9M47.667S",
+      "Guid": "6d8a1710-eed0-4466-83d8-c6cb60860531",
+      "Name": "Великие географические открытия",
+      "OrdinalSuffix": "LHPS\\Lecture21\\2-0"
+    },
+    {
+      "Duration": "PT6M47.379S",
+      "Guid": "59946278-ff32-443f-9bd0-b42cd063706b",
+      "Name": "Классическая картина мира",
+      "OrdinalSuffix": "LHPS\\Lecture21\\3-0"
+    },
+    {
+      "Duration": "PT8M53.132S",
+      "Guid": "e5fb083a-ac00-4cd9-8a99-8b75b90a50a2",
+      "Name": "Идея свободы",
+      "OrdinalSuffix": "LHPS\\Lecture21\\3-1"
+    },
+    {
+      "Duration": "PT13M5.497S",
+      "Guid": "46633696-fe13-4de9-ba9d-089479479e1b",
+      "Name": "Просвещение",
+      "OrdinalSuffix": "LHPS\\Lecture21\\4-0"
+    },
+    {
+      "Duration": "PT12M38.339S",
+      "Guid": "280f61b6-7d15-4727-95c5-128718ae488b",
+      "Name": "Промышленная революция",
+      "OrdinalSuffix": "LHPS\\Lecture21\\5-0"
+    },
+    {
+      "Duration": "PT6M50.555S",
+      "Guid": "4e84d364-f806-47fb-a590-132c4e5d3fca",
+      "Name": "Мир модерна",
+      "OrdinalSuffix": "LHPS\\Lecture21\\5-1"
+    },
+    {
+      "Duration": "PT7M35.316S",
+      "Guid": "8eee6112-60cd-442d-89af-25f720942fd8",
+      "Name": "Мироощущение модерна",
+      "OrdinalSuffix": "LHPS\\Lecture21\\5-2"
+    },
+    {
+      "Duration": "PT11M35.026S",
+      "Guid": "a19cca05-1b91-4df0-b02f-a494d060b7e7",
+      "Name": "Жан-Жак Руссо",
+      "OrdinalSuffix": "LHPS\\Lecture22\\1-0"
+    },
+    {
+      "Duration": "PT18M7.501S",
+      "Guid": "09fd1e14-3654-4097-b60e-5f1fcf12dda8",
+      "Name": "Иррациональная философия",
+      "OrdinalSuffix": "LHPS\\Lecture22\\1-1"
+    },
+    {
+      "Duration": "PT12M36.277S",
+      "Guid": "af3a89b8-8ba1-44b0-9b59-2b0e5fd46366",
+      "Name": "Зигмунд Фрейд",
+      "OrdinalSuffix": "LHPS\\Lecture22\\2-0"
+    },
+    {
+      "Duration": "PT8M16.25S",
+      "Guid": "9b87543a-132b-4983-9b69-4c8fa5416b8d",
+      "Name": "Первая мировая война",
+      "OrdinalSuffix": "LHPS\\Lecture22\\2-1"
+    },
+    {
+      "Duration": "PT19M45.091S",
+      "Guid": "bc26cfdc-8be1-4b51-823f-934ca9265cbe",
+      "Name": "Вторая мировая война",
+      "OrdinalSuffix": "LHPS\\Lecture22\\3-0"
+    },
+    {
+      "Duration": "PT10M20.833S",
+      "Guid": "8816681e-a877-4438-92fa-de0900d80537",
+      "Name": "Послевоенное время",
+      "OrdinalSuffix": "LHPS\\Lecture22\\4-0"
     }
   ],
   "YoutubeClipData": {
@@ -2410,6 +2596,126 @@ PublishingModel Tuto file Version 1
           "Name": "LHPS-2-5-5 Борьба со лженаукой"
         },
         "Guid": "42930549-ce4c-44bf-a81f-88f5f6af7152"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: 43485f8d-60c0-432c-b485-b612bfb64662]",
+          "Id": "0dUkMUyDZOY",
+          "Name": "LHPS-3-1-1 Как рациональность изменила мир"
+        },
+        "Guid": "43485f8d-60c0-432c-b485-b612bfb64662"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: 4adffe21-7af7-42c9-8948-c965838fa80e]",
+          "Id": "OdVLU7b6Vy4",
+          "Name": "LHPS-3-1-2 Средневековье"
+        },
+        "Guid": "4adffe21-7af7-42c9-8948-c965838fa80e"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: 6d8a1710-eed0-4466-83d8-c6cb60860531]",
+          "Id": "Q-UBcPsVh6g",
+          "Name": "LHPS-3-1-3 Великие географические открытия"
+        },
+        "Guid": "6d8a1710-eed0-4466-83d8-c6cb60860531"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: 59946278-ff32-443f-9bd0-b42cd063706b]",
+          "Id": "cilfpuDlI9E",
+          "Name": "LHPS-3-1-4 Классическая картина мира"
+        },
+        "Guid": "59946278-ff32-443f-9bd0-b42cd063706b"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: e5fb083a-ac00-4cd9-8a99-8b75b90a50a2]",
+          "Id": "1AyS66v6Rls",
+          "Name": "LHPS-3-1-5 Идея свободы"
+        },
+        "Guid": "e5fb083a-ac00-4cd9-8a99-8b75b90a50a2"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: 46633696-fe13-4de9-ba9d-089479479e1b]",
+          "Id": "qszEh5mcw0A",
+          "Name": "LHPS-3-1-6 Просвещение"
+        },
+        "Guid": "46633696-fe13-4de9-ba9d-089479479e1b"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: 280f61b6-7d15-4727-95c5-128718ae488b]",
+          "Id": "sitTn6nRr6s",
+          "Name": "LHPS-3-1-7 Промышленная революция"
+        },
+        "Guid": "280f61b6-7d15-4727-95c5-128718ae488b"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: 4e84d364-f806-47fb-a590-132c4e5d3fca]",
+          "Id": "u3HqVXxKpsE",
+          "Name": "LHPS-3-1-8 Мир модерна"
+        },
+        "Guid": "4e84d364-f806-47fb-a590-132c4e5d3fca"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: 8eee6112-60cd-442d-89af-25f720942fd8]",
+          "Id": "M_KE-jrrjGM",
+          "Name": "LHPS-3-1-9 Мироощущение модерна"
+        },
+        "Guid": "8eee6112-60cd-442d-89af-25f720942fd8"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: a19cca05-1b91-4df0-b02f-a494d060b7e7]",
+          "Id": "hT3hS8eI28s",
+          "Name": "LHPS-3-2-1 Жан-Жак Руссо"
+        },
+        "Guid": "a19cca05-1b91-4df0-b02f-a494d060b7e7"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: 09fd1e14-3654-4097-b60e-5f1fcf12dda8]",
+          "Id": "F1nGzlrpyX0",
+          "Name": "LHPS-3-2-2 Иррациональная философия"
+        },
+        "Guid": "09fd1e14-3654-4097-b60e-5f1fcf12dda8"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: af3a89b8-8ba1-44b0-9b59-2b0e5fd46366]",
+          "Id": "zul9nRMJDtI",
+          "Name": "LHPS-3-2-3 Зигмунд Фрейд"
+        },
+        "Guid": "af3a89b8-8ba1-44b0-9b59-2b0e5fd46366"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: 9b87543a-132b-4983-9b69-4c8fa5416b8d]",
+          "Id": "s0_r9VxK3xA",
+          "Name": "LHPS-3-2-4 Первая мировая война"
+        },
+        "Guid": "9b87543a-132b-4983-9b69-4c8fa5416b8d"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: bc26cfdc-8be1-4b51-823f-934ca9265cbe]",
+          "Id": "NXfv0swYz8U",
+          "Name": "LHPS-3-2-5 Вторая мировая война"
+        },
+        "Guid": "bc26cfdc-8be1-4b51-823f-934ca9265cbe"
+      },
+      {
+        "Data": {
+          "Description": "\n\n[GUID: 8816681e-a877-4438-92fa-de0900d80537]",
+          "Id": "k6SRPID3CxI",
+          "Name": "LHPS-3-2-6 Послевоенное время"
+        },
+        "Guid": "8816681e-a877-4438-92fa-de0900d80537"
       }
     ]
   },
@@ -2498,6 +2804,20 @@ PublishingModel Tuto file Version 1
           "PlaylistTitle": "LHPS-2-5 Наука и лженаука"
         },
         "Guid": "a846e73a-2f4f-4cff-9887-5a35c36b55c0"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHgrYHxUw9pboL07nPQcjxAO",
+          "PlaylistTitle": "LHPS-3-1 Просвещение и модерн"
+        },
+        "Guid": "d5f01492-b05c-4a56-b642-062b0a51def0"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHgFKD1r5w-MWeprtRXijCYx",
+          "PlaylistTitle": "LHPS-3-2 Критика и крах модерна"
+        },
+        "Guid": "51bf6a0b-794e-4be2-9bd5-6c209889e9fa"
       }
     ]
   }
