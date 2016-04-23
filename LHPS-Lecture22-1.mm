@@ -170,6 +170,24 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 75258
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 77458
+        },
+        {
+          "Defined": true,
+          "FromStream": [
             true,
             false
           ],
@@ -184,6 +202,24 @@ FileContainer Tuto file Version 1
           ],
           "StartsNewEpisode": false,
           "Time": 83241
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 84965
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 86565
         },
         {
           "Defined": true,
@@ -1325,7 +1361,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 776251
         },
         {
@@ -1335,7 +1371,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 786545
+          "Time": 788945
         },
         {
           "Defined": true,
@@ -1466,8 +1502,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            false,
-            true
+            true,
+            false
           ],
           "StartsNewEpisode": false,
           "Time": 850842
@@ -1479,7 +1515,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 855651
+          "Time": 855654
         },
         {
           "Defined": true,
@@ -1515,7 +1551,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 883125
+          "Time": 883525
         },
         {
           "Defined": true,
@@ -1534,6 +1570,24 @@ FileContainer Tuto file Version 1
           ],
           "StartsNewEpisode": false,
           "Time": 889316
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 890793
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 892543
         },
         {
           "Defined": true,
@@ -1767,7 +1821,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1048369
+          "Time": 1048569
         },
         {
           "Defined": true,
@@ -1871,8 +1925,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 1127038
@@ -1884,7 +1938,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1131076
+          "Time": 1131162
         },
         {
           "Defined": true,
@@ -2073,7 +2127,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1308609
+          "Time": 1308809
         },
         {
           "Defined": true,
@@ -2361,7 +2415,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1477756
+          "Time": 1477956
         },
         {
           "Defined": true,
@@ -2416,6 +2470,24 @@ FileContainer Tuto file Version 1
           ],
           "StartsNewEpisode": false,
           "Time": 1508521
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1510830
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1512830
         },
         {
           "Defined": true,
@@ -2901,7 +2973,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 1847486
+          "Time": 1849086
         },
         {
           "Defined": true,
@@ -3027,7 +3099,25 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1927806
+          "Time": 1927450
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1927850
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1930050
         },
         {
           "Defined": true,
@@ -3179,9 +3269,29 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "LHPS\\Lecture22\\1",
     "Information": {
       "CreationTimeTicks": 635957191226060610,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635964072426664057
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT11M35.026S",
+          "Guid": "a19cca05-1b91-4df0-b02f-a494d060b7e7",
+          "Name": "Жан-Жак Руссо",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT18M7.501S",
+          "Guid": "09fd1e14-3654-4097-b60e-5f1fcf12dda8",
+          "Name": "Иррациональная философия",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635969431067583222
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "4A-1C-AB-E6-19-FB-12-50-DB-0D-0E-D6-A3-19-47-64",
     "ReadyToEdit": false,
@@ -11641,17 +11751,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 9231
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 2030389,
-    "currentSubtitle": null,
+    "currentPosition": 2030393,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2
   }
 }
