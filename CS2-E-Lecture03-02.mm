@@ -9530,7 +9530,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-E\\Lecture03\\02",
+    "DisplayedRawLocation": "CS2-E-Lecture03-02.mm",
     "Information": {
       "CreationTimeTicks": 635957191226060610,
       "Episodes": [
@@ -9541,7 +9541,7 @@ FileContainer Tuto file Version 1
           "Name": "Модульность",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "VjMJW1NTt-U"
         },
         {
           "Dirty": false,
@@ -9550,7 +9550,7 @@ FileContainer Tuto file Version 1
           "Name": "SRP и командная работа",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "cuKRWsgtoxo"
         },
         {
           "Dirty": false,
@@ -9559,7 +9559,7 @@ FileContainer Tuto file Version 1
           "Name": "Задача Дартс",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "Ru1CuzYyzP8"
         },
         {
           "Dirty": false,
@@ -9568,7 +9568,7 @@ FileContainer Tuto file Version 1
           "Name": "SRP и DDD",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "ZDXTI9OhNw4"
         },
         {
           "Dirty": false,
@@ -9577,11 +9577,12 @@ FileContainer Tuto file Version 1
           "Name": "Undo Redo",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "prTxyyZ9h5g"
         }
       ],
       "LastModificationTimeTicks": 635968797018559263
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "87-FD-CE-57-62-C0-9B-13-02-5A-24-3B-24-DD-EA-AD",
     "ReadyToEdit": false,
@@ -24245,14 +24246,13 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 3677
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 0,
     "currentMode": 1,
     "currentPosition": 3143788,
-    "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": false,
     "paused": true,
