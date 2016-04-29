@@ -1916,7 +1916,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "LHPS\\Lecture21\\1",
+    "DisplayedRawLocation": "LHPS-Lecture21-1.mm",
     "Information": {
       "CreationTimeTicks": 635943719398386060,
       "Episodes": [],

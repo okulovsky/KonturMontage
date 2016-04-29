@@ -570,7 +570,7 @@ FileContainer Tuto file Version 1
             true
           ],
           "StartsNewEpisode": false,
-          "Time": 272735
+          "Time": 272335
         },
         {
           "Defined": true,
@@ -5593,7 +5593,7 @@ FileContainer Tuto file Version 1
           "YoutubeId": null
         }
       ],
-      "LastModificationTimeTicks": 635969777634455687
+      "LastModificationTimeTicks": 635970265628209755
     },
     "PreparedChunks": [
       {},
@@ -9930,10 +9930,10 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 886446,
+    "currentPosition": 273929,
     "currentSubtitle": null,
-    "desktopVideoIsVisible": false,
-    "faceVideoIsVisible": true,
+    "desktopVideoIsVisible": true,
+    "faceVideoIsVisible": false,
     "paused": true,
     "speedRatio": 1
   }
