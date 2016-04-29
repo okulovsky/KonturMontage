@@ -93,7 +93,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 53246
+          "Time": 53046
         },
         {
           "Defined": true,
@@ -129,7 +129,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 68265
+          "Time": 68465
         },
         {
           "Defined": true,
@@ -255,7 +255,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 129488
+          "Time": 129638
         },
         {
           "Defined": true,
@@ -426,7 +426,25 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 224205
+          "Time": 223968
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 224068
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 225768
         },
         {
           "Defined": true,
@@ -588,7 +606,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 315117
+          "Time": 315267
         },
         {
           "Defined": true,
@@ -840,7 +858,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 455666
+          "Time": 455866
         },
         {
           "Defined": true,
@@ -956,7 +974,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 509189
         },
         {
@@ -1002,7 +1020,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 543631
+          "Time": 543831
         },
         {
           "Defined": true,
@@ -1119,7 +1137,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 618752
+          "Time": 618902
         },
         {
           "Defined": true,
@@ -1928,9 +1946,29 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "LHPS-Lecture21-3.mm",
     "Information": {
       "CreationTimeTicks": 635943719398386060,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635949438536390660
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT6M47.379S",
+          "Guid": "59946278-ff32-443f-9bd0-b42cd063706b",
+          "Name": "Классическая картина мира",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "cilfpuDlI9E"
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT8M53.132S",
+          "Guid": "e5fb083a-ac00-4cd9-8a99-8b75b90a50a2",
+          "Name": "Идея свободы",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "1AyS66v6Rls"
+        }
+      ],
+      "LastModificationTimeTicks": 635969400757159565
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "18-3C-49-69-07-35-AA-D9-81-20-05-93-D4-F6-3B-22",
     "ReadyToEdit": false,
@@ -7654,17 +7692,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 8634
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 1126127,
-    "currentSubtitle": null,
+    "currentPosition": 1126112,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2
   }
 }

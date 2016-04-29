@@ -5570,7 +5570,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-E\\Lecture03\\01",
+    "DisplayedRawLocation": "CS2-E-Lecture03-01.mm",
     "Information": {
       "CreationTimeTicks": 635957191226060610,
       "Episodes": [
@@ -5581,7 +5581,7 @@ FileContainer Tuto file Version 1
           "Name": "Критерии чистого кода",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "ZumJvsDsYUs"
         },
         {
           "Dirty": false,
@@ -5590,11 +5590,12 @@ FileContainer Tuto file Version 1
           "Name": "SRP",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "4S0nQn922LM"
         }
       ],
       "LastModificationTimeTicks": 635970265628209755
     },
+    "Patches": [],
     "PreparedChunks": [
       {},
       {},
@@ -9924,16 +9925,22 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 7668
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 0,
     "currentMode": 1,
+<<<<<<< HEAD
     "currentPosition": 273929,
     "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": false,
+=======
+    "currentPosition": 886446,
+    "desktopVideoIsVisible": false,
+    "faceVideoIsVisible": true,
+>>>>>>> 26b3de126a8088fd6c65bdbb9db702f4b6390e72
     "paused": true,
     "speedRatio": 1
   }

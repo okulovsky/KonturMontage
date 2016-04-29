@@ -3293,7 +3293,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-E\\Lecture03\\03",
+    "DisplayedRawLocation": "CS2-E-Lecture03-03.mm",
     "Information": {
       "CreationTimeTicks": 635957191226060610,
       "Episodes": [
@@ -3304,11 +3304,12 @@ FileContainer Tuto file Version 1
           "Name": "Заключение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "XlC_LWtiyR8"
         }
       ],
       "LastModificationTimeTicks": 635968821363597196
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "68-A7-D2-63-6B-5F-08-0E-E7-BE-77-E1-06-D9-A5-7B",
     "ReadyToEdit": false,
@@ -8912,14 +8913,13 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 7349
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 0,
     "currentMode": 1,
     "currentPosition": 925448,
-    "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,

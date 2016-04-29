@@ -291,7 +291,25 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 166932
+          "Time": 166546
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 166546
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 167746
         },
         {
           "Defined": true,
@@ -390,7 +408,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 219257
+          "Time": 219457
         },
         {
           "Defined": true,
@@ -623,7 +641,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 335485
         },
         {
@@ -966,7 +984,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 501996
+          "Time": 502196
         },
         {
           "Defined": true,
@@ -1533,7 +1551,25 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 766376
+          "Time": 765625
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 765625
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 767225
         },
         {
           "Defined": true,
@@ -1919,9 +1955,29 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "LHPS-Lecture21-1.mm",
     "Information": {
       "CreationTimeTicks": 635943719398386060,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635944097758755343
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT4M33.619S",
+          "Guid": "43485f8d-60c0-432c-b485-b612bfb64662",
+          "Name": "Как рациональность изменила мир",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "0dUkMUyDZOY"
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT9M10.946S",
+          "Guid": "4adffe21-7af7-42c9-8948-c965838fa80e",
+          "Name": "Средневековье",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "OdVLU7b6Vy4"
+        }
+      ],
+      "LastModificationTimeTicks": 635969360099588767
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "AC-8B-D7-39-EB-25-F3-A8-61-8C-C9-40-4B-F0-52-3E",
     "ReadyToEdit": false,
@@ -5089,14 +5145,13 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 9606
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 969117,
-    "currentSubtitle": null,
+    "currentPosition": 968959,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": false,
     "paused": true,

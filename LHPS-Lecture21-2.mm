@@ -345,7 +345,25 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 130150
+          "Time": 129829
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 129829
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 132029
         },
         {
           "Defined": true,
@@ -651,7 +669,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 314785
+          "Time": 314835
         },
         {
           "Defined": true,
@@ -669,7 +687,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 321880
+          "Time": 321680
         },
         {
           "Defined": true,
@@ -840,7 +858,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 411560
+          "Time": 411760
         },
         {
           "Defined": true,
@@ -948,7 +966,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 462975
+          "Time": 463175
         },
         {
           "Defined": true,
@@ -1640,9 +1658,20 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "LHPS-Lecture21-2.mm",
     "Information": {
       "CreationTimeTicks": 635943719398386060,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635949418499710043
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT9M47.667S",
+          "Guid": "6d8a1710-eed0-4466-83d8-c6cb60860531",
+          "Name": "Великие географические открытия",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "Q-UBcPsVh6g"
+        }
+      ],
+      "LastModificationTimeTicks": 635969363777769147
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "32-77-F7-84-27-5E-0F-E0-9C-26-E7-B7-BB-D3-DA-5D",
     "ReadyToEdit": false,
@@ -4270,17 +4299,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 22696
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 809938,
-    "currentSubtitle": null,
+    "currentPosition": 809937,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2
   }
 }

@@ -84,7 +84,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 38832
+          "Time": 39032
         },
         {
           "Defined": true,
@@ -138,7 +138,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 70204
+          "Time": 70404
         },
         {
           "Defined": true,
@@ -228,7 +228,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 133276
+          "Time": 132276
         },
         {
           "Defined": true,
@@ -998,6 +998,24 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 631330
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 632530
+        },
+        {
+          "Defined": true,
+          "FromStream": [
             true,
             false
           ],
@@ -1110,7 +1128,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 720164
+          "Time": 720364
         },
         {
           "Defined": true,
@@ -1334,7 +1352,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 853951
         },
         {
@@ -1578,7 +1596,25 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 969889
+          "Time": 969848
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 969848
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 976248
         },
         {
           "Defined": true,
@@ -1740,7 +1776,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1095284
+          "Time": 1095684
         },
         {
           "Defined": true,
@@ -1920,7 +1956,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1182448
+          "Time": 1182648
         },
         {
           "Defined": true,
@@ -1947,7 +1983,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1194364
+          "Time": 1194700
         },
         {
           "Defined": true,
@@ -2037,7 +2073,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1283507
+          "Time": 1283707
         },
         {
           "Defined": true,
@@ -2055,7 +2091,25 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1297500
+          "Time": 1297369
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1297369
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 1298969
         },
         {
           "Defined": true,
@@ -2432,9 +2486,29 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "LHPS\\Lecture22\\2",
     "Information": {
       "CreationTimeTicks": 635957191226060610,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635964095965267977
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT12M36.277S",
+          "Guid": "af3a89b8-8ba1-44b0-9b59-2b0e5fd46366",
+          "Name": "Зигмунд Фрейд",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "zul9nRMJDtI"
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT8M16.25S",
+          "Guid": "9b87543a-132b-4983-9b69-4c8fa5416b8d",
+          "Name": "Первая мировая война",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": "s0_r9VxK3xA"
+        }
+      ],
+      "LastModificationTimeTicks": 635969440437119129
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "C3-55-6C-D1-8B-C8-2A-7B-F0-68-C6-6B-58-EC-3A-43",
     "ReadyToEdit": false,
@@ -8230,17 +8304,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 8188
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 1453046,
-    "currentSubtitle": null,
+    "currentPosition": 1453034,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 1.5
   }
 }
