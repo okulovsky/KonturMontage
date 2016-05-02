@@ -5363,7 +5363,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-E\\Lecture04\\01",
+    "DisplayedRawLocation": "CS2-E-Lecture04-01.mm",
     "Information": {
       "CreationTimeTicks": 635975280240341348,
       "Episodes": [
@@ -5374,7 +5374,7 @@ FileContainer Tuto file Version 1
           "Name": "Введение",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "hB_tLvGmSCY"
         },
         {
           "Dirty": false,
@@ -5383,7 +5383,7 @@ FileContainer Tuto file Version 1
           "Name": "Процедурный подход",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "UBsBEOjw6cU"
         },
         {
           "Dirty": false,
@@ -5392,11 +5392,12 @@ FileContainer Tuto file Version 1
           "Name": "Принципы OCP и DIP",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "Ax-rC7NyfUM"
         }
       ],
       "LastModificationTimeTicks": 635975804557969444
     },
+    "Patches": [],
     "PreparedChunks": [
       {},
       {},
@@ -18435,14 +18436,13 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 5919
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 0,
     "currentMode": 1,
     "currentPosition": 2179684,
-    "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": false,
     "paused": false,

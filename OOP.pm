@@ -101,6 +101,18 @@ PublishingModel Tuto file Version 1
               "Guid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
               "Items": [],
               "PlaylistId": "[Enter PlaylistIdHere]"
+            },
+            {
+              "Caption": "SRP",
+              "Guid": "476cd671-a21b-4968-b4b3-100bf920fa35",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
+            },
+            {
+              "Caption": "DI",
+              "Guid": "43de1ff2-2d1b-4b83-b81b-421dd9609cd3",
+              "Items": [],
+              "PlaylistId": "[Enter PlaylistIdHere]"
             }
           ],
           "PlaylistId": "[Enter PlaylistIdHere]"
@@ -663,6 +675,76 @@ PublishingModel Tuto file Version 1
         "NumberInTopic": 7,
         "TopicGuid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
         "VideoGuid": "64027993-a316-4bcd-b12a-7fe038811c00"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "476cd671-a21b-4968-b4b3-100bf920fa35",
+        "VideoGuid": "cb1d4c4d-47cd-4d51-bfb6-a05fc95e511e"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "476cd671-a21b-4968-b4b3-100bf920fa35",
+        "VideoGuid": "5545b91a-c5c4-425b-a1e3-68663af63464"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "476cd671-a21b-4968-b4b3-100bf920fa35",
+        "VideoGuid": "1f04d8a9-37cb-4bee-9c7d-77bb565ca346"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "476cd671-a21b-4968-b4b3-100bf920fa35",
+        "VideoGuid": "af23a59a-b1fe-4d88-8d9a-7ecc5e1fdfc4"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "476cd671-a21b-4968-b4b3-100bf920fa35",
+        "VideoGuid": "d9dc2e3a-cd4a-44a4-9ea2-41d612d8a169"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "476cd671-a21b-4968-b4b3-100bf920fa35",
+        "VideoGuid": "a0d7e3a5-f653-4ad8-bc30-323f22e87700"
+      },
+      {
+        "NumberInTopic": 6,
+        "TopicGuid": "476cd671-a21b-4968-b4b3-100bf920fa35",
+        "VideoGuid": "9085d0b8-1b3b-49d0-8a5f-853ffeba5cb7"
+      },
+      {
+        "NumberInTopic": 7,
+        "TopicGuid": "476cd671-a21b-4968-b4b3-100bf920fa35",
+        "VideoGuid": "6c39c149-2d52-4d42-9927-01068314de6e"
+      },
+      {
+        "NumberInTopic": 0,
+        "TopicGuid": "43de1ff2-2d1b-4b83-b81b-421dd9609cd3",
+        "VideoGuid": "93d19beb-1465-430f-ac12-03f40ebd3e17"
+      },
+      {
+        "NumberInTopic": 1,
+        "TopicGuid": "43de1ff2-2d1b-4b83-b81b-421dd9609cd3",
+        "VideoGuid": "06e5d019-f291-4bf3-a384-3f06d1a6d51c"
+      },
+      {
+        "NumberInTopic": 2,
+        "TopicGuid": "43de1ff2-2d1b-4b83-b81b-421dd9609cd3",
+        "VideoGuid": "65eac506-ea6d-43d0-93eb-d9b6d0dfb459"
+      },
+      {
+        "NumberInTopic": 3,
+        "TopicGuid": "43de1ff2-2d1b-4b83-b81b-421dd9609cd3",
+        "VideoGuid": "a9d39216-20f5-4eaf-8aa0-617a94843b95"
+      },
+      {
+        "NumberInTopic": 4,
+        "TopicGuid": "43de1ff2-2d1b-4b83-b81b-421dd9609cd3",
+        "VideoGuid": "fb131df2-6e6e-4fe1-815f-949d1a16d92a"
+      },
+      {
+        "NumberInTopic": 5,
+        "TopicGuid": "43de1ff2-2d1b-4b83-b81b-421dd9609cd3",
+        "VideoGuid": "dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4"
       }
     ]
   },
@@ -1344,6 +1426,90 @@ PublishingModel Tuto file Version 1
       "Guid": "64027993-a316-4bcd-b12a-7fe038811c00",
       "Name": "Заключение",
       "OrdinalSuffix": "CS2-E-Lecture02-04.mm-2"
+    },
+    {
+      "Duration": "PT8M50.603S",
+      "Guid": "cb1d4c4d-47cd-4d51-bfb6-a05fc95e511e",
+      "Name": "Критерии чистого кода",
+      "OrdinalSuffix": "CS2-E-Lecture03-01.mm-0"
+    },
+    {
+      "Duration": "PT13M43.158S",
+      "Guid": "5545b91a-c5c4-425b-a1e3-68663af63464",
+      "Name": "SRP",
+      "OrdinalSuffix": "CS2-E-Lecture03-01.mm-1"
+    },
+    {
+      "Duration": "PT10M29.356S",
+      "Guid": "1f04d8a9-37cb-4bee-9c7d-77bb565ca346",
+      "Name": "Модульность",
+      "OrdinalSuffix": "CS2-E-Lecture03-02.mm-0"
+    },
+    {
+      "Duration": "PT2M45.932S",
+      "Guid": "af23a59a-b1fe-4d88-8d9a-7ecc5e1fdfc4",
+      "Name": "SRP и командная работа",
+      "OrdinalSuffix": "CS2-E-Lecture03-02.mm-1"
+    },
+    {
+      "Duration": "PT11M15.756S",
+      "Guid": "d9dc2e3a-cd4a-44a4-9ea2-41d612d8a169",
+      "Name": "Задача Дартс",
+      "OrdinalSuffix": "CS2-E-Lecture03-02.mm-2"
+    },
+    {
+      "Duration": "PT5M50.228S",
+      "Guid": "a0d7e3a5-f653-4ad8-bc30-323f22e87700",
+      "Name": "SRP и DDD",
+      "OrdinalSuffix": "CS2-E-Lecture03-02.mm-3"
+    },
+    {
+      "Duration": "PT0S",
+      "Guid": "9085d0b8-1b3b-49d0-8a5f-853ffeba5cb7",
+      "Name": "Undo Redo",
+      "OrdinalSuffix": "CS2-E-Lecture03-02.mm-4"
+    },
+    {
+      "Duration": "PT0S",
+      "Guid": "6c39c149-2d52-4d42-9927-01068314de6e",
+      "Name": "Заключение",
+      "OrdinalSuffix": "CS2-E-Lecture03-03.mm-0"
+    },
+    {
+      "Duration": "PT7M39.51S",
+      "Guid": "93d19beb-1465-430f-ac12-03f40ebd3e17",
+      "Name": "Введение",
+      "OrdinalSuffix": "CS2-E-Lecture04-01.mm-0"
+    },
+    {
+      "Duration": "PT11M29.024S",
+      "Guid": "06e5d019-f291-4bf3-a384-3f06d1a6d51c",
+      "Name": "Процедурный подход",
+      "OrdinalSuffix": "CS2-E-Lecture04-01.mm-1"
+    },
+    {
+      "Duration": "PT9M3.031S",
+      "Guid": "65eac506-ea6d-43d0-93eb-d9b6d0dfb459",
+      "Name": "Принципы OCP и DIP",
+      "OrdinalSuffix": "CS2-E-Lecture04-01.mm-2"
+    },
+    {
+      "Duration": "PT10M6.286S",
+      "Guid": "a9d39216-20f5-4eaf-8aa0-617a94843b95",
+      "Name": "DIP и расширяемость",
+      "OrdinalSuffix": "CS2-E-Lecture04-02.mm-0"
+    },
+    {
+      "Duration": "PT16M7.116S",
+      "Guid": "fb131df2-6e6e-4fe1-815f-949d1a16d92a",
+      "Name": "DIP и тестируемость",
+      "OrdinalSuffix": "CS2-E\\Lecture04\\03-0"
+    },
+    {
+      "Duration": "PT13M17.614S",
+      "Guid": "dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4",
+      "Name": "Mock Framework",
+      "OrdinalSuffix": "CS2-E\\Lecture04\\03-1"
     }
   ],
   "YoutubeClipData": {
@@ -2235,6 +2401,118 @@ PublishingModel Tuto file Version 1
           "Name": "CS2-3-2-8 Заключение"
         },
         "Guid": "64027993-a316-4bcd-b12a-7fe038811c00"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/cb1d4c4d-47cd-4d51-bfb6-a05fc95e511e\n\n[GUID: cb1d4c4d-47cd-4d51-bfb6-a05fc95e511e]",
+          "Id": "ZumJvsDsYUs",
+          "Name": "CS2-3-3-1 Критерии чистого кода"
+        },
+        "Guid": "cb1d4c4d-47cd-4d51-bfb6-a05fc95e511e"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/5545b91a-c5c4-425b-a1e3-68663af63464\n\n[GUID: 5545b91a-c5c4-425b-a1e3-68663af63464]",
+          "Id": "4S0nQn922LM",
+          "Name": "CS2-3-3-2 SRP"
+        },
+        "Guid": "5545b91a-c5c4-425b-a1e3-68663af63464"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/1f04d8a9-37cb-4bee-9c7d-77bb565ca346\n\n[GUID: 1f04d8a9-37cb-4bee-9c7d-77bb565ca346]",
+          "Id": "VjMJW1NTt-U",
+          "Name": "CS2-3-3-3 Модульность"
+        },
+        "Guid": "1f04d8a9-37cb-4bee-9c7d-77bb565ca346"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/af23a59a-b1fe-4d88-8d9a-7ecc5e1fdfc4\n\n[GUID: af23a59a-b1fe-4d88-8d9a-7ecc5e1fdfc4]",
+          "Id": "cuKRWsgtoxo",
+          "Name": "CS2-3-3-4 SRP и командная работа"
+        },
+        "Guid": "af23a59a-b1fe-4d88-8d9a-7ecc5e1fdfc4"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/d9dc2e3a-cd4a-44a4-9ea2-41d612d8a169\n\n[GUID: d9dc2e3a-cd4a-44a4-9ea2-41d612d8a169]",
+          "Id": "Ru1CuzYyzP8",
+          "Name": "CS2-3-3-5 Задача Дартс"
+        },
+        "Guid": "d9dc2e3a-cd4a-44a4-9ea2-41d612d8a169"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/a0d7e3a5-f653-4ad8-bc30-323f22e87700\n\n[GUID: a0d7e3a5-f653-4ad8-bc30-323f22e87700]",
+          "Id": "ZDXTI9OhNw4",
+          "Name": "CS2-3-3-6 SRP и DDD"
+        },
+        "Guid": "a0d7e3a5-f653-4ad8-bc30-323f22e87700"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/9085d0b8-1b3b-49d0-8a5f-853ffeba5cb7\n\n[GUID: 9085d0b8-1b3b-49d0-8a5f-853ffeba5cb7]",
+          "Id": "prTxyyZ9h5g",
+          "Name": "CS2-3-3-7 Undo Redo"
+        },
+        "Guid": "9085d0b8-1b3b-49d0-8a5f-853ffeba5cb7"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/6c39c149-2d52-4d42-9927-01068314de6e\n\n[GUID: 6c39c149-2d52-4d42-9927-01068314de6e]",
+          "Id": "XlC_LWtiyR8",
+          "Name": "CS2-3-3-8 Заключение"
+        },
+        "Guid": "6c39c149-2d52-4d42-9927-01068314de6e"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/93d19beb-1465-430f-ac12-03f40ebd3e17\n\n[GUID: 93d19beb-1465-430f-ac12-03f40ebd3e17]",
+          "Id": "hB_tLvGmSCY",
+          "Name": "CS2-3-4-1 Введение"
+        },
+        "Guid": "93d19beb-1465-430f-ac12-03f40ebd3e17"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/06e5d019-f291-4bf3-a384-3f06d1a6d51c\n\n[GUID: 06e5d019-f291-4bf3-a384-3f06d1a6d51c]",
+          "Id": "UBsBEOjw6cU",
+          "Name": "CS2-3-4-2 Процедурный подход"
+        },
+        "Guid": "06e5d019-f291-4bf3-a384-3f06d1a6d51c"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/65eac506-ea6d-43d0-93eb-d9b6d0dfb459\n\n[GUID: 65eac506-ea6d-43d0-93eb-d9b6d0dfb459]",
+          "Id": "Ax-rC7NyfUM",
+          "Name": "CS2-3-4-3 Принципы OCP и DIP"
+        },
+        "Guid": "65eac506-ea6d-43d0-93eb-d9b6d0dfb459"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/a9d39216-20f5-4eaf-8aa0-617a94843b95\n\n[GUID: a9d39216-20f5-4eaf-8aa0-617a94843b95]",
+          "Id": "1sS5Me9X_VI",
+          "Name": "CS2-3-4-4 DIP и расширяемость"
+        },
+        "Guid": "a9d39216-20f5-4eaf-8aa0-617a94843b95"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/fb131df2-6e6e-4fe1-815f-949d1a16d92a\n\n[GUID: fb131df2-6e6e-4fe1-815f-949d1a16d92a]",
+          "Id": "70Ajg4b0L9Y",
+          "Name": "CS2-3-4-5 DIP и тестируемость"
+        },
+        "Guid": "fb131df2-6e6e-4fe1-815f-949d1a16d92a"
+      },
+      {
+        "Data": {
+          "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4\n\n[GUID: dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4]",
+          "Id": "GsfHwrwad7g",
+          "Name": "CS2-3-4-6 Mock Framework"
+        },
+        "Guid": "dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4"
       }
     ]
   },
@@ -2323,6 +2601,13 @@ PublishingModel Tuto file Version 1
           "PlaylistTitle": "CS2-3-2 DDD"
         },
         "Guid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2"
+      },
+      {
+        "Data": {
+          "PlaylistId": "PLU-TUGRFxOHhh_WdOqgFfHhhR0NVd8CwY",
+          "PlaylistTitle": "CS2-3-4 DI"
+        },
+        "Guid": "43de1ff2-2d1b-4b83-b81b-421dd9609cd3"
       }
     ]
   }

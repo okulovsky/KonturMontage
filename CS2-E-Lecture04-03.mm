@@ -3225,7 +3225,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1140873
+          "Time": 1140073
         },
         {
           "Defined": true,
@@ -3306,7 +3306,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1175253
+          "Time": 1174053
         },
         {
           "Defined": true,
@@ -6332,25 +6332,26 @@ FileContainer Tuto file Version 1
       "Episodes": [
         {
           "Dirty": false,
-          "Duration": "PT16M13.454S",
+          "Duration": "PT16M7.116S",
           "Guid": "fb131df2-6e6e-4fe1-815f-949d1a16d92a",
           "Name": "DIP и тестируемость",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "70Ajg4b0L9Y"
         },
         {
           "Dirty": false,
-          "Duration": "PT13M17.328S",
+          "Duration": "PT13M17.614S",
           "Guid": "dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4",
-          "Name": "MOC-Framework",
+          "Name": "Mock Framework",
           "OutputType": 1,
           "PatchModel": null,
-          "YoutubeId": null
+          "YoutubeId": "GsfHwrwad7g"
         }
       ],
-      "LastModificationTimeTicks": 635975793849354329
+      "LastModificationTimeTicks": 635977820530716292
     },
+    "Patches": [],
     "PreparedChunks": [
       {},
       {},
@@ -17398,17 +17399,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 4876
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 2315490,
-    "currentSubtitle": null,
+    "currentPosition": 1157766,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
-    "paused": true,
+    "paused": false,
     "speedRatio": 1
   }
 }
