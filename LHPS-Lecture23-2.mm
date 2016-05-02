@@ -1335,7 +1335,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 436038
+          "Time": 436188
         },
         {
           "Defined": true,
@@ -1547,11 +1547,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 482575
+          "Time": 482375
         },
         {
           "Defined": true,
@@ -1560,7 +1560,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 484685
+          "Time": 484598
         },
         {
           "Defined": true,
@@ -1790,11 +1790,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 537941
+          "Time": 536670
         },
         {
           "Defined": true,
@@ -1803,7 +1803,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 542110
+          "Time": 542046
         },
         {
           "Defined": true,
@@ -2055,7 +2055,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 631109
+          "Time": 633709
         },
         {
           "Defined": true,
@@ -2118,7 +2118,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 662015
+          "Time": 662115
         },
         {
           "Defined": true,
@@ -2127,7 +2127,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 665469
+          "Time": 665269
         },
         {
           "Defined": true,
@@ -2964,7 +2964,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 947087
+          "Time": 947287
         },
         {
           "Defined": true,
@@ -3440,9 +3440,20 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "LHPS\\Lecture23\\2",
     "Information": {
       "CreationTimeTicks": 635957191226060610,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635971117489794191
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT15M20.911S",
+          "Guid": "eb0884b2-df4d-420d-b336-11fe517e7920",
+          "Name": "Деконструкция модерна",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635977853763697110
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "84-CB-2D-22-50-03-45-39-9D-86-79-92-BF-8A-E8-B1",
     "ReadyToEdit": false,
@@ -6934,17 +6945,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 9954
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 1089222,
-    "currentSubtitle": null,
+    "currentPosition": 1089188,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 1.5
   }
 }

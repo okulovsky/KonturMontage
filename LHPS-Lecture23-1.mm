@@ -656,11 +656,20 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 358420
+        },
+        {
+          "Defined": true,
+          "FromStream": [
             true,
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 359420
+          "Time": 359820
         },
         {
           "Defined": true,
@@ -669,7 +678,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 364861
+          "Time": 364961
         },
         {
           "Defined": true,
@@ -1424,7 +1433,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 740794
         },
         {
@@ -1641,7 +1650,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 859089
+          "Time": 859289
         },
         {
           "Defined": true,
@@ -1776,7 +1785,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 934317
+          "Time": 934417
         },
         {
           "Defined": true,
@@ -2046,7 +2055,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1091110
+          "Time": 1091310
         },
         {
           "Defined": true,
@@ -2405,9 +2414,29 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "LHPS\\Lecture23\\1",
     "Information": {
       "CreationTimeTicks": 635957191226060610,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635965342714335741
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT10M19.228S",
+          "Guid": "bb1bd34d-4199-42a7-95ba-d5346909ef96",
+          "Name": "Кризис",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT7M11.092S",
+          "Guid": "b99e35d5-2ace-47d4-80d8-ac87a0714741",
+          "Name": "Другие",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635977846905854864
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "B2-85-36-F7-0F-A1-04-CD-8F-B8-CA-1A-20-81-48-5F",
     "ReadyToEdit": false,
@@ -6703,17 +6732,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 7593
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 1235862,
-    "currentSubtitle": null,
+    "currentPosition": 1235841,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2
   }
 }

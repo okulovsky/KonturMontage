@@ -611,8 +611,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 358430
@@ -620,8 +620,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 362326
@@ -629,11 +629,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 364539
+          "Time": 362494
         },
         {
           "Defined": true,
@@ -642,7 +642,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 371381
+          "Time": 372462
         },
         {
           "Defined": true,
@@ -764,11 +764,29 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 421502
+          "Time": 421994
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 424258
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            true
+          ],
+          "StartsNewEpisode": false,
+          "Time": 427742
         },
         {
           "Defined": true,
@@ -777,25 +795,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 424259
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 427940
-        },
-        {
-          "Defined": true,
-          "FromStream": [
-            true,
-            false
-          ],
-          "StartsNewEpisode": false,
-          "Time": 431261
+          "Time": 430222
         },
         {
           "Defined": true,
@@ -1524,7 +1524,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 652131
+          "Time": 652231
         },
         {
           "Defined": true,
@@ -1695,7 +1695,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 705367
+          "Time": 705567
         },
         {
           "Defined": true,
@@ -2226,7 +2226,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 904662
+          "Time": 904862
         },
         {
           "Defined": true,
@@ -2639,9 +2639,20 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "LHPS\\Lecture23\\5",
     "Information": {
       "CreationTimeTicks": 635957191226060610,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635975857135161806
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT13M57.478S",
+          "Guid": "c81171bb-e9d9-4ebb-81a8-34fb6ac09728",
+          "Name": "Деконструкция науки",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635977877488064066
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "9A-43-3E-48-3E-D4-B8-24-2D-E5-83-C2-31-9A-97-32",
     "ReadyToEdit": false,
@@ -6409,17 +6420,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 8819
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 911664,
-    "currentSubtitle": null,
+    "currentPosition": 1033832,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2
   }
 }
