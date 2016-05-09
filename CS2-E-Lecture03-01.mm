@@ -5570,7 +5570,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-E-Lecture03-01.mm",
+    "DisplayedRawLocation": "CS2-E\\Lecture03\\01",
     "Information": {
       "CreationTimeTicks": 635957191226060610,
       "Episodes": [
@@ -5595,7 +5595,6 @@ FileContainer Tuto file Version 1
       ],
       "LastModificationTimeTicks": 635969777634455687
     },
-    "Patches": [],
     "PreparedChunks": [
       {},
       {},
@@ -9925,13 +9924,14 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
+    "SubtitleFixes": null,
     "SynchronizationShift": 7668
   },
   "Version": 1,
   "WindowState": {
-    "arrangeMode": 0,
     "currentMode": 1,
     "currentPosition": 886446,
+    "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
