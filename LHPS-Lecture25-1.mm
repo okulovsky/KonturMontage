@@ -309,7 +309,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 174784
+          "Time": 174984
         },
         {
           "Defined": true,
@@ -489,7 +489,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 258797
+          "Time": 258997
         },
         {
           "Defined": true,
@@ -812,7 +812,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 402435
         },
         {
@@ -1371,7 +1371,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 690476
+          "Time": 690676
         },
         {
           "Defined": true,
@@ -1664,8 +1664,8 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
           "Time": 793108
@@ -2132,11 +2132,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 993425
+          "Time": 993239
         },
         {
           "Defined": true,
@@ -2798,12 +2798,32 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "LHPS-Lecture25-1",
+    "DisplayedRawLocation": "LHPS\\Lecture25\\1",
     "Information": {
       "CreationTimeTicks": 635982175545466763,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635982651885857634
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT4M47.147S",
+          "Guid": "8a478f7d-f064-4f4e-a191-be2350e9d3e2",
+          "Name": "Пост-модерн как тенденция. Пост-модерн в России",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT14M57.713S",
+          "Guid": "9cbc5352-e9fa-47d8-b2d1-e2667f89f794",
+          "Name": "Пост-модерн и наука",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635985813885547009
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "5F-5E-41-88-33-37-64-62-BB-86-85-AB-27-A0-B3-45",
     "ReadyToEdit": false,
@@ -7147,17 +7167,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 13270
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 1338345,
-    "currentSubtitle": null,
+    "currentPosition": 1341008,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2.5
   }
 }

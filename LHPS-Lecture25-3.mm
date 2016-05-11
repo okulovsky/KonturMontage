@@ -687,7 +687,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 299732
+          "Time": 299932
         },
         {
           "Defined": true,
@@ -1200,7 +1200,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 577762
+          "Time": 577962
         },
         {
           "Defined": true,
@@ -1371,7 +1371,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 658224
+          "Time": 658424
         },
         {
           "Defined": true,
@@ -1407,7 +1407,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 676290
+          "Time": 676490
         },
         {
           "Defined": true,
@@ -1649,7 +1649,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 843452
         },
         {
@@ -1686,7 +1686,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 865284
+          "Time": 865484
         },
         {
           "Defined": true,
@@ -2082,7 +2082,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1082544
+          "Time": 1082644
         },
         {
           "Defined": true,
@@ -2316,7 +2316,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1202612
+          "Time": 1202312
         },
         {
           "Defined": true,
@@ -2325,7 +2325,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1206978
+          "Time": 1206578
         },
         {
           "Defined": true,
@@ -2672,12 +2672,32 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "LHPS-Lecture25-3",
+    "DisplayedRawLocation": "LHPS\\Lecture25\\3",
     "Information": {
       "CreationTimeTicks": 635982175545466763,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635983108968517993
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT12M18.531S",
+          "Guid": "17739ab2-3d15-491f-98d4-4dd57b0bd85e",
+          "Name": "Пост-модерн и кризис",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT7M19.846S",
+          "Guid": "7fb27189-bbc2-43bc-8463-4e890fa1d683",
+          "Name": "Преодоление пост-модерна",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635985825332531739
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "2E-C0-07-43-1C-8B-C1-12-CF-B5-98-C0-C6-2A-51-A1",
     "ReadyToEdit": false,
@@ -6961,17 +6981,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 9142
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 1336088,
-    "currentSubtitle": null,
+    "currentPosition": 1336089,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2.5
   }
 }

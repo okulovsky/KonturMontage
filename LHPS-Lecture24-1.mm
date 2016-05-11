@@ -498,7 +498,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": true,
-          "Time": 260878
+          "Time": 260678
         },
         {
           "Defined": true,
@@ -724,6 +724,24 @@ FileContainer Tuto file Version 1
           ],
           "StartsNewEpisode": false,
           "Time": 429181
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 432109
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 433509
         },
         {
           "Defined": true,
@@ -1416,7 +1434,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 743652
+          "Time": 743802
         },
         {
           "Defined": true,
@@ -1610,11 +1628,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 811403
+          "Time": 811906
         },
         {
           "Defined": true,
@@ -1623,7 +1641,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 816136
+          "Time": 815018
         },
         {
           "Defined": true,
@@ -1772,11 +1790,11 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
-            true,
-            false
+            false,
+            true
           ],
           "StartsNewEpisode": false,
-          "Time": 887898
+          "Time": 887798
         },
         {
           "Defined": true,
@@ -1785,7 +1803,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 893988
+          "Time": 891782
         },
         {
           "Defined": true,
@@ -1848,7 +1866,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 920271
+          "Time": 920471
         },
         {
           "Defined": true,
@@ -2451,7 +2469,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1194221
+          "Time": 1194321
         },
         {
           "Defined": true,
@@ -2667,7 +2685,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1306184
+          "Time": 1306384
         },
         {
           "Defined": true,
@@ -2901,7 +2919,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1412887
+          "Time": 1413087
         },
         {
           "Defined": true,
@@ -3041,12 +3059,32 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "LHPS-Lecture24-1",
+    "DisplayedRawLocation": "LHPS\\Lecture24\\1",
     "Information": {
       "CreationTimeTicks": 635982175545466763,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635982217136716492
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT3M2.678S",
+          "Guid": "7e671739-3b5b-41fa-945b-f0b4b0603d23",
+          "Name": "Дисклеймер",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT16M34.669S",
+          "Guid": "80637b7f-8bf2-48a9-81c3-388f1507cd33",
+          "Name": "Тотальная деконструкция",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635985799009306173
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "8A-16-A3-CA-23-F2-CC-FC-5D-2A-0C-A1-26-4B-66-41",
     "ReadyToEdit": false,
@@ -9526,17 +9564,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 5375
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 1465106,
-    "currentSubtitle": null,
+    "currentPosition": 1465125,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2
   }
 }

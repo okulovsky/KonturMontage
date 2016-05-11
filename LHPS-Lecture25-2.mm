@@ -264,7 +264,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 92944
+          "Time": 93144
         },
         {
           "Defined": true,
@@ -597,7 +597,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 217648
+          "Time": 218048
         },
         {
           "Defined": true,
@@ -872,11 +872,29 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 300402
+        },
+        {
+          "Defined": true,
+          "FromStream": [
             true,
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 302932
+          "Time": 306402
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 306402
         },
         {
           "Defined": true,
@@ -1754,6 +1772,15 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 765277
+        },
+        {
+          "Defined": true,
+          "FromStream": [
             true,
             false
           ],
@@ -1862,12 +1889,23 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "LHPS-Lecture25-2",
+    "DisplayedRawLocation": "LHPS\\Lecture25\\2",
     "Information": {
       "CreationTimeTicks": 635982175545466763,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635982698068945707
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT11M20.378S",
+          "Guid": "0ad9dd17-e15e-4089-a852-fa729402db7f",
+          "Name": "Мемообслуживание",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635985819784354402
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "C4-43-A4-84-90-B2-2D-AF-99-0D-A1-35-6A-6D-5B-2A",
     "ReadyToEdit": false,
@@ -3835,17 +3873,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 7490
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 784703,
-    "currentSubtitle": null,
+    "currentPosition": 726848,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2
   }
 }
