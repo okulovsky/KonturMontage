@@ -678,7 +678,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 435671
+          "Time": 435871
         },
         {
           "Defined": true,
@@ -795,7 +795,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 531502
+          "Time": 531702
         },
         {
           "Defined": true,
@@ -831,7 +831,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 548908
+          "Time": 549108
         },
         {
           "Defined": true,
@@ -939,7 +939,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 607872
+          "Time": 608272
         },
         {
           "Defined": true,
@@ -965,7 +965,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 660007
         },
         {
@@ -1403,11 +1403,29 @@ FileContainer Tuto file Version 1
         {
           "Defined": true,
           "FromStream": [
+            false,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 855670
+        },
+        {
+          "Defined": true,
+          "FromStream": [
             true,
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 858117
+          "Time": 858470
+        },
+        {
+          "Defined": true,
+          "FromStream": [
+            true,
+            false
+          ],
+          "StartsNewEpisode": false,
+          "Time": 858470
         },
         {
           "Defined": true,
@@ -1947,7 +1965,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1060458
+          "Time": 1060558
         },
         {
           "Defined": true,
@@ -2145,7 +2163,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1138015
+          "Time": 1138415
         },
         {
           "Defined": true,
@@ -2162,7 +2180,7 @@ FileContainer Tuto file Version 1
             true,
             false
           ],
-          "StartsNewEpisode": false,
+          "StartsNewEpisode": true,
           "Time": 1191646
         },
         {
@@ -3054,7 +3072,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 1581661
+          "Time": 1581861
         },
         {
           "Defined": true,
@@ -3449,9 +3467,38 @@ FileContainer Tuto file Version 1
     "DisplayedRawLocation": "LHPS\\Lecture24\\2",
     "Information": {
       "CreationTimeTicks": 635982175545466763,
-      "Episodes": [],
-      "LastModificationTimeTicks": 635982632855326100
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT7M42.853S",
+          "Guid": "7b4229f8-5d04-4b73-97c5-3166d0a02e90",
+          "Name": "От нарративов к эволюции",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT7M31.787S",
+          "Guid": "7b7a9932-bc9c-4c61-9e33-ac20a3fd5869",
+          "Name": "Коллажное мышление",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        },
+        {
+          "Dirty": false,
+          "Duration": "PT8M57.248S",
+          "Guid": "ef05e1df-ed0d-42ec-abfb-817cc4daabfd",
+          "Name": "Симулякры и спектакли",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
+      "LastModificationTimeTicks": 635985808324358928
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "AB-5A-E5-AA-32-40-8C-6C-8D-41-2B-AA-A9-CC-A7-72",
     "ReadyToEdit": false,
@@ -9775,17 +9822,16 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 6074
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 1623724,
-    "currentSubtitle": null,
+    "currentPosition": 716788,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2
   }
 }
