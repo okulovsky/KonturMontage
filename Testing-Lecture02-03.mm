@@ -23,6 +23,7 @@ FileContainer Tuto file Version 1
       "Episodes": [],
       "LastModificationTimeTicks": 635887314980944311
     },
+    "Patches": [],
     "PreparedChunks": null,
     "RawVideoHash": "AB-A2-A0-C7-5B-04-B0-F5-DB-9D-CC-71-E0-CB-34-57",
     "ReadyToEdit": false,
@@ -46,14 +47,13 @@ FileContainer Tuto file Version 1
         "Volume": 0
       }
     ],
-    "SubtitleFixes": [],
     "SynchronizationShift": 0
   },
   "Version": 1,
   "WindowState": {
+    "arrangeMode": 0,
     "currentMode": 0,
     "currentPosition": 0,
-    "currentSubtitle": null,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": true,
     "paused": true,
