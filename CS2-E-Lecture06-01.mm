@@ -1371,7 +1371,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 454803
+          "Time": 454603
         },
         {
           "Defined": true,
@@ -1506,7 +1506,7 @@ FileContainer Tuto file Version 1
             false
           ],
           "StartsNewEpisode": false,
-          "Time": 484742
+          "Time": 485542
         },
         {
           "Defined": true,
@@ -1561,7 +1561,7 @@ FileContainer Tuto file Version 1
           "YoutubeId": null
         }
       ],
-      "LastModificationTimeTicks": 635986968181908053
+      "LastModificationTimeTicks": 635993871182561482
     },
     "PreparedChunks": null,
     "RawVideoHash": "85-07-4B-1A-72-AD-95-2F-B3-50-5A-FB-B4-D7-51-E1",
@@ -4724,7 +4724,7 @@ FileContainer Tuto file Version 1
   "Version": 1,
   "WindowState": {
     "currentMode": 1,
-    "currentPosition": 484779,
+    "currentPosition": 485569,
     "currentSubtitle": null,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
