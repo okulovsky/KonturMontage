@@ -4947,7 +4947,7 @@ FileContainer Tuto file Version 1
   "WindowState": {
     "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 1654077,
+    "currentPosition": 1682801,
     "desktopVideoIsVisible": true,
     "faceVideoIsVisible": false,
     "paused": true,
