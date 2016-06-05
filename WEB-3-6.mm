@@ -1258,12 +1258,12 @@ FileContainer Tuto file Version 1
   },
   "Version": 1,
   "WindowState": {
-    "arrangeMode": 0,
+    "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 267106,
-    "desktopVideoIsVisible": true,
-    "faceVideoIsVisible": false,
-    "paused": false,
+    "currentPosition": 19168,
+    "desktopVideoIsVisible": false,
+    "faceVideoIsVisible": true,
+    "paused": true,
     "speedRatio": 1
   }
 }

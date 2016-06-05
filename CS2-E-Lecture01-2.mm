@@ -7609,7 +7609,7 @@ FileContainer Tuto file Version 1
   },
   "Version": 1,
   "WindowState": {
-    "arrangeMode": 0,
+    "arrangeMode": 3,
     "currentMode": 1,
     "currentPosition": 326881,
     "desktopVideoIsVisible": true,
