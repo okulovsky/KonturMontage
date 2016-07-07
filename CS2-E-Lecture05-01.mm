@@ -6317,7 +6317,7 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "CS2-E\\Lecture05\\01",
+    "DisplayedRawLocation": "CS2-E-Lecture05-01.mm",
     "Information": {
       "CreationTimeTicks": 635983428867439090,
       "Episodes": [

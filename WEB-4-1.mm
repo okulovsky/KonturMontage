@@ -1941,7 +1941,7 @@ FileContainer Tuto file Version 1
   "WindowState": {
     "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 386752,
+    "currentPosition": 386755,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
