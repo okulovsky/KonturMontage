@@ -539,10 +539,20 @@ FileContainer Tuto file Version 1
       ]
     },
     "CrossfadesEnabled": true,
-    "DisplayedRawLocation": "LHPS\\LHPS-Trailer",
+    "DisplayedRawLocation": "LHPS-Trailer",
     "Information": {
       "CreationTimeTicks": 636035394370070202,
-      "Episodes": [],
+      "Episodes": [
+        {
+          "Dirty": false,
+          "Duration": "PT3M30.2S",
+          "Guid": "249af3c5-d6bc-4b4f-acac-829520980fdd",
+          "Name": "LHPS Trailer",
+          "OutputType": 1,
+          "PatchModel": null,
+          "YoutubeId": null
+        }
+      ],
       "LastModificationTimeTicks": 636035398966016881
     },
     "Patches": [],
@@ -1307,10 +1317,10 @@ FileContainer Tuto file Version 1
   "WindowState": {
     "arrangeMode": 3,
     "currentMode": 1,
-    "currentPosition": 329648,
+    "currentPosition": 44172,
     "desktopVideoIsVisible": false,
     "faceVideoIsVisible": true,
     "paused": true,
-    "speedRatio": 1
+    "speedRatio": 2
   }
 }
